@@ -1,0 +1,24 @@
+[profile.dev]
+debug = true
+
+[profile.release]
+debug = true
+
+[package]
+name = "text-editor"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "main"
+path = "src/main.rs"
+
+[[bin]]
+name = "test"
+path = "src/test.rs"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+crossterm = "0.27"
+simple_logger = "4.3.3"
