@@ -1,0 +1,6816 @@
+get_rel_cursor: 0
+Cursor: [row: 0, column: 0]
+get_rel_cursor: 0
+get_cursor_from_index: 0 -> 0
+get_rel_cursor: 0
+Cursor: [row: 0, column: 0]
+get_rel_cursor: 0
+get_cursor_from_index: 0 -> 0
+get_rel_cursor: 0
+Cursor: [row: 0, column: 0]
+get_rel_cursor: 0
+get_cursor_from_index: 0 -> 0
+get_rel_cursor: 0
+Cursor: [row: 0, column: 0]
+get_rel_cursor: 0
+get_cursor_from_index: 0 -> 0
+get_rel_cursor: 0
+Cursor: [row: 0, column: 0]
+get_rel_cursor: 0
+get_cursor_from_index: 0 -> 0
+get_rel_cursor: 0
+Cursor: [row: 0, column: 0]
+get_rel_cursor: 0
+get_cursor_from_index: 0 -> 0
+get_rel_cursor: 0
+Cursor: [row: 0, column: 0]
+get_rel_cursor: 0
+get_cursor_from_index: 0 -> 0
+get_rel_cursor: 0
+Cursor: [row: 0, column: 0]
+get_rel_cursor: 0
+get_cursor_from_index: 0 -> 0
+get_rel_cursor: 0
+Cursor: [row: 0, column: 0]
+get_rel_cursor: 0
+get_cursor_from_index: 0 -> 0
+get_rel_cursor: 0
+Cursor: [row: 0, column: 0]
+get_rel_cursor: 0
+get_cursor_from_index: 0 -> 0
+get_rel_cursor: 0
+Cursor: [row: 0, column: 0]
+get_rel_cursor: 0
+get_cursor_from_index: 0 -> 0
+get_rel_cursor: 0
+Cursor: [row: 0, column: 0]
+get_rel_cursor: 0
+get_cursor_from_index: 0 -> 0
+get_rel_cursor: 0
+Cursor: [row: 0, column: 0]
+[BEFORE] cursor.row = 0, rows = 18, line_map = 11
+cursor incremented
+[AFTER] cursor.row = 1
+get_rel_cursor: 0
+Cursor: [row: 1, column: 0]
+[BEFORE] cursor.row = 1, rows = 18, line_map = 11
+cursor incremented
+[AFTER] cursor.row = 2
+get_rel_cursor: 0
+Cursor: [row: 2, column: 0]
+[BEFORE] cursor.row = 2, rows = 18, line_map = 11
+cursor incremented
+[AFTER] cursor.row = 3
+get_rel_cursor: 0
+Cursor: [row: 3, column: 0]
+[BEFORE] cursor.row = 3, rows = 18, line_map = 11
+cursor incremented
+[AFTER] cursor.row = 4
+get_rel_cursor: 0
+Cursor: [row: 4, column: 0]
+get_rel_cursor: 0
+Index: 364
+get_cursor_from_index: 365 -> 1
+get_rel_cursor: 1
+Cursor: [row: 4, column: 1]
+get_rel_cursor: 1
+Index: 365
+get_cursor_from_index: 366 -> 2
+get_rel_cursor: 2
+Cursor: [row: 4, column: 2]
+get_rel_cursor: 2
+Index: 366
+get_cursor_from_index: 367 -> 3
+get_rel_cursor: 3
+Cursor: [row: 4, column: 3]
+get_rel_cursor: 3
+Index: 367
+get_cursor_from_index: 368 -> 4
+get_rel_cursor: 4
+Cursor: [row: 4, column: 4]
+get_rel_cursor: 4
+Index: 368
+get_cursor_from_index: 369 -> 5
+get_rel_cursor: 5
+Cursor: [row: 4, column: 5]
+get_rel_cursor: 5
+Index: 369
+get_cursor_from_index: 370 -> 6
+get_rel_cursor: 6
+Cursor: [row: 4, column: 6]
+get_rel_cursor: 6
+Index: 370
+get_cursor_from_index: 371 -> 7
+get_rel_cursor: 7
+Cursor: [row: 4, column: 7]
+get_rel_cursor: 7
+Index: 371
+get_cursor_from_index: 372 -> 8
+get_rel_cursor: 8
+Cursor: [row: 4, column: 8]
+get_rel_cursor: 8
+Index: 372
+get_cursor_from_index: 373 -> 9
+get_rel_cursor: 9
+Cursor: [row: 4, column: 9]
+get_rel_cursor: 9
+Index: 373
+get_cursor_from_index: 374 -> 10
+get_rel_cursor: 10
+Cursor: [row: 4, column: 10]
+get_rel_cursor: 10
+Index: 374
+get_cursor_from_index: 375 -> 11
+get_rel_cursor: 11
+Cursor: [row: 4, column: 11]
+get_rel_cursor: 11
+Index: 375
+get_cursor_from_index: 376 -> 12
+get_rel_cursor: 12
+Cursor: [row: 4, column: 12]
+get_rel_cursor: 12
+Index: 376
+get_cursor_from_index: 377 -> 13
+get_rel_cursor: 13
+Cursor: [row: 4, column: 13]
+get_rel_cursor: 13
+Index: 377
+get_cursor_from_index: 378 -> 14
+get_rel_cursor: 14
+Cursor: [row: 4, column: 14]
+get_rel_cursor: 14
+Index: 378
+get_cursor_from_index: 379 -> 15
+get_rel_cursor: 15
+Cursor: [row: 4, column: 15]
+get_rel_cursor: 15
+Index: 379
+get_cursor_from_index: 380 -> 16
+get_rel_cursor: 16
+Cursor: [row: 4, column: 16]
+get_rel_cursor: 16
+Index: 380
+get_cursor_from_index: 381 -> 17
+get_rel_cursor: 17
+Cursor: [row: 4, column: 17]
+get_rel_cursor: 17
+Index: 381
+get_cursor_from_index: 382 -> 18
+get_rel_cursor: 18
+Cursor: [row: 4, column: 18]
+get_rel_cursor: 18
+Index: 382
+get_cursor_from_index: 383 -> 19
+get_rel_cursor: 19
+Cursor: [row: 4, column: 19]
+get_rel_cursor: 19
+Index: 383
+get_cursor_from_index: 384 -> 20
+get_rel_cursor: 20
+Cursor: [row: 4, column: 20]
+get_rel_cursor: 20
+Index: 384
+get_cursor_from_index: 385 -> 21
+get_rel_cursor: 21
+Cursor: [row: 4, column: 21]
+get_rel_cursor: 21
+Index: 385
+get_cursor_from_index: 386 -> 22
+get_rel_cursor: 22
+Cursor: [row: 4, column: 22]
+get_rel_cursor: 22
+Index: 386
+get_cursor_from_index: 387 -> 23
+get_rel_cursor: 23
+Cursor: [row: 4, column: 23]
+get_rel_cursor: 23
+Index: 387
+get_cursor_from_index: 388 -> 24
+get_rel_cursor: 24
+Cursor: [row: 4, column: 24]
+get_rel_cursor: 24
+Index: 388
+get_cursor_from_index: 389 -> 25
+get_rel_cursor: 25
+Cursor: [row: 4, column: 25]
+get_rel_cursor: 25
+Index: 389
+get_cursor_from_index: 390 -> 26
+get_rel_cursor: 26
+Cursor: [row: 4, column: 26]
+get_rel_cursor: 26
+Index: 390
+get_cursor_from_index: 391 -> 27
+get_rel_cursor: 27
+Cursor: [row: 4, column: 27]
+get_rel_cursor: 27
+Index: 391
+get_cursor_from_index: 392 -> 28
+get_rel_cursor: 28
+Cursor: [row: 4, column: 28]
+get_rel_cursor: 28
+Index: 392
+get_cursor_from_index: 393 -> 29
+get_rel_cursor: 29
+Cursor: [row: 4, column: 29]
+get_rel_cursor: 29
+Index: 393
+get_cursor_from_index: 394 -> 30
+get_rel_cursor: 30
+Cursor: [row: 4, column: 30]
+get_rel_cursor: 30
+Index: 394
+get_cursor_from_index: 395 -> 31
+get_rel_cursor: 31
+Cursor: [row: 4, column: 31]
+get_rel_cursor: 31
+Index: 395
+get_cursor_from_index: 396 -> 32
+get_rel_cursor: 32
+Cursor: [row: 4, column: 32]
+get_rel_cursor: 32
+Index: 396
+get_cursor_from_index: 397 -> 33
+get_rel_cursor: 33
+Cursor: [row: 4, column: 33]
+get_rel_cursor: 33
+Index: 397
+get_cursor_from_index: 398 -> 34
+get_rel_cursor: 34
+Cursor: [row: 4, column: 34]
+get_rel_cursor: 34
+Index: 398
+get_cursor_from_index: 399 -> 35
+get_rel_cursor: 35
+Cursor: [row: 4, column: 35]
+get_rel_cursor: 35
+Index: 399
+get_cursor_from_index: 400 -> 36
+get_rel_cursor: 36
+Cursor: [row: 4, column: 36]
+get_rel_cursor: 36
+Index: 400
+get_cursor_from_index: 401 -> 37
+get_rel_cursor: 37
+Cursor: [row: 4, column: 37]
+[BEFORE] cursor.row = 4, rows = 18, line_map = 11
+cursor incremented
+[AFTER] cursor.row = 5
+get_rel_cursor: 37
+Cursor: [row: 5, column: 37]
+get_rel_cursor: 37
+Index: 489
+get_cursor_from_index: 490 -> 38
+get_rel_cursor: 38
+Cursor: [row: 5, column: 38]
+[BEFORE] cursor.row = 5, rows = 18, line_map = 11
+cursor incremented
+[AFTER] cursor.row = 6
+get_rel_cursor: 38
+Cursor: [row: 6, column: 38]
+get_rel_cursor: 38
+Index: 575
+get_cursor_from_index: 574 -> 37
+get_rel_cursor: 37
+Cursor: [row: 6, column: 37]
+get_rel_cursor: 37
+Cursor: [row: 5, column: 37]
+get_rel_cursor: 37
+Index: 489
+get_cursor_from_index: 488 -> 36
+get_rel_cursor: 36
+Cursor: [row: 5, column: 36]
+get_rel_cursor: 36
+Index: 488
+get_cursor_from_index: 487 -> 35
+get_rel_cursor: 35
+Cursor: [row: 5, column: 35]
+get_rel_cursor: 35
+Index: 487
+get_cursor_from_index: 486 -> 34
+get_rel_cursor: 34
+Cursor: [row: 5, column: 34]
+get_rel_cursor: 34
+Index: 486
+get_cursor_from_index: 485 -> 33
+get_rel_cursor: 33
+Cursor: [row: 5, column: 33]
+get_rel_cursor: 33
+Index: 485
+get_cursor_from_index: 484 -> 32
+get_rel_cursor: 32
+Cursor: [row: 5, column: 32]
+get_rel_cursor: 32
+Index: 484
+get_cursor_from_index: 483 -> 31
+get_rel_cursor: 31
+Cursor: [row: 5, column: 31]
+get_rel_cursor: 31
+Index: 483
+get_cursor_from_index: 482 -> 30
+get_rel_cursor: 30
+Cursor: [row: 5, column: 30]
+get_rel_cursor: 30
+Index: 482
+get_cursor_from_index: 481 -> 29
+get_rel_cursor: 29
+Cursor: [row: 5, column: 29]
+get_rel_cursor: 29
+Index: 481
+get_cursor_from_index: 480 -> 28
+get_rel_cursor: 28
+Cursor: [row: 5, column: 28]
+get_rel_cursor: 28
+Index: 480
+get_cursor_from_index: 479 -> 27
+get_rel_cursor: 27
+Cursor: [row: 5, column: 27]
+get_rel_cursor: 27
+Index: 479
+get_cursor_from_index: 478 -> 26
+get_rel_cursor: 26
+Cursor: [row: 5, column: 26]
+get_rel_cursor: 26
+Index: 478
+get_cursor_from_index: 477 -> 25
+get_rel_cursor: 25
+Cursor: [row: 5, column: 25]
+get_rel_cursor: 25
+Index: 477
+get_cursor_from_index: 476 -> 24
+get_rel_cursor: 24
+Cursor: [row: 5, column: 24]
+get_rel_cursor: 24
+Index: 476
+get_cursor_from_index: 475 -> 23
+get_rel_cursor: 23
+Cursor: [row: 5, column: 23]
+get_rel_cursor: 23
+Index: 475
+get_cursor_from_index: 474 -> 22
+get_rel_cursor: 22
+Cursor: [row: 5, column: 22]
+get_rel_cursor: 22
+Index: 474
+get_cursor_from_index: 473 -> 21
+get_rel_cursor: 21
+Cursor: [row: 5, column: 21]
+get_rel_cursor: 21
+Index: 473
+get_cursor_from_index: 472 -> 20
+get_rel_cursor: 20
+Cursor: [row: 5, column: 20]
+get_rel_cursor: 20
+Index: 472
+get_cursor_from_index: 471 -> 19
+get_rel_cursor: 19
+Cursor: [row: 5, column: 19]
+get_rel_cursor: 19
+Index: 471
+get_cursor_from_index: 470 -> 18
+get_rel_cursor: 18
+Cursor: [row: 5, column: 18]
+get_rel_cursor: 18
+Index: 470
+get_cursor_from_index: 469 -> 17
+get_rel_cursor: 17
+Cursor: [row: 5, column: 17]
+get_rel_cursor: 17
+Index: 469
+get_cursor_from_index: 468 -> 16
+get_rel_cursor: 16
+Cursor: [row: 5, column: 16]
+get_rel_cursor: 16
+Index: 468
+get_cursor_from_index: 467 -> 15
+get_rel_cursor: 15
+Cursor: [row: 5, column: 15]
+get_rel_cursor: 15
+Index: 467
+get_cursor_from_index: 466 -> 14
+get_rel_cursor: 14
+Cursor: [row: 5, column: 14]
+get_rel_cursor: 14
+Index: 466
+get_cursor_from_index: 465 -> 13
+get_rel_cursor: 13
+Cursor: [row: 5, column: 13]
+get_rel_cursor: 13
+Index: 465
+get_cursor_from_index: 464 -> 12
+get_rel_cursor: 12
+Cursor: [row: 5, column: 12]
+get_rel_cursor: 12
+Index: 464
+get_cursor_from_index: 463 -> 11
+get_rel_cursor: 11
+Cursor: [row: 5, column: 11]
+get_rel_cursor: 11
+Index: 463
+get_cursor_from_index: 462 -> 10
+get_rel_cursor: 10
+Cursor: [row: 5, column: 10]
+get_rel_cursor: 10
+Index: 462
+get_cursor_from_index: 461 -> 9
+get_rel_cursor: 9
+Cursor: [row: 5, column: 9]
+get_rel_cursor: 9
+get_cursor_from_index: 462 -> 0
+get_rel_cursor: 0
+Cursor: [row: 6, column: 0]
+get_rel_cursor: 0
+get_cursor_from_index: 463 -> 0
+get_rel_cursor: 0
+Cursor: [row: 7, column: 0]
+[BEFORE] cursor.row = 7, rows = 18, line_map = 13
+cursor incremented
+[AFTER] cursor.row = 8
+get_rel_cursor: 0
+Cursor: [row: 8, column: 0]
+get_rel_cursor: 0
+Index: 555
+get_cursor_from_index: 556 -> 1
+get_rel_cursor: 1
+Cursor: [row: 8, column: 1]
+[BEFORE] cursor.row = 8, rows = 18, line_map = 13
+cursor incremented
+[AFTER] cursor.row = 9
+get_rel_cursor: 1
+Cursor: [row: 9, column: 1]
+get_rel_cursor: 1
+Index: 648
+get_cursor_from_index: 649 -> 2
+get_rel_cursor: 2
+Cursor: [row: 9, column: 2]
+get_rel_cursor: 2
+Index: 649
+get_cursor_from_index: 650 -> 3
+get_rel_cursor: 3
+Cursor: [row: 9, column: 3]
+[BEFORE] cursor.row = 9, rows = 18, line_map = 13
+cursor incremented
+[AFTER] cursor.row = 10
+get_rel_cursor: 3
+Cursor: [row: 10, column: 3]
+get_rel_cursor: 3
+Index: 740
+get_cursor_from_index: 739 -> 2
+get_rel_cursor: 2
+Cursor: [row: 10, column: 2]
+[BEFORE] cursor.row = 10, rows = 18, line_map = 13
+cursor incremented
+[AFTER] cursor.row = 11
+get_rel_cursor: 2
+Cursor: [row: 11, column: 2]
+get_rel_cursor: 2
+Index: 799
+get_cursor_from_index: 798 -> 1
+get_rel_cursor: 1
+Cursor: [row: 11, column: 1]
+get_rel_cursor: 1
+Index: 798
+get_cursor_from_index: 797 -> 0
+get_rel_cursor: 0
+Cursor: [row: 11, column: 0]
+get_rel_cursor: 0
+get_cursor_from_index: 798 -> 0
+get_rel_cursor: 0
+Cursor: [row: 12, column: 0]
+get_rel_cursor: 0
+get_cursor_from_index: 799 -> 0
+get_rel_cursor: 0
+Cursor: [row: 13, column: 0]
+get_rel_cursor: 0
+get_cursor_from_index: 798 -> 0
+get_rel_cursor: 0
+Cursor: [row: 12, column: 0]
+get_rel_cursor: 0
+get_cursor_from_index: 798 -> 0
+get_rel_cursor: 0
+Cursor: [row: 12, column: 0]
+get_rel_cursor: 0
+get_cursor_from_index: 798 -> 0
+get_rel_cursor: 0
+Cursor: [row: 12, column: 0]
+get_rel_cursor: 0
+get_cursor_from_index: 798 -> 0
+get_rel_cursor: 0
+Cursor: [row: 12, column: 0]
+get_rel_cursor: 0
+get_cursor_from_index: 798 -> 0
+get_rel_cursor: 0
+Cursor: [row: 12, column: 0]
+get_rel_cursor: 0
+get_cursor_from_index: 798 -> 0
+get_rel_cursor: 0
+Cursor: [row: 13, column: 0]
+get_rel_cursor: 0
+get_cursor_from_index: 798 -> 0
+get_rel_cursor: 0
+Cursor: [row: 14, column: 0]
+get_rel_cursor: 0
+get_cursor_from_index: 798 -> 0
+get_rel_cursor: 0
+Cursor: [row: 14, column: 0]
+get_rel_cursor: 0
+get_cursor_from_index: 798 -> 0
+get_rel_cursor: 0
+Cursor: [row: 16, column: 0]
+get_rel_cursor: 0
+get_cursor_from_index: 798 -> 0
+get_rel_cursor: 0
+Cursor: [row: 16, column: 0]
+get_rel_cursor: 0
+get_cursor_from_index: 798 -> 0
+get_rel_cursor: 0
+Cursor: [row: 16, column: 0]
+get_rel_cursor: 0
+get_cursor_from_index: 798 -> 0
+get_rel_cursor: 0
+Cursor: [row: 16, column: 0]
+get_rel_cursor: 0
+get_cursor_from_index: 798 -> 0
+get_rel_cursor: 0
+Cursor: [row: 17, column: 0]
+get_rel_cursor: 0
+get_cursor_from_index: 798 -> 0
+get_rel_cursor: 0
+Cursor: [row: 17, column: 0]
+get_rel_cursor: 0
+get_cursor_from_index: 798 -> 0
+get_rel_cursor: 0
+Cursor: [row: 17, column: 0]
+get_rel_cursor: 0
+get_cursor_from_index: 798 -> 0
+get_rel_cursor: 0
+Cursor: [row: 18, column: 0]
+get_rel_cursor: 0
+get_cursor_from_index: 798 -> 0
+get_rel_cursor: 0
+get_rel_cursor: 0
+get_cursor_from_index: 798 -> 0
+Cursor: [row: 19, column: 0]
+get_rel_cursor: 0
+get_cursor_from_index: 763 -> 0
+get_rel_cursor: 0
+Cursor: [row: 16, column: 0]
+get_rel_cursor: 0
+get_cursor_from_index: 763 -> 0
+get_rel_cursor: 0
+Cursor: [row: 16, column: 0]
+get_rel_cursor: 0
+get_cursor_from_index: 763 -> 36
+get_rel_cursor: 36
+Cursor: [row: 14, column: 36]
+get_rel_cursor: 36
+get_cursor_from_index: 763 -> 36
+get_rel_cursor: 36
+Cursor: [row: 14, column: 36]
+get_rel_cursor: 36
+get_cursor_from_index: 763 -> 36
+get_rel_cursor: 36
+Cursor: [row: 14, column: 36]
+[BEFORE] cursor.row = 14, rows = 18, line_map = 22
+cursor incremented
+[AFTER] cursor.row = 15
+get_rel_cursor: 18
+Cursor: [row: 15, column: 18]
+[BEFORE] cursor.row = 15, rows = 18, line_map = 22
+cursor incremented
+[AFTER] cursor.row = 16
+get_rel_cursor: 0
+Cursor: [row: 16, column: 0]
+[BEFORE] cursor.row = 16, rows = 18, line_map = 22
+cursor incremented
+[AFTER] cursor.row = 17
+get_rel_cursor: 36
+Cursor: [row: 17, column: 36]
+[BEFORE] cursor.row = 17, rows = 18, line_map = 22
+Line Offset incremented
+[AFTER] cursor.row = 17
+get_rel_cursor: 36
+Cursor: [row: 17, column: 36]
+[BEFORE] cursor.row = 17, rows = 18, line_map = 22
+Line Offset incremented
+[AFTER] cursor.row = 17
+get_rel_cursor: 36
+Cursor: [row: 17, column: 36]
+[BEFORE] cursor.row = 17, rows = 18, line_map = 22
+Line Offset incremented
+[AFTER] cursor.row = 17
+get_rel_cursor: 19
+Cursor: [row: 17, column: 19]
+[BEFORE] cursor.row = 17, rows = 18, line_map = 22
+[AFTER] cursor.row = 17
+get_rel_cursor: 19
+Cursor: [row: 17, column: 19]
+[BEFORE] cursor.row = 17, rows = 18, line_map = 22
+[AFTER] cursor.row = 17
+get_rel_cursor: 19
+Cursor: [row: 17, column: 19]
+[BEFORE] cursor.row = 17, rows = 18, line_map = 22
+[AFTER] cursor.row = 17
+get_rel_cursor: 19
+Cursor: [row: 17, column: 19]
+[BEFORE] cursor.row = 17, rows = 18, line_map = 22
+[AFTER] cursor.row = 17
+get_rel_cursor: 19
+Cursor: [row: 17, column: 19]
+get_rel_cursor: 19
+Index: 973
+get_cursor_from_index: 972 -> 18
+get_rel_cursor: 18
+Cursor: [row: 17, column: 18]
+get_rel_cursor: 18
+Cursor: [row: 16, column: 18]
+get_rel_cursor: 18
+Index: 916
+get_cursor_from_index: 915 -> 17
+get_rel_cursor: 17
+Cursor: [row: 16, column: 17]
+get_rel_cursor: 17
+Cursor: [row: 15, column: 17]
+get_rel_cursor: 17
+Index: 866
+get_cursor_from_index: 865 -> 16
+get_rel_cursor: 16
+Cursor: [row: 15, column: 16]
+get_rel_cursor: 16
+Index: 865
+get_cursor_from_index: 864 -> 15
+get_rel_cursor: 15
+Cursor: [row: 15, column: 15]
+get_rel_cursor: 15
+Index: 864
+get_cursor_from_index: 863 -> 14
+get_rel_cursor: 14
+Cursor: [row: 15, column: 14]
+get_rel_cursor: 14
+Index: 863
+get_cursor_from_index: 862 -> 13
+get_rel_cursor: 13
+Cursor: [row: 15, column: 13]
+get_rel_cursor: 13
+Index: 862
+get_cursor_from_index: 861 -> 12
+get_rel_cursor: 12
+Cursor: [row: 15, column: 12]
+get_rel_cursor: 12
+Index: 861
+get_cursor_from_index: 860 -> 11
+get_rel_cursor: 11
+Cursor: [row: 15, column: 11]
+get_rel_cursor: 11
+Index: 860
+get_cursor_from_index: 859 -> 10
+get_rel_cursor: 10
+Cursor: [row: 15, column: 10]
+get_rel_cursor: 10
+Index: 859
+get_cursor_from_index: 858 -> 9
+get_rel_cursor: 9
+Cursor: [row: 15, column: 9]
+get_rel_cursor: 9
+Index: 858
+get_cursor_from_index: 857 -> 8
+get_rel_cursor: 8
+Cursor: [row: 15, column: 8]
+get_rel_cursor: 8
+Index: 857
+get_cursor_from_index: 856 -> 7
+get_rel_cursor: 7
+Cursor: [row: 15, column: 7]
+get_rel_cursor: 7
+Index: 856
+get_cursor_from_index: 855 -> 6
+get_rel_cursor: 6
+Cursor: [row: 15, column: 6]
+get_rel_cursor: 6
+Index: 855
+get_cursor_from_index: 854 -> 5
+get_rel_cursor: 5
+Cursor: [row: 15, column: 5]
+get_rel_cursor: 5
+Index: 854
+get_cursor_from_index: 853 -> 4
+get_rel_cursor: 4
+Cursor: [row: 15, column: 4]
+get_rel_cursor: 4
+Index: 853
+get_cursor_from_index: 852 -> 3
+get_rel_cursor: 3
+Cursor: [row: 15, column: 3]
+get_rel_cursor: 3
+Index: 852
+get_cursor_from_index: 851 -> 2
+get_rel_cursor: 2
+Cursor: [row: 15, column: 2]
+get_rel_cursor: 2
+Index: 851
+get_cursor_from_index: 850 -> 1
+get_rel_cursor: 1
+Cursor: [row: 15, column: 1]
+get_rel_cursor: 1
+Index: 850
+get_cursor_from_index: 849 -> 0
+get_rel_cursor: 0
+Cursor: [row: 15, column: 0]
+get_rel_cursor: 0
+Index: 849
+get_cursor_from_index: 848 -> 50
+get_rel_cursor: 50
+Cursor: [row: 14, column: 50]
+get_rel_cursor: 50
+Index: 848
+get_cursor_from_index: 847 -> 49
+get_rel_cursor: 49
+Cursor: [row: 14, column: 49]
+get_rel_cursor: 49
+Index: 847
+get_cursor_from_index: 846 -> 48
+get_rel_cursor: 48
+Cursor: [row: 14, column: 48]
+get_rel_cursor: 48
+Index: 846
+get_cursor_from_index: 847 -> 49
+get_rel_cursor: 49
+Cursor: [row: 14, column: 49]
+[BEFORE] cursor.row = 14, rows = 18, line_map = 22
+cursor incremented
+[AFTER] cursor.row = 15
+get_rel_cursor: 49
+Cursor: [row: 15, column: 49]
+[BEFORE] cursor.row = 15, rows = 18, line_map = 22
+cursor incremented
+[AFTER] cursor.row = 16
+get_rel_cursor: 49
+Cursor: [row: 16, column: 49]
+[BEFORE] cursor.row = 16, rows = 18, line_map = 22
+cursor incremented
+[AFTER] cursor.row = 17
+get_rel_cursor: 19
+Cursor: [row: 17, column: 19]
+get_rel_cursor: 19
+get_cursor_from_index: 973 -> 19
+get_rel_cursor: 19
+Cursor: [row: 17, column: 19]
+get_rel_cursor: 19
+get_cursor_from_index: 973 -> 19
+get_rel_cursor: 19
+Cursor: [row: 18, column: 19]
+get_rel_cursor: 19
+get_cursor_from_index: 973 -> 58
+get_rel_cursor: 58
+Cursor: [row: 17, column: 58]
+get_rel_cursor: 58
+get_cursor_from_index: 973 -> 58
+get_rel_cursor: 58
+Cursor: [row: 17, column: 58]
+get_rel_cursor: 58
+get_cursor_from_index: 973 -> 54
+get_rel_cursor: 54
+Cursor: [row: 17, column: 54]
+get_rel_cursor: 54
+get_cursor_from_index: 973 -> 50
+get_rel_cursor: 50
+Cursor: [row: 18, column: 50]
+get_rel_cursor: 50
+get_cursor_from_index: 973 -> 50
+get_rel_cursor: 50
+Cursor: [row: 18, column: 50]
+get_rel_cursor: 50
+get_cursor_from_index: 973 -> 50
+get_rel_cursor: 50
+Cursor: [row: 18, column: 50]
+get_rel_cursor: 50
+get_cursor_from_index: 973 -> 50
+get_rel_cursor: 50
+Cursor: [row: 18, column: 50]
+get_rel_cursor: 50
+get_cursor_from_index: 973 -> 50
+get_rel_cursor: 50
+Cursor: [row: 18, column: 50]
+get_rel_cursor: 50
+get_cursor_from_index: 973 -> 41
+get_rel_cursor: 41
+Cursor: [row: 17, column: 41]
+get_rel_cursor: 41
+get_cursor_from_index: 973 -> 41
+get_rel_cursor: 41
+Cursor: [row: 17, column: 41]
+get_rel_cursor: 41
+get_cursor_from_index: 973 -> 36
+get_rel_cursor: 36
+Cursor: [row: 16, column: 36]
+get_rel_cursor: 36
+get_cursor_from_index: 973 -> 36
+get_rel_cursor: 36
+Cursor: [row: 16, column: 36]
+get_rel_cursor: 36
+get_cursor_from_index: 973 -> 36
+get_rel_cursor: 36
+Cursor: [row: 16, column: 36]
+get_rel_cursor: 36
+get_cursor_from_index: 973 -> 36
+get_rel_cursor: 36
+Cursor: [row: 16, column: 36]
+get_rel_cursor: 36
+get_cursor_from_index: 973 -> 31
+get_rel_cursor: 31
+Cursor: [row: 16, column: 31]
+get_rel_cursor: 31
+get_cursor_from_index: 973 -> 31
+get_rel_cursor: 31
+Cursor: [row: 16, column: 31]
+get_rel_cursor: 31
+get_cursor_from_index: 973 -> 31
+get_rel_cursor: 31
+Cursor: [row: 16, column: 31]
+get_rel_cursor: 31
+get_cursor_from_index: 973 -> 31
+get_rel_cursor: 31
+Cursor: [row: 16, column: 31]
+get_rel_cursor: 31
+get_cursor_from_index: 973 -> 19
+get_rel_cursor: 19
+Cursor: [row: 16, column: 19]
+get_rel_cursor: 19
+get_cursor_from_index: 973 -> 19
+get_rel_cursor: 19
+Cursor: [row: 15, column: 19]
+get_rel_cursor: 19
+get_cursor_from_index: 973 -> 19
+get_rel_cursor: 19
+Cursor: [row: 15, column: 19]
+get_rel_cursor: 19
+get_cursor_from_index: 973 -> 19
+get_rel_cursor: 19
+Cursor: [row: 15, column: 19]
+get_rel_cursor: 19
+get_cursor_from_index: 973 -> 19
+get_rel_cursor: 19
+Cursor: [row: 15, column: 19]
+get_rel_cursor: 19
+get_cursor_from_index: 973 -> 9
+get_rel_cursor: 9
+Cursor: [row: 15, column: 9]
+get_rel_cursor: 9
+get_cursor_from_index: 973 -> 9
+get_rel_cursor: 9
+Cursor: [row: 15, column: 9]
+get_rel_cursor: 9
+get_cursor_from_index: 973 -> 9
+get_rel_cursor: 9
+Cursor: [row: 14, column: 9]
+get_rel_cursor: 9
+get_cursor_from_index: 973 -> 9
+get_rel_cursor: 9
+Cursor: [row: 14, column: 9]
+get_rel_cursor: 9
+get_cursor_from_index: 973 -> 87
+get_rel_cursor: 87
+Cursor: [row: 13, column: 87]
+get_rel_cursor: 87
+get_cursor_from_index: 973 -> 87
+get_rel_cursor: 87
+Cursor: [row: 13, column: 87]
+get_rel_cursor: 87
+get_cursor_from_index: 973 -> 87
+get_rel_cursor: 87
+Cursor: [row: 13, column: 87]
+get_rel_cursor: 87
+get_cursor_from_index: 973 -> 84
+get_rel_cursor: 84
+Cursor: [row: 13, column: 84]
+get_rel_cursor: 84
+get_cursor_from_index: 973 -> 84
+get_rel_cursor: 84
+Cursor: [row: 13, column: 84]
+get_rel_cursor: 84
+get_cursor_from_index: 973 -> 84
+get_rel_cursor: 84
+Cursor: [row: 13, column: 84]
+get_rel_cursor: 84
+get_cursor_from_index: 973 -> 84
+get_rel_cursor: 84
+Cursor: [row: 13, column: 84]
+get_rel_cursor: 84
+get_cursor_from_index: 973 -> 84
+get_rel_cursor: 84
+Cursor: [row: 12, column: 84]
+get_rel_cursor: 84
+get_cursor_from_index: 973 -> 84
+get_rel_cursor: 84
+Cursor: [row: 12, column: 84]
+get_rel_cursor: 84
+get_cursor_from_index: 973 -> 84
+get_rel_cursor: 84
+Cursor: [row: 12, column: 84]
+get_rel_cursor: 84
+get_cursor_from_index: 973 -> 84
+get_rel_cursor: 84
+Cursor: [row: 12, column: 84]
+get_rel_cursor: 84
+get_cursor_from_index: 973 -> 84
+get_rel_cursor: 84
+Cursor: [row: 12, column: 84]
+get_rel_cursor: 84
+get_cursor_from_index: 973 -> 75
+get_rel_cursor: 75
+Cursor: [row: 12, column: 75]
+get_rel_cursor: 75
+get_cursor_from_index: 973 -> 75
+get_rel_cursor: 75
+Cursor: [row: 12, column: 75]
+get_rel_cursor: 75
+get_cursor_from_index: 973 -> 75
+get_rel_cursor: 75
+Cursor: [row: 12, column: 75]
+get_rel_cursor: 75
+get_cursor_from_index: 973 -> 75
+get_rel_cursor: 75
+Cursor: [row: 12, column: 75]
+get_rel_cursor: 75
+get_cursor_from_index: 973 -> 75
+get_rel_cursor: 75
+Cursor: [row: 12, column: 75]
+get_rel_cursor: 75
+get_cursor_from_index: 973 -> 75
+get_rel_cursor: 75
+Cursor: [row: 12, column: 75]
+get_rel_cursor: 75
+get_cursor_from_index: 973 -> 75
+get_rel_cursor: 75
+Cursor: [row: 12, column: 75]
+get_rel_cursor: 75
+get_cursor_from_index: 973 -> 75
+get_rel_cursor: 75
+Cursor: [row: 12, column: 75]
+get_rel_cursor: 75
+get_cursor_from_index: 973 -> 75
+get_rel_cursor: 75
+Cursor: [row: 12, column: 75]
+get_rel_cursor: 75
+get_cursor_from_index: 973 -> 75
+get_rel_cursor: 75
+Cursor: [row: 12, column: 75]
+get_rel_cursor: 75
+get_cursor_from_index: 973 -> 75
+get_rel_cursor: 75
+Cursor: [row: 12, column: 75]
+get_rel_cursor: 75
+get_cursor_from_index: 973 -> 75
+get_rel_cursor: 75
+Cursor: [row: 12, column: 75]
+get_rel_cursor: 75
+get_cursor_from_index: 973 -> 75
+get_rel_cursor: 75
+Cursor: [row: 12, column: 75]
+get_rel_cursor: 75
+get_cursor_from_index: 973 -> 75
+get_rel_cursor: 75
+Cursor: [row: 12, column: 75]
+get_rel_cursor: 75
+get_cursor_from_index: 973 -> 61
+get_rel_cursor: 61
+Cursor: [row: 12, column: 61]
+get_rel_cursor: 61
+get_cursor_from_index: 973 -> 75
+get_rel_cursor: 75
+Cursor: [row: 12, column: 75]
+get_rel_cursor: 75
+get_cursor_from_index: 973 -> 75
+get_rel_cursor: 75
+Cursor: [row: 12, column: 75]
+get_rel_cursor: 75
+get_cursor_from_index: 973 -> 75
+get_rel_cursor: 75
+Cursor: [row: 12, column: 75]
+get_rel_cursor: 75
+get_cursor_from_index: 973 -> 75
+get_rel_cursor: 75
+Cursor: [row: 12, column: 75]
+get_rel_cursor: 75
+get_cursor_from_index: 973 -> 75
+get_rel_cursor: 75
+Cursor: [row: 12, column: 75]
+get_rel_cursor: 75
+get_cursor_from_index: 973 -> 75
+get_rel_cursor: 75
+Cursor: [row: 12, column: 75]
+get_rel_cursor: 75
+get_cursor_from_index: 973 -> 84
+get_rel_cursor: 84
+Cursor: [row: 12, column: 84]
+get_rel_cursor: 84
+get_cursor_from_index: 973 -> 84
+get_rel_cursor: 84
+Cursor: [row: 13, column: 84]
+get_rel_cursor: 84
+get_cursor_from_index: 973 -> 84
+get_rel_cursor: 84
+Cursor: [row: 13, column: 84]
+get_rel_cursor: 84
+get_cursor_from_index: 973 -> 87
+get_rel_cursor: 87
+Cursor: [row: 13, column: 87]
+get_rel_cursor: 87
+get_cursor_from_index: 973 -> 87
+get_rel_cursor: 87
+Cursor: [row: 13, column: 87]
+get_rel_cursor: 87
+get_cursor_from_index: 973 -> 9
+get_rel_cursor: 9
+Cursor: [row: 14, column: 9]
+get_rel_cursor: 9
+get_cursor_from_index: 973 -> 9
+get_rel_cursor: 9
+Cursor: [row: 14, column: 9]
+get_rel_cursor: 9
+get_cursor_from_index: 973 -> 9
+get_rel_cursor: 9
+Cursor: [row: 15, column: 9]
+get_rel_cursor: 9
+get_cursor_from_index: 973 -> 9
+get_rel_cursor: 9
+Cursor: [row: 15, column: 9]
+get_rel_cursor: 9
+get_cursor_from_index: 973 -> 19
+get_rel_cursor: 19
+Cursor: [row: 15, column: 19]
+get_rel_cursor: 19
+get_cursor_from_index: 973 -> 19
+get_rel_cursor: 19
+Cursor: [row: 15, column: 19]
+get_rel_cursor: 19
+get_cursor_from_index: 973 -> 19
+get_rel_cursor: 19
+Cursor: [row: 15, column: 19]
+get_rel_cursor: 19
+get_cursor_from_index: 973 -> 19
+get_rel_cursor: 19
+Cursor: [row: 15, column: 19]
+get_rel_cursor: 19
+get_cursor_from_index: 973 -> 19
+get_rel_cursor: 19
+Cursor: [row: 16, column: 19]
+get_rel_cursor: 19
+get_cursor_from_index: 973 -> 31
+get_rel_cursor: 31
+Cursor: [row: 16, column: 31]
+get_rel_cursor: 31
+get_cursor_from_index: 973 -> 31
+get_rel_cursor: 31
+Cursor: [row: 16, column: 31]
+get_rel_cursor: 31
+get_cursor_from_index: 973 -> 31
+get_rel_cursor: 31
+Cursor: [row: 16, column: 31]
+get_rel_cursor: 31
+get_cursor_from_index: 973 -> 31
+get_rel_cursor: 31
+Cursor: [row: 16, column: 31]
+get_rel_cursor: 31
+get_cursor_from_index: 973 -> 31
+get_rel_cursor: 31
+Cursor: [row: 16, column: 31]
+get_rel_cursor: 31
+get_cursor_from_index: 973 -> 36
+get_rel_cursor: 36
+Cursor: [row: 16, column: 36]
+get_rel_cursor: 36
+get_cursor_from_index: 973 -> 36
+get_rel_cursor: 36
+Cursor: [row: 16, column: 36]
+get_rel_cursor: 36
+get_cursor_from_index: 973 -> 36
+get_rel_cursor: 36
+Cursor: [row: 16, column: 36]
+get_rel_cursor: 36
+get_cursor_from_index: 973 -> 36
+get_rel_cursor: 36
+Cursor: [row: 16, column: 36]
+get_rel_cursor: 36
+get_cursor_from_index: 973 -> 41
+get_rel_cursor: 41
+Cursor: [row: 17, column: 41]
+get_rel_cursor: 41
+get_cursor_from_index: 973 -> 41
+get_rel_cursor: 41
+Cursor: [row: 17, column: 41]
+get_rel_cursor: 41
+get_cursor_from_index: 973 -> 50
+get_rel_cursor: 50
+Cursor: [row: 18, column: 50]
+get_rel_cursor: 50
+get_cursor_from_index: 973 -> 50
+get_rel_cursor: 50
+Cursor: [row: 18, column: 50]
+get_rel_cursor: 50
+get_cursor_from_index: 973 -> 50
+get_rel_cursor: 50
+Cursor: [row: 18, column: 50]
+get_rel_cursor: 50
+get_cursor_from_index: 973 -> 50
+get_rel_cursor: 50
+Cursor: [row: 18, column: 50]
+get_rel_cursor: 50
+get_cursor_from_index: 973 -> 50
+get_rel_cursor: 50
+Cursor: [row: 18, column: 50]
+get_rel_cursor: 50
+get_cursor_from_index: 973 -> 54
+get_rel_cursor: 54
+get_rel_cursor: 54
+get_cursor_from_index: 973 -> 54
+Cursor: [row: 19, column: 54]
+get_rel_cursor: 54
+get_cursor_from_index: 852 -> 54
+get_rel_cursor: 54
+Cursor: [row: 16, column: 54]
+get_rel_cursor: 54
+get_cursor_from_index: 852 -> 54
+get_rel_cursor: 54
+Cursor: [row: 16, column: 54]
+get_rel_cursor: 54
+get_cursor_from_index: 852 -> 54
+get_rel_cursor: 54
+Cursor: [row: 16, column: 54]
+get_rel_cursor: 54
+get_cursor_from_index: 852 -> 3
+get_rel_cursor: 3
+Cursor: [row: 17, column: 3]
+get_rel_cursor: 3
+get_cursor_from_index: 852 -> 3
+get_rel_cursor: 3
+Cursor: [row: 18, column: 3]
+get_rel_cursor: 3
+get_cursor_from_index: 852 -> 3
+get_rel_cursor: 3
+Cursor: [row: 18, column: 3]
+get_rel_cursor: 3
+get_cursor_from_index: 852 -> 3
+get_rel_cursor: 3
+Cursor: [row: 18, column: 3]
+get_rel_cursor: 3
+get_cursor_from_index: 852 -> 3
+get_rel_cursor: 3
+Cursor: [row: 18, column: 3]
+get_rel_cursor: 3
+get_cursor_from_index: 852 -> 3
+get_rel_cursor: 3
+Cursor: [row: 18, column: 3]
+get_rel_cursor: 3
+get_cursor_from_index: 852 -> 54
+get_rel_cursor: 54
+Cursor: [row: 16, column: 54]
+get_rel_cursor: 54
+get_cursor_from_index: 852 -> 54
+get_rel_cursor: 54
+Cursor: [row: 15, column: 54]
+get_rel_cursor: 54
+get_cursor_from_index: 852 -> 54
+get_rel_cursor: 54
+Cursor: [row: 15, column: 54]
+get_rel_cursor: 54
+get_cursor_from_index: 852 -> 54
+get_rel_cursor: 54
+Cursor: [row: 15, column: 54]
+get_rel_cursor: 54
+get_cursor_from_index: 852 -> 54
+get_rel_cursor: 54
+Cursor: [row: 15, column: 54]
+get_rel_cursor: 54
+get_cursor_from_index: 852 -> 54
+get_rel_cursor: 54
+Cursor: [row: 15, column: 54]
+get_rel_cursor: 54
+get_cursor_from_index: 852 -> 54
+get_rel_cursor: 54
+Cursor: [row: 15, column: 54]
+get_rel_cursor: 54
+get_cursor_from_index: 852 -> 54
+get_rel_cursor: 54
+Cursor: [row: 15, column: 54]
+get_rel_cursor: 54
+get_cursor_from_index: 852 -> 54
+get_rel_cursor: 54
+Cursor: [row: 14, column: 54]
+get_rel_cursor: 54
+get_cursor_from_index: 852 -> 54
+get_rel_cursor: 54
+Cursor: [row: 14, column: 54]
+get_rel_cursor: 54
+get_cursor_from_index: 852 -> 54
+get_rel_cursor: 54
+Cursor: [row: 14, column: 54]
+get_rel_cursor: 54
+get_cursor_from_index: 852 -> 54
+get_rel_cursor: 54
+Cursor: [row: 14, column: 54]
+get_rel_cursor: 54
+get_cursor_from_index: 852 -> 54
+get_rel_cursor: 54
+Cursor: [row: 14, column: 54]
+get_rel_cursor: 54
+get_cursor_from_index: 852 -> 54
+get_rel_cursor: 54
+Cursor: [row: 14, column: 54]
+get_rel_cursor: 54
+get_cursor_from_index: 852 -> 54
+get_rel_cursor: 54
+Cursor: [row: 14, column: 54]
+get_rel_cursor: 54
+get_cursor_from_index: 852 -> 54
+get_rel_cursor: 54
+Cursor: [row: 14, column: 54]
+get_rel_cursor: 54
+get_cursor_from_index: 852 -> 54
+get_rel_cursor: 54
+Cursor: [row: 14, column: 54]
+get_rel_cursor: 54
+get_cursor_from_index: 852 -> 54
+get_rel_cursor: 54
+Cursor: [row: 14, column: 54]
+get_rel_cursor: 54
+get_cursor_from_index: 852 -> 54
+get_rel_cursor: 54
+Cursor: [row: 13, column: 54]
+get_rel_cursor: 54
+get_cursor_from_index: 852 -> 54
+get_rel_cursor: 54
+Cursor: [row: 13, column: 54]
+get_rel_cursor: 54
+get_cursor_from_index: 852 -> 54
+get_rel_cursor: 54
+Cursor: [row: 13, column: 54]
+get_rel_cursor: 54
+get_cursor_from_index: 852 -> 54
+get_rel_cursor: 54
+Cursor: [row: 13, column: 54]
+get_rel_cursor: 54
+get_cursor_from_index: 852 -> 54
+get_rel_cursor: 54
+Cursor: [row: 13, column: 54]
+get_rel_cursor: 54
+get_cursor_from_index: 852 -> 54
+get_rel_cursor: 54
+Cursor: [row: 13, column: 54]
+get_rel_cursor: 54
+get_cursor_from_index: 852 -> 54
+get_rel_cursor: 54
+Cursor: [row: 12, column: 54]
+get_rel_cursor: 54
+get_cursor_from_index: 852 -> 54
+get_rel_cursor: 54
+Cursor: [row: 12, column: 54]
+get_rel_cursor: 54
+get_cursor_from_index: 852 -> 54
+get_rel_cursor: 54
+Cursor: [row: 12, column: 54]
+get_rel_cursor: 54
+get_cursor_from_index: 852 -> 54
+get_rel_cursor: 54
+Cursor: [row: 12, column: 54]
+get_rel_cursor: 54
+get_cursor_from_index: 852 -> 54
+get_rel_cursor: 54
+Cursor: [row: 12, column: 54]
+get_rel_cursor: 54
+get_cursor_from_index: 852 -> 54
+get_rel_cursor: 54
+Cursor: [row: 12, column: 54]
+get_rel_cursor: 54
+get_cursor_from_index: 852 -> 54
+get_rel_cursor: 54
+Cursor: [row: 12, column: 54]
+get_rel_cursor: 54
+get_cursor_from_index: 852 -> 54
+get_rel_cursor: 54
+Cursor: [row: 12, column: 54]
+get_rel_cursor: 54
+get_cursor_from_index: 852 -> 54
+get_rel_cursor: 54
+Cursor: [row: 11, column: 54]
+get_rel_cursor: 54
+get_cursor_from_index: 852 -> 54
+get_rel_cursor: 54
+Cursor: [row: 11, column: 54]
+get_rel_cursor: 54
+get_cursor_from_index: 852 -> 54
+get_rel_cursor: 54
+Cursor: [row: 11, column: 54]
+get_rel_cursor: 54
+get_cursor_from_index: 852 -> 54
+get_rel_cursor: 54
+Cursor: [row: 11, column: 54]
+get_rel_cursor: 54
+get_cursor_from_index: 852 -> 54
+get_rel_cursor: 54
+Cursor: [row: 12, column: 54]
+get_rel_cursor: 54
+get_cursor_from_index: 852 -> 54
+get_rel_cursor: 54
+Cursor: [row: 12, column: 54]
+get_rel_cursor: 54
+get_cursor_from_index: 852 -> 54
+get_rel_cursor: 54
+Cursor: [row: 12, column: 54]
+get_rel_cursor: 54
+get_cursor_from_index: 852 -> 54
+get_rel_cursor: 54
+Cursor: [row: 13, column: 54]
+get_rel_cursor: 54
+get_cursor_from_index: 852 -> 54
+get_rel_cursor: 54
+Cursor: [row: 13, column: 54]
+get_rel_cursor: 54
+get_cursor_from_index: 852 -> 54
+get_rel_cursor: 54
+Cursor: [row: 13, column: 54]
+get_rel_cursor: 54
+get_cursor_from_index: 852 -> 54
+get_rel_cursor: 54
+Cursor: [row: 13, column: 54]
+get_rel_cursor: 54
+get_cursor_from_index: 852 -> 54
+get_rel_cursor: 54
+Cursor: [row: 13, column: 54]
+get_rel_cursor: 54
+get_cursor_from_index: 852 -> 54
+get_rel_cursor: 54
+Cursor: [row: 14, column: 54]
+get_rel_cursor: 54
+get_cursor_from_index: 852 -> 54
+get_rel_cursor: 54
+Cursor: [row: 14, column: 54]
+get_rel_cursor: 54
+get_cursor_from_index: 852 -> 54
+get_rel_cursor: 54
+Cursor: [row: 14, column: 54]
+get_rel_cursor: 54
+get_cursor_from_index: 852 -> 54
+get_rel_cursor: 54
+Cursor: [row: 14, column: 54]
+get_rel_cursor: 54
+get_cursor_from_index: 852 -> 54
+get_rel_cursor: 54
+Cursor: [row: 14, column: 54]
+get_rel_cursor: 54
+get_cursor_from_index: 852 -> 54
+get_rel_cursor: 54
+Cursor: [row: 14, column: 54]
+get_rel_cursor: 54
+get_cursor_from_index: 852 -> 54
+get_rel_cursor: 54
+Cursor: [row: 14, column: 54]
+get_rel_cursor: 54
+get_cursor_from_index: 852 -> 54
+get_rel_cursor: 54
+Cursor: [row: 14, column: 54]
+get_rel_cursor: 54
+get_cursor_from_index: 852 -> 54
+get_rel_cursor: 54
+get_rel_cursor: 54
+get_cursor_from_index: 852 -> 54
+Cursor: [row: 14, column: 54]
+get_rel_cursor: 50
+get_cursor_from_index: 796 -> 50
+get_rel_cursor: 50
+Cursor: [row: 11, column: 50]
+get_rel_cursor: 50
+get_cursor_from_index: 796 -> 50
+get_rel_cursor: 50
+Cursor: [row: 11, column: 50]
+get_rel_cursor: 50
+get_cursor_from_index: 796 -> 50
+get_rel_cursor: 50
+get_rel_cursor: 50
+get_cursor_from_index: 796 -> 50
+Cursor: [row: 11, column: 50]
+get_rel_cursor: 50
+get_cursor_from_index: 656 -> 50
+get_rel_cursor: 50
+Cursor: [row: 8, column: 50]
+get_rel_cursor: 50
+get_cursor_from_index: 656 -> 64
+get_rel_cursor: 64
+Cursor: [row: 8, column: 64]
+get_rel_cursor: 64
+get_cursor_from_index: 656 -> 0
+get_rel_cursor: 0
+Cursor: [row: 9, column: 0]
+get_rel_cursor: 0
+get_cursor_from_index: 656 -> 17
+get_rel_cursor: 17
+Cursor: [row: 10, column: 17]
+get_rel_cursor: 17
+get_cursor_from_index: 656 -> 17
+get_rel_cursor: 17
+get_rel_cursor: 17
+get_cursor_from_index: 656 -> 17
+Cursor: [row: 11, column: 17]
+get_rel_cursor: 17
+get_cursor_from_index: 541 -> 17
+get_rel_cursor: 17
+Cursor: [row: 8, column: 17]
+get_rel_cursor: 17
+get_cursor_from_index: 541 -> 20
+get_rel_cursor: 20
+Cursor: [row: 8, column: 20]
+get_rel_cursor: 20
+get_cursor_from_index: 541 -> 20
+get_rel_cursor: 20
+Cursor: [row: 8, column: 20]
+get_rel_cursor: 20
+get_cursor_from_index: 541 -> 20
+get_rel_cursor: 20
+Cursor: [row: 8, column: 20]
+get_rel_cursor: 20
+get_cursor_from_index: 541 -> 28
+get_rel_cursor: 28
+Cursor: [row: 8, column: 28]
+get_rel_cursor: 28
+get_cursor_from_index: 541 -> 28
+get_rel_cursor: 28
+Cursor: [row: 8, column: 28]
+get_rel_cursor: 28
+get_cursor_from_index: 541 -> 28
+get_rel_cursor: 28
+Cursor: [row: 8, column: 28]
+get_rel_cursor: 28
+get_cursor_from_index: 541 -> 28
+get_rel_cursor: 28
+Cursor: [row: 9, column: 28]
+get_rel_cursor: 28
+get_cursor_from_index: 541 -> 28
+get_rel_cursor: 28
+Cursor: [row: 9, column: 28]
+get_rel_cursor: 28
+Cursor: [row: 8, column: 28]
+[BEFORE] cursor.row = 8, rows = 10, line_map = 23
+cursor incremented
+[AFTER] cursor.row = 9
+get_rel_cursor: 28
+Cursor: [row: 9, column: 28]
+[BEFORE] cursor.row = 9, rows = 10, line_map = 23
+Line Offset incremented
+[AFTER] cursor.row = 9
+get_rel_cursor: 28
+Cursor: [row: 9, column: 28]
+[BEFORE] cursor.row = 9, rows = 10, line_map = 23
+Line Offset incremented
+[AFTER] cursor.row = 9
+get_rel_cursor: 28
+Cursor: [row: 9, column: 28]
+[BEFORE] cursor.row = 9, rows = 10, line_map = 23
+Line Offset incremented
+[AFTER] cursor.row = 9
+get_rel_cursor: 28
+Cursor: [row: 9, column: 28]
+[BEFORE] cursor.row = 9, rows = 10, line_map = 23
+Line Offset incremented
+[AFTER] cursor.row = 9
+get_rel_cursor: 28
+Cursor: [row: 9, column: 28]
+[BEFORE] cursor.row = 9, rows = 10, line_map = 23
+Line Offset incremented
+[AFTER] cursor.row = 9
+get_rel_cursor: 28
+Cursor: [row: 9, column: 28]
+[BEFORE] cursor.row = 9, rows = 10, line_map = 23
+Line Offset incremented
+[AFTER] cursor.row = 9
+get_rel_cursor: 0
+Cursor: [row: 9, column: 0]
+[BEFORE] cursor.row = 9, rows = 10, line_map = 23
+Line Offset incremented
+[AFTER] cursor.row = 9
+get_rel_cursor: 28
+Cursor: [row: 9, column: 28]
+[BEFORE] cursor.row = 9, rows = 10, line_map = 23
+Line Offset incremented
+[AFTER] cursor.row = 9
+get_rel_cursor: 28
+Cursor: [row: 9, column: 28]
+[BEFORE] cursor.row = 9, rows = 10, line_map = 23
+Line Offset incremented
+[AFTER] cursor.row = 9
+get_rel_cursor: 28
+Cursor: [row: 9, column: 28]
+[BEFORE] cursor.row = 9, rows = 10, line_map = 23
+Line Offset incremented
+[AFTER] cursor.row = 9
+get_rel_cursor: 28
+Cursor: [row: 9, column: 28]
+[BEFORE] cursor.row = 9, rows = 10, line_map = 23
+[AFTER] cursor.row = 9
+get_rel_cursor: 28
+Cursor: [row: 9, column: 28]
+[BEFORE] cursor.row = 9, rows = 10, line_map = 23
+[AFTER] cursor.row = 9
+get_rel_cursor: 28
+Cursor: [row: 9, column: 28]
+[BEFORE] cursor.row = 9, rows = 10, line_map = 23
+[AFTER] cursor.row = 9
+get_rel_cursor: 28
+Cursor: [row: 9, column: 28]
+[BEFORE] cursor.row = 9, rows = 10, line_map = 23
+[AFTER] cursor.row = 9
+get_rel_cursor: 28
+Cursor: [row: 9, column: 28]
+[BEFORE] cursor.row = 9, rows = 10, line_map = 23
+[AFTER] cursor.row = 9
+get_rel_cursor: 28
+Cursor: [row: 9, column: 28]
+[BEFORE] cursor.row = 9, rows = 10, line_map = 23
+[AFTER] cursor.row = 9
+get_rel_cursor: 28
+Cursor: [row: 9, column: 28]
+[BEFORE] cursor.row = 9, rows = 10, line_map = 23
+[AFTER] cursor.row = 9
+get_rel_cursor: 28
+Cursor: [row: 9, column: 28]
+[BEFORE] cursor.row = 9, rows = 10, line_map = 23
+[AFTER] cursor.row = 9
+get_rel_cursor: 28
+Cursor: [row: 9, column: 28]
+[BEFORE] cursor.row = 9, rows = 10, line_map = 23
+[AFTER] cursor.row = 9
+get_rel_cursor: 28
+Cursor: [row: 9, column: 28]
+[BEFORE] cursor.row = 9, rows = 10, line_map = 23
+[AFTER] cursor.row = 9
+get_rel_cursor: 28
+Cursor: [row: 9, column: 28]
+[BEFORE] cursor.row = 9, rows = 10, line_map = 23
+[AFTER] cursor.row = 9
+get_rel_cursor: 28
+Cursor: [row: 9, column: 28]
+[BEFORE] cursor.row = 9, rows = 10, line_map = 23
+[AFTER] cursor.row = 9
+get_rel_cursor: 28
+Cursor: [row: 9, column: 28]
+get_rel_cursor: 28
+get_cursor_from_index: 970 -> 19
+get_rel_cursor: 19
+Cursor: [row: 9, column: 19]
+get_rel_cursor: 19
+get_cursor_from_index: 970 -> 19
+get_rel_cursor: 19
+Cursor: [row: 10, column: 19]
+get_rel_cursor: 19
+get_cursor_from_index: 970 -> 19
+get_rel_cursor: 19
+Cursor: [row: 10, column: 19]
+get_rel_cursor: 19
+get_cursor_from_index: 970 -> 16
+get_rel_cursor: 16
+Cursor: [row: 10, column: 16]
+get_rel_cursor: 16
+get_cursor_from_index: 970 -> 16
+get_rel_cursor: 16
+Cursor: [row: 10, column: 16]
+get_rel_cursor: 16
+get_cursor_from_index: 970 -> 16
+get_rel_cursor: 16
+Cursor: [row: 9, column: 16]
+get_rel_cursor: 16
+get_cursor_from_index: 970 -> 55
+get_rel_cursor: 55
+Cursor: [row: 10, column: 55]
+get_rel_cursor: 55
+get_cursor_from_index: 970 -> 55
+get_rel_cursor: 55
+Cursor: [row: 10, column: 55]
+get_rel_cursor: 55
+get_cursor_from_index: 970 -> 55
+get_rel_cursor: 55
+Cursor: [row: 10, column: 55]
+get_rel_cursor: 55
+get_cursor_from_index: 970 -> 51
+get_rel_cursor: 51
+Cursor: [row: 10, column: 51]
+get_rel_cursor: 51
+get_cursor_from_index: 970 -> 47
+get_rel_cursor: 47
+Cursor: [row: 9, column: 47]
+get_rel_cursor: 47
+get_cursor_from_index: 970 -> 47
+get_rel_cursor: 47
+Cursor: [row: 9, column: 47]
+get_rel_cursor: 47
+get_cursor_from_index: 970 -> 47
+get_rel_cursor: 47
+Cursor: [row: 9, column: 47]
+get_rel_cursor: 47
+get_cursor_from_index: 970 -> 47
+get_rel_cursor: 47
+Cursor: [row: 9, column: 47]
+get_rel_cursor: 47
+get_cursor_from_index: 970 -> 47
+get_rel_cursor: 47
+Cursor: [row: 9, column: 47]
+get_rel_cursor: 47
+get_cursor_from_index: 970 -> 38
+get_rel_cursor: 38
+Cursor: [row: 10, column: 38]
+get_rel_cursor: 38
+get_cursor_from_index: 970 -> 38
+get_rel_cursor: 38
+Cursor: [row: 10, column: 38]
+get_rel_cursor: 38
+get_cursor_from_index: 970 -> 33
+get_rel_cursor: 33
+Cursor: [row: 9, column: 33]
+get_rel_cursor: 33
+get_cursor_from_index: 970 -> 33
+get_rel_cursor: 33
+Cursor: [row: 9, column: 33]
+get_rel_cursor: 33
+get_cursor_from_index: 970 -> 33
+get_rel_cursor: 33
+Cursor: [row: 9, column: 33]
+get_rel_cursor: 33
+get_cursor_from_index: 970 -> 28
+get_rel_cursor: 28
+Cursor: [row: 9, column: 28]
+get_rel_cursor: 28
+get_cursor_from_index: 970 -> 28
+get_rel_cursor: 28
+Cursor: [row: 9, column: 28]
+get_rel_cursor: 28
+get_cursor_from_index: 970 -> 28
+get_rel_cursor: 28
+Cursor: [row: 9, column: 28]
+get_rel_cursor: 28
+get_cursor_from_index: 970 -> 28
+get_rel_cursor: 28
+Cursor: [row: 9, column: 28]
+get_rel_cursor: 28
+get_cursor_from_index: 970 -> 16
+get_rel_cursor: 16
+Cursor: [row: 9, column: 16]
+get_rel_cursor: 16
+get_cursor_from_index: 970 -> 16
+get_rel_cursor: 16
+Cursor: [row: 10, column: 16]
+get_rel_cursor: 16
+get_cursor_from_index: 970 -> 16
+get_rel_cursor: 16
+Cursor: [row: 10, column: 16]
+get_rel_cursor: 16
+get_cursor_from_index: 970 -> 16
+get_rel_cursor: 16
+Cursor: [row: 10, column: 16]
+get_rel_cursor: 16
+get_cursor_from_index: 970 -> 6
+get_rel_cursor: 6
+Cursor: [row: 10, column: 6]
+get_rel_cursor: 6
+get_cursor_from_index: 970 -> 6
+get_rel_cursor: 6
+Cursor: [row: 9, column: 6]
+get_rel_cursor: 6
+get_cursor_from_index: 970 -> 6
+get_rel_cursor: 6
+Cursor: [row: 9, column: 6]
+get_rel_cursor: 6
+get_cursor_from_index: 970 -> 84
+get_rel_cursor: 84
+Cursor: [row: 10, column: 84]
+get_rel_cursor: 84
+get_cursor_from_index: 970 -> 84
+get_rel_cursor: 84
+Cursor: [row: 10, column: 84]
+get_rel_cursor: 84
+get_cursor_from_index: 970 -> 84
+get_rel_cursor: 84
+Cursor: [row: 10, column: 84]
+get_rel_cursor: 84
+get_cursor_from_index: 970 -> 81
+get_rel_cursor: 81
+Cursor: [row: 10, column: 81]
+get_rel_cursor: 81
+get_cursor_from_index: 970 -> 81
+get_rel_cursor: 81
+Cursor: [row: 10, column: 81]
+get_rel_cursor: 81
+get_cursor_from_index: 970 -> 81
+get_rel_cursor: 81
+Cursor: [row: 10, column: 81]
+get_rel_cursor: 81
+get_cursor_from_index: 970 -> 81
+get_rel_cursor: 81
+Cursor: [row: 9, column: 81]
+get_rel_cursor: 81
+get_cursor_from_index: 970 -> 81
+get_rel_cursor: 81
+Cursor: [row: 9, column: 81]
+get_rel_cursor: 81
+get_cursor_from_index: 970 -> 81
+get_rel_cursor: 81
+Cursor: [row: 9, column: 81]
+get_rel_cursor: 81
+get_cursor_from_index: 970 -> 81
+get_rel_cursor: 81
+Cursor: [row: 9, column: 81]
+get_rel_cursor: 81
+get_cursor_from_index: 970 -> 81
+get_rel_cursor: 81
+Cursor: [row: 9, column: 81]
+get_rel_cursor: 81
+get_cursor_from_index: 970 -> 72
+get_rel_cursor: 72
+Cursor: [row: 9, column: 72]
+get_rel_cursor: 72
+get_cursor_from_index: 970 -> 72
+get_rel_cursor: 72
+Cursor: [row: 9, column: 72]
+get_rel_cursor: 72
+get_cursor_from_index: 970 -> 72
+get_rel_cursor: 72
+Cursor: [row: 9, column: 72]
+get_rel_cursor: 72
+get_cursor_from_index: 970 -> 72
+get_rel_cursor: 72
+Cursor: [row: 9, column: 72]
+get_rel_cursor: 72
+get_cursor_from_index: 970 -> 72
+get_rel_cursor: 72
+Cursor: [row: 9, column: 72]
+get_rel_cursor: 72
+get_cursor_from_index: 970 -> 72
+get_rel_cursor: 72
+Cursor: [row: 9, column: 72]
+get_rel_cursor: 72
+get_cursor_from_index: 970 -> 72
+get_rel_cursor: 72
+Cursor: [row: 9, column: 72]
+get_rel_cursor: 72
+get_cursor_from_index: 970 -> 72
+get_rel_cursor: 72
+Cursor: [row: 9, column: 72]
+get_rel_cursor: 72
+get_cursor_from_index: 970 -> 72
+get_rel_cursor: 72
+Cursor: [row: 9, column: 72]
+get_rel_cursor: 72
+get_cursor_from_index: 970 -> 72
+get_rel_cursor: 72
+Cursor: [row: 9, column: 72]
+get_rel_cursor: 72
+get_cursor_from_index: 970 -> 72
+get_rel_cursor: 72
+Cursor: [row: 9, column: 72]
+get_rel_cursor: 72
+get_cursor_from_index: 970 -> 72
+get_rel_cursor: 72
+Cursor: [row: 9, column: 72]
+get_rel_cursor: 72
+get_cursor_from_index: 970 -> 72
+get_rel_cursor: 72
+Cursor: [row: 9, column: 72]
+get_rel_cursor: 72
+get_cursor_from_index: 970 -> 81
+get_rel_cursor: 81
+Cursor: [row: 9, column: 81]
+get_rel_cursor: 81
+get_cursor_from_index: 970 -> 84
+get_rel_cursor: 84
+Cursor: [row: 10, column: 84]
+get_rel_cursor: 84
+get_cursor_from_index: 970 -> 6
+get_rel_cursor: 6
+get_rel_cursor: 6
+get_cursor_from_index: 970 -> 6
+Cursor: [row: 12, column: 6]
+get_rel_cursor: 6
+get_cursor_from_index: 804 -> 6
+get_rel_cursor: 6
+Cursor: [row: 8, column: 6]
+get_rel_cursor: 6
+get_cursor_from_index: 804 -> 6
+get_rel_cursor: 6
+Cursor: [row: 9, column: 6]
+get_rel_cursor: 6
+get_cursor_from_index: 804 -> 6
+get_rel_cursor: 6
+Cursor: [row: 9, column: 6]
+get_rel_cursor: 6
+get_cursor_from_index: 804 -> 6
+get_rel_cursor: 6
+Cursor: [row: 9, column: 6]
+get_rel_cursor: 6
+get_cursor_from_index: 804 -> 6
+get_rel_cursor: 6
+Cursor: [row: 9, column: 6]
+get_rel_cursor: 6
+get_cursor_from_index: 804 -> 6
+get_rel_cursor: 6
+Cursor: [row: 9, column: 6]
+get_rel_cursor: 6
+get_cursor_from_index: 804 -> 6
+get_rel_cursor: 6
+Cursor: [row: 10, column: 6]
+get_rel_cursor: 6
+get_cursor_from_index: 804 -> 6
+get_rel_cursor: 6
+get_rel_cursor: 6
+get_cursor_from_index: 804 -> 6
+Cursor: [row: 11, column: 6]
+get_rel_cursor: 6
+get_cursor_from_index: 772 -> 9
+get_rel_cursor: 9
+Cursor: [row: 8, column: 9]
+get_rel_cursor: 9
+get_cursor_from_index: 772 -> 16
+get_rel_cursor: 16
+Cursor: [row: 8, column: 16]
+get_rel_cursor: 16
+get_cursor_from_index: 772 -> 16
+get_rel_cursor: 16
+Cursor: [row: 9, column: 16]
+get_rel_cursor: 16
+get_cursor_from_index: 772 -> 16
+get_rel_cursor: 16
+Cursor: [row: 9, column: 16]
+get_rel_cursor: 16
+get_cursor_from_index: 772 -> 26
+get_rel_cursor: 26
+Cursor: [row: 9, column: 26]
+get_rel_cursor: 26
+get_cursor_from_index: 772 -> 26
+get_rel_cursor: 26
+Cursor: [row: 9, column: 26]
+get_rel_cursor: 26
+get_cursor_from_index: 772 -> 45
+get_rel_cursor: 45
+Cursor: [row: 9, column: 45]
+get_rel_cursor: 45
+get_cursor_from_index: 772 -> 45
+get_rel_cursor: 45
+Cursor: [row: 9, column: 45]
+get_rel_cursor: 45
+get_cursor_from_index: 772 -> 45
+get_rel_cursor: 45
+Cursor: [row: 9, column: 45]
+get_rel_cursor: 45
+get_cursor_from_index: 772 -> 45
+get_rel_cursor: 45
+Cursor: [row: 9, column: 45]
+get_rel_cursor: 45
+get_cursor_from_index: 772 -> 9
+get_rel_cursor: 9
+get_rel_cursor: 9
+get_cursor_from_index: 772 -> 9
+Cursor: [row: 11, column: 9]
+get_rel_cursor: 9
+get_cursor_from_index: 671 -> 9
+get_rel_cursor: 9
+Cursor: [row: 8, column: 9]
+get_rel_cursor: 9
+get_cursor_from_index: 671 -> 9
+get_rel_cursor: 9
+Cursor: [row: 8, column: 9]
+[BEFORE] cursor.row = 8, rows = 10, line_map = 23
+cursor incremented
+[AFTER] cursor.row = 9
+get_rel_cursor: 9
+Cursor: [row: 9, column: 9]
+[BEFORE] cursor.row = 9, rows = 10, line_map = 23
+Line Offset incremented
+[AFTER] cursor.row = 9
+get_rel_cursor: 9
+Cursor: [row: 9, column: 9]
+[BEFORE] cursor.row = 9, rows = 10, line_map = 23
+Line Offset incremented
+[AFTER] cursor.row = 9
+get_rel_cursor: 0
+Cursor: [row: 9, column: 0]
+[BEFORE] cursor.row = 9, rows = 10, line_map = 23
+Line Offset incremented
+[AFTER] cursor.row = 9
+get_rel_cursor: 9
+Cursor: [row: 9, column: 9]
+[BEFORE] cursor.row = 9, rows = 10, line_map = 23
+Line Offset incremented
+[AFTER] cursor.row = 9
+get_rel_cursor: 9
+Cursor: [row: 9, column: 9]
+[BEFORE] cursor.row = 9, rows = 10, line_map = 23
+Line Offset incremented
+[AFTER] cursor.row = 9
+get_rel_cursor: 9
+Cursor: [row: 9, column: 9]
+[BEFORE] cursor.row = 9, rows = 10, line_map = 23
+Line Offset incremented
+[AFTER] cursor.row = 9
+get_rel_cursor: 9
+Cursor: [row: 9, column: 9]
+[BEFORE] cursor.row = 9, rows = 10, line_map = 23
+[AFTER] cursor.row = 9
+get_rel_cursor: 9
+Cursor: [row: 9, column: 9]
+[BEFORE] cursor.row = 9, rows = 10, line_map = 23
+[AFTER] cursor.row = 9
+get_rel_cursor: 9
+Cursor: [row: 9, column: 9]
+[BEFORE] cursor.row = 9, rows = 10, line_map = 23
+[AFTER] cursor.row = 9
+get_rel_cursor: 9
+Cursor: [row: 9, column: 9]
+[BEFORE] cursor.row = 9, rows = 10, line_map = 23
+[AFTER] cursor.row = 9
+get_rel_cursor: 9
+Cursor: [row: 9, column: 9]
+[BEFORE] cursor.row = 9, rows = 10, line_map = 23
+[AFTER] cursor.row = 9
+get_rel_cursor: 9
+Cursor: [row: 9, column: 9]
+[BEFORE] cursor.row = 9, rows = 10, line_map = 23
+[AFTER] cursor.row = 9
+get_rel_cursor: 9
+Cursor: [row: 9, column: 9]
+[BEFORE] cursor.row = 9, rows = 10, line_map = 23
+[AFTER] cursor.row = 9
+get_rel_cursor: 9
+Cursor: [row: 9, column: 9]
+[BEFORE] cursor.row = 9, rows = 10, line_map = 23
+[AFTER] cursor.row = 9
+get_rel_cursor: 9
+Cursor: [row: 9, column: 9]
+[BEFORE] cursor.row = 9, rows = 10, line_map = 23
+[AFTER] cursor.row = 9
+get_rel_cursor: 9
+Cursor: [row: 9, column: 9]
+[BEFORE] cursor.row = 9, rows = 10, line_map = 23
+[AFTER] cursor.row = 9
+get_rel_cursor: 9
+Cursor: [row: 9, column: 9]
+[BEFORE] cursor.row = 9, rows = 10, line_map = 23
+[AFTER] cursor.row = 9
+get_rel_cursor: 9
+Cursor: [row: 9, column: 9]
+[BEFORE] cursor.row = 9, rows = 10, line_map = 23
+[AFTER] cursor.row = 9
+get_rel_cursor: 9
+Cursor: [row: 9, column: 9]
+get_rel_cursor: 9
+get_cursor_from_index: 960 -> 9
+get_rel_cursor: 9
+Cursor: [row: 10, column: 9]
+get_rel_cursor: 9
+get_cursor_from_index: 960 -> 9
+get_rel_cursor: 9
+Cursor: [row: 10, column: 9]
+get_rel_cursor: 9
+get_cursor_from_index: 960 -> 6
+get_rel_cursor: 6
+Cursor: [row: 10, column: 6]
+get_rel_cursor: 6
+get_cursor_from_index: 960 -> 6
+get_rel_cursor: 6
+Cursor: [row: 10, column: 6]
+get_rel_cursor: 6
+get_cursor_from_index: 960 -> 45
+get_rel_cursor: 45
+Cursor: [row: 10, column: 45]
+get_rel_cursor: 45
+get_cursor_from_index: 960 -> 37
+get_rel_cursor: 37
+Cursor: [row: 9, column: 37]
+get_rel_cursor: 37
+get_cursor_from_index: 960 -> 37
+get_rel_cursor: 37
+Cursor: [row: 11, column: 37]
+get_rel_cursor: 37
+get_cursor_from_index: 960 -> 28
+get_rel_cursor: 28
+Cursor: [row: 10, column: 28]
+get_rel_cursor: 28
+get_cursor_from_index: 960 -> 23
+get_rel_cursor: 23
+Cursor: [row: 11, column: 23]
+get_rel_cursor: 23
+get_cursor_from_index: 960 -> 23
+get_rel_cursor: 23
+Cursor: [row: 11, column: 23]
+get_rel_cursor: 23
+get_cursor_from_index: 960 -> 18
+get_rel_cursor: 18
+Cursor: [row: 11, column: 18]
+get_rel_cursor: 18
+get_cursor_from_index: 960 -> 6
+get_rel_cursor: 6
+Cursor: [row: 10, column: 6]
+get_rel_cursor: 6
+get_cursor_from_index: 960 -> 78
+get_rel_cursor: 78
+Cursor: [row: 11, column: 78]
+get_rel_cursor: 78
+get_cursor_from_index: 960 -> 74
+get_rel_cursor: 74
+Cursor: [row: 12, column: 74]
+get_rel_cursor: 74
+get_cursor_from_index: 960 -> 71
+get_rel_cursor: 71
+Cursor: [row: 12, column: 71]
+get_rel_cursor: 71
+get_cursor_from_index: 960 -> 71
+get_rel_cursor: 71
+Cursor: [row: 12, column: 71]
+get_rel_cursor: 71
+get_cursor_from_index: 960 -> 71
+get_rel_cursor: 71
+Cursor: [row: 12, column: 71]
+get_rel_cursor: 71
+get_cursor_from_index: 960 -> 71
+get_rel_cursor: 71
+Cursor: [row: 12, column: 71]
+get_rel_cursor: 71
+get_cursor_from_index: 960 -> 62
+get_rel_cursor: 62
+Cursor: [row: 12, column: 62]
+get_rel_cursor: 62
+get_cursor_from_index: 960 -> 62
+get_rel_cursor: 62
+Cursor: [row: 12, column: 62]
+get_rel_cursor: 62
+get_cursor_from_index: 960 -> 62
+get_rel_cursor: 62
+Cursor: [row: 12, column: 62]
+get_rel_cursor: 62
+get_cursor_from_index: 960 -> 62
+get_rel_cursor: 62
+Cursor: [row: 12, column: 62]
+get_rel_cursor: 62
+get_cursor_from_index: 960 -> 62
+get_rel_cursor: 62
+Cursor: [row: 12, column: 62]
+get_rel_cursor: 62
+get_cursor_from_index: 960 -> 62
+get_rel_cursor: 62
+Cursor: [row: 12, column: 62]
+get_rel_cursor: 62
+get_cursor_from_index: 960 -> 62
+get_rel_cursor: 62
+Cursor: [row: 12, column: 62]
+get_rel_cursor: 62
+get_cursor_from_index: 960 -> 62
+get_rel_cursor: 62
+Cursor: [row: 12, column: 62]
+get_rel_cursor: 62
+get_cursor_from_index: 960 -> 62
+get_rel_cursor: 62
+Cursor: [row: 12, column: 62]
+get_rel_cursor: 62
+get_cursor_from_index: 960 -> 62
+get_rel_cursor: 62
+Cursor: [row: 12, column: 62]
+get_rel_cursor: 62
+get_cursor_from_index: 960 -> 62
+get_rel_cursor: 62
+Cursor: [row: 12, column: 62]
+get_rel_cursor: 62
+get_cursor_from_index: 960 -> 48
+get_rel_cursor: 48
+Cursor: [row: 12, column: 48]
+get_rel_cursor: 48
+get_cursor_from_index: 960 -> 48
+get_rel_cursor: 48
+Cursor: [row: 11, column: 48]
+get_rel_cursor: 48
+get_cursor_from_index: 960 -> 48
+get_rel_cursor: 48
+Cursor: [row: 10, column: 48]
+get_rel_cursor: 48
+get_cursor_from_index: 960 -> 45
+get_rel_cursor: 45
+Cursor: [row: 10, column: 45]
+get_rel_cursor: 45
+get_cursor_from_index: 960 -> 45
+get_rel_cursor: 45
+Cursor: [row: 10, column: 45]
+get_rel_cursor: 45
+get_cursor_from_index: 960 -> 45
+get_rel_cursor: 45
+Cursor: [row: 10, column: 45]
+get_rel_cursor: 45
+get_cursor_from_index: 960 -> 45
+get_rel_cursor: 45
+Cursor: [row: 10, column: 45]
+get_rel_cursor: 45
+get_cursor_from_index: 960 -> 45
+get_rel_cursor: 45
+Cursor: [row: 10, column: 45]
+get_rel_cursor: 45
+get_cursor_from_index: 960 -> 41
+get_rel_cursor: 41
+Cursor: [row: 10, column: 41]
+get_rel_cursor: 41
+get_cursor_from_index: 960 -> 41
+get_rel_cursor: 41
+Cursor: [row: 10, column: 41]
+get_rel_cursor: 41
+get_cursor_from_index: 960 -> 41
+get_rel_cursor: 41
+Cursor: [row: 10, column: 41]
+get_rel_cursor: 41
+get_cursor_from_index: 960 -> 37
+get_rel_cursor: 37
+Cursor: [row: 10, column: 37]
+get_rel_cursor: 37
+get_cursor_from_index: 960 -> 37
+get_rel_cursor: 37
+Cursor: [row: 10, column: 37]
+get_rel_cursor: 37
+get_cursor_from_index: 960 -> 37
+get_rel_cursor: 37
+Cursor: [row: 10, column: 37]
+get_rel_cursor: 37
+get_cursor_from_index: 960 -> 37
+get_rel_cursor: 37
+Cursor: [row: 10, column: 37]
+get_rel_cursor: 37
+get_cursor_from_index: 960 -> 37
+get_rel_cursor: 37
+Cursor: [row: 10, column: 37]
+get_rel_cursor: 37
+get_cursor_from_index: 960 -> 37
+get_rel_cursor: 37
+Cursor: [row: 10, column: 37]
+get_rel_cursor: 37
+get_cursor_from_index: 960 -> 37
+get_rel_cursor: 37
+Cursor: [row: 10, column: 37]
+get_rel_cursor: 37
+get_cursor_from_index: 960 -> 37
+get_rel_cursor: 37
+Cursor: [row: 10, column: 37]
+get_rel_cursor: 37
+get_cursor_from_index: 960 -> 37
+get_rel_cursor: 37
+Cursor: [row: 10, column: 37]
+get_rel_cursor: 37
+get_cursor_from_index: 960 -> 37
+get_rel_cursor: 37
+Cursor: [row: 10, column: 37]
+get_rel_cursor: 37
+get_cursor_from_index: 960 -> 37
+get_rel_cursor: 37
+Cursor: [row: 10, column: 37]
+get_rel_cursor: 37
+get_cursor_from_index: 960 -> 37
+get_rel_cursor: 37
+Cursor: [row: 10, column: 37]
+get_rel_cursor: 37
+get_cursor_from_index: 960 -> 37
+get_rel_cursor: 37
+Cursor: [row: 10, column: 37]
+get_rel_cursor: 37
+get_cursor_from_index: 960 -> 45
+get_rel_cursor: 45
+Cursor: [row: 10, column: 45]
+get_rel_cursor: 45
+get_cursor_from_index: 960 -> 48
+get_rel_cursor: 48
+Cursor: [row: 10, column: 48]
+get_rel_cursor: 48
+get_cursor_from_index: 960 -> 62
+get_rel_cursor: 62
+Cursor: [row: 12, column: 62]
+get_rel_cursor: 62
+get_cursor_from_index: 960 -> 62
+get_rel_cursor: 62
+Cursor: [row: 12, column: 62]
+get_rel_cursor: 62
+get_cursor_from_index: 960 -> 62
+get_rel_cursor: 62
+Cursor: [row: 12, column: 62]
+get_rel_cursor: 62
+get_cursor_from_index: 960 -> 62
+get_rel_cursor: 62
+Cursor: [row: 12, column: 62]
+get_rel_cursor: 62
+get_cursor_from_index: 960 -> 62
+get_rel_cursor: 62
+Cursor: [row: 12, column: 62]
+get_rel_cursor: 62
+get_cursor_from_index: 960 -> 62
+get_rel_cursor: 62
+Cursor: [row: 12, column: 62]
+get_rel_cursor: 62
+get_cursor_from_index: 960 -> 71
+get_rel_cursor: 71
+Cursor: [row: 12, column: 71]
+get_rel_cursor: 71
+get_cursor_from_index: 960 -> 71
+get_rel_cursor: 71
+Cursor: [row: 13, column: 71]
+get_rel_cursor: 71
+get_cursor_from_index: 960 -> 74
+get_rel_cursor: 74
+Cursor: [row: 13, column: 74]
+get_rel_cursor: 74
+get_cursor_from_index: 960 -> 78
+get_rel_cursor: 78
+Cursor: [row: 13, column: 78]
+get_rel_cursor: 78
+get_cursor_from_index: 960 -> 78
+get_rel_cursor: 78
+Cursor: [row: 14, column: 78]
+get_rel_cursor: 78
+get_cursor_from_index: 960 -> 78
+get_rel_cursor: 78
+Cursor: [row: 14, column: 78]
+get_rel_cursor: 78
+get_cursor_from_index: 960 -> 6
+get_rel_cursor: 6
+Cursor: [row: 15, column: 6]
+get_rel_cursor: 6
+get_cursor_from_index: 960 -> 6
+get_rel_cursor: 6
+Cursor: [row: 15, column: 6]
+get_rel_cursor: 6
+get_cursor_from_index: 960 -> 6
+get_rel_cursor: 6
+Cursor: [row: 16, column: 6]
+get_rel_cursor: 6
+get_cursor_from_index: 960 -> 18
+get_rel_cursor: 18
+get_rel_cursor: 18
+get_cursor_from_index: 960 -> 18
+Cursor: [row: 16, column: 18]
+get_rel_cursor: 18
+get_cursor_from_index: 816 -> 18
+get_rel_cursor: 18
+Cursor: [row: 13, column: 18]
+get_rel_cursor: 18
+get_cursor_from_index: 816 -> 18
+get_rel_cursor: 18
+Cursor: [row: 13, column: 18]
+get_rel_cursor: 18
+get_cursor_from_index: 816 -> 18
+get_rel_cursor: 18
+Cursor: [row: 13, column: 18]
+get_rel_cursor: 18
+get_cursor_from_index: 816 -> 18
+get_rel_cursor: 18
+Cursor: [row: 13, column: 18]
+get_rel_cursor: 18
+get_cursor_from_index: 816 -> 18
+get_rel_cursor: 18
+Cursor: [row: 13, column: 18]
+get_rel_cursor: 18
+get_cursor_from_index: 816 -> 18
+get_rel_cursor: 18
+Cursor: [row: 14, column: 18]
+get_rel_cursor: 18
+get_cursor_from_index: 816 -> 18
+get_rel_cursor: 18
+Cursor: [row: 14, column: 18]
+get_rel_cursor: 18
+get_cursor_from_index: 816 -> 18
+get_rel_cursor: 18
+Cursor: [row: 15, column: 18]
+get_rel_cursor: 18
+get_cursor_from_index: 816 -> 18
+get_rel_cursor: 18
+Cursor: [row: 15, column: 18]
+get_rel_cursor: 18
+get_cursor_from_index: 816 -> 18
+get_rel_cursor: 18
+Cursor: [row: 15, column: 18]
+get_rel_cursor: 18
+get_cursor_from_index: 816 -> 18
+get_rel_cursor: 18
+Cursor: [row: 15, column: 18]
+get_rel_cursor: 18
+get_cursor_from_index: 816 -> 18
+get_rel_cursor: 18
+Cursor: [row: 15, column: 18]
+get_rel_cursor: 18
+get_cursor_from_index: 816 -> 18
+get_rel_cursor: 18
+get_rel_cursor: 18
+get_cursor_from_index: 816 -> 18
+Cursor: [row: 16, column: 18]
+get_rel_cursor: 18
+get_cursor_from_index: 774 -> 28
+get_rel_cursor: 28
+Cursor: [row: 13, column: 28]
+get_rel_cursor: 28
+get_cursor_from_index: 774 -> 47
+get_rel_cursor: 47
+Cursor: [row: 13, column: 47]
+get_rel_cursor: 47
+get_cursor_from_index: 774 -> 47
+get_rel_cursor: 47
+Cursor: [row: 13, column: 47]
+get_rel_cursor: 47
+get_cursor_from_index: 774 -> 11
+get_rel_cursor: 11
+get_rel_cursor: 11
+get_cursor_from_index: 774 -> 11
+Cursor: [row: 15, column: 11]
+get_rel_cursor: 11
+get_cursor_from_index: 673 -> 11
+get_rel_cursor: 11
+Cursor: [row: 12, column: 11]
+get_rel_cursor: 11
+get_cursor_from_index: 673 -> 11
+get_rel_cursor: 11
+Cursor: [row: 12, column: 11]
+get_rel_cursor: 11
+get_cursor_from_index: 673 -> 17
+get_rel_cursor: 17
+Cursor: [row: 13, column: 17]
+get_rel_cursor: 17
+get_cursor_from_index: 673 -> 17
+get_rel_cursor: 17
+Cursor: [row: 13, column: 17]
+get_rel_cursor: 17
+get_cursor_from_index: 673 -> 22
+get_rel_cursor: 22
+Cursor: [row: 13, column: 22]
+get_rel_cursor: 22
+get_cursor_from_index: 673 -> 22
+get_rel_cursor: 22
+get_rel_cursor: 22
+get_cursor_from_index: 673 -> 22
+Cursor: [row: 13, column: 22]
+get_rel_cursor: 22
+get_cursor_from_index: 580 -> 22
+get_rel_cursor: 22
+Cursor: [row: 10, column: 22]
+get_rel_cursor: 22
+get_cursor_from_index: 580 -> 22
+get_rel_cursor: 22
+Cursor: [row: 10, column: 22]
+get_rel_cursor: 22
+get_cursor_from_index: 580 -> 25
+get_rel_cursor: 25
+Cursor: [row: 10, column: 25]
+get_rel_cursor: 25
+get_cursor_from_index: 580 -> 33
+get_rel_cursor: 33
+Cursor: [row: 10, column: 33]
+get_rel_cursor: 33
+get_cursor_from_index: 580 -> 33
+get_rel_cursor: 33
+Cursor: [row: 10, column: 33]
+get_rel_cursor: 33
+get_cursor_from_index: 580 -> 1
+get_rel_cursor: 1
+get_rel_cursor: 1
+get_cursor_from_index: 580 -> 1
+Cursor: [row: 12, column: 1]
+get_rel_cursor: 1
+get_cursor_from_index: 503 -> 1
+get_rel_cursor: 1
+Cursor: [row: 9, column: 1]
+get_rel_cursor: 1
+get_cursor_from_index: 503 -> 1
+get_rel_cursor: 1
+Cursor: [row: 9, column: 1]
+get_rel_cursor: 1
+get_cursor_from_index: 503 -> 1
+get_rel_cursor: 1
+Cursor: [row: 9, column: 1]
+get_rel_cursor: 1
+get_cursor_from_index: 503 -> 1
+get_rel_cursor: 1
+Cursor: [row: 10, column: 1]
+get_rel_cursor: 1
+get_cursor_from_index: 503 -> 1
+get_rel_cursor: 1
+Cursor: [row: 10, column: 1]
+get_rel_cursor: 1
+get_cursor_from_index: 503 -> 1
+get_rel_cursor: 1
+get_rel_cursor: 1
+get_cursor_from_index: 503 -> 1
+Cursor: [row: 10, column: 1]
+get_rel_cursor: 0
+get_cursor_from_index: 462 -> 0
+get_rel_cursor: 0
+Cursor: [row: 7, column: 0]
+get_rel_cursor: 0
+get_cursor_from_index: 462 -> 0
+get_rel_cursor: 0
+Cursor: [row: 7, column: 0]
+get_rel_cursor: 0
+get_cursor_from_index: 462 -> 0
+get_rel_cursor: 0
+get_rel_cursor: 0
+get_cursor_from_index: 462 -> 0
+Cursor: [row: 7, column: 0]
+[BEFORE] cursor.row = 4, rows = 6, line_map = 29
+cursor incremented
+[AFTER] cursor.row = 5
+get_rel_cursor: 0
+Cursor: [row: 5, column: 0]
+[BEFORE] cursor.row = 5, rows = 6, line_map = 29
+Line Offset incremented
+[AFTER] cursor.row = 5
+get_rel_cursor: 0
+Cursor: [row: 5, column: 0]
+[BEFORE] cursor.row = 5, rows = 6, line_map = 29
+Line Offset incremented
+[AFTER] cursor.row = 5
+get_rel_cursor: 0
+Cursor: [row: 5, column: 0]
+[BEFORE] cursor.row = 5, rows = 6, line_map = 29
+Line Offset incremented
+[AFTER] cursor.row = 5
+get_rel_cursor: 0
+Cursor: [row: 5, column: 0]
+[BEFORE] cursor.row = 5, rows = 6, line_map = 29
+Line Offset incremented
+[AFTER] cursor.row = 5
+get_rel_cursor: 0
+Cursor: [row: 5, column: 0]
+[BEFORE] cursor.row = 5, rows = 6, line_map = 29
+Line Offset incremented
+[AFTER] cursor.row = 5
+get_rel_cursor: 0
+Cursor: [row: 5, column: 0]
+[BEFORE] cursor.row = 5, rows = 6, line_map = 29
+Line Offset incremented
+[AFTER] cursor.row = 5
+get_rel_cursor: 0
+Cursor: [row: 5, column: 0]
+[BEFORE] cursor.row = 5, rows = 6, line_map = 29
+Line Offset incremented
+[AFTER] cursor.row = 5
+get_rel_cursor: 0
+Cursor: [row: 5, column: 0]
+[BEFORE] cursor.row = 5, rows = 6, line_map = 29
+Line Offset incremented
+[AFTER] cursor.row = 5
+get_rel_cursor: 0
+Cursor: [row: 5, column: 0]
+[BEFORE] cursor.row = 5, rows = 6, line_map = 29
+Line Offset incremented
+[AFTER] cursor.row = 5
+get_rel_cursor: 0
+Cursor: [row: 5, column: 0]
+[BEFORE] cursor.row = 5, rows = 6, line_map = 29
+Line Offset incremented
+[AFTER] cursor.row = 5
+get_rel_cursor: 0
+Cursor: [row: 5, column: 0]
+[BEFORE] cursor.row = 5, rows = 6, line_map = 29
+Line Offset incremented
+[AFTER] cursor.row = 5
+get_rel_cursor: 0
+Cursor: [row: 5, column: 0]
+[BEFORE] cursor.row = 5, rows = 6, line_map = 29
+Line Offset incremented
+[AFTER] cursor.row = 5
+get_rel_cursor: 0
+Cursor: [row: 5, column: 0]
+[BEFORE] cursor.row = 5, rows = 6, line_map = 29
+Line Offset incremented
+[AFTER] cursor.row = 5
+get_rel_cursor: 0
+Cursor: [row: 5, column: 0]
+[BEFORE] cursor.row = 5, rows = 6, line_map = 29
+Line Offset incremented
+[AFTER] cursor.row = 5
+get_rel_cursor: 0
+Cursor: [row: 5, column: 0]
+[BEFORE] cursor.row = 5, rows = 6, line_map = 29
+Line Offset incremented
+[AFTER] cursor.row = 5
+get_rel_cursor: 0
+Cursor: [row: 5, column: 0]
+[BEFORE] cursor.row = 5, rows = 6, line_map = 29
+Line Offset incremented
+[AFTER] cursor.row = 5
+get_rel_cursor: 0
+Cursor: [row: 5, column: 0]
+[BEFORE] cursor.row = 5, rows = 6, line_map = 29
+[AFTER] cursor.row = 5
+get_rel_cursor: 0
+Cursor: [row: 5, column: 0]
+[BEFORE] cursor.row = 5, rows = 6, line_map = 29
+[AFTER] cursor.row = 5
+get_rel_cursor: 0
+Cursor: [row: 5, column: 0]
+[BEFORE] cursor.row = 5, rows = 6, line_map = 29
+[AFTER] cursor.row = 5
+get_rel_cursor: 0
+Cursor: [row: 5, column: 0]
+[BEFORE] cursor.row = 5, rows = 6, line_map = 29
+[AFTER] cursor.row = 5
+get_rel_cursor: 0
+Cursor: [row: 5, column: 0]
+[BEFORE] cursor.row = 5, rows = 6, line_map = 29
+[AFTER] cursor.row = 5
+get_rel_cursor: 0
+Cursor: [row: 5, column: 0]
+[BEFORE] cursor.row = 5, rows = 6, line_map = 29
+[AFTER] cursor.row = 5
+get_rel_cursor: 0
+Cursor: [row: 5, column: 0]
+[BEFORE] cursor.row = 5, rows = 6, line_map = 29
+[AFTER] cursor.row = 5
+get_rel_cursor: 0
+Cursor: [row: 5, column: 0]
+[BEFORE] cursor.row = 5, rows = 6, line_map = 29
+[AFTER] cursor.row = 5
+get_rel_cursor: 0
+Cursor: [row: 5, column: 0]
+[BEFORE] cursor.row = 5, rows = 6, line_map = 29
+[AFTER] cursor.row = 5
+get_rel_cursor: 0
+Cursor: [row: 5, column: 0]
+[BEFORE] cursor.row = 5, rows = 6, line_map = 29
+[AFTER] cursor.row = 5
+get_rel_cursor: 0
+Cursor: [row: 5, column: 0]
+[BEFORE] cursor.row = 5, rows = 6, line_map = 29
+[AFTER] cursor.row = 5
+get_rel_cursor: 0
+Cursor: [row: 5, column: 0]
+[BEFORE] cursor.row = 5, rows = 6, line_map = 29
+[AFTER] cursor.row = 5
+get_rel_cursor: 0
+Cursor: [row: 5, column: 0]
+[BEFORE] cursor.row = 5, rows = 6, line_map = 29
+[AFTER] cursor.row = 5
+get_rel_cursor: 0
+Cursor: [row: 5, column: 0]
+get_rel_cursor: 0
+get_cursor_from_index: 937 -> 22
+get_rel_cursor: 22
+Cursor: [row: 4, column: 22]
+get_rel_cursor: 22
+get_cursor_from_index: 937 -> 18
+get_rel_cursor: 18
+Cursor: [row: 5, column: 18]
+get_rel_cursor: 18
+get_cursor_from_index: 937 -> 5
+get_rel_cursor: 5
+Cursor: [row: 6, column: 5]
+get_rel_cursor: 5
+get_cursor_from_index: 937 -> 39
+get_rel_cursor: 39
+Cursor: [row: 5, column: 39]
+get_rel_cursor: 39
+get_cursor_from_index: 937 -> 22
+get_rel_cursor: 22
+Cursor: [row: 6, column: 22]
+get_rel_cursor: 22
+get_cursor_from_index: 937 -> 5
+get_rel_cursor: 5
+Cursor: [row: 6, column: 5]
+get_rel_cursor: 5
+get_cursor_from_index: 937 -> 69
+get_rel_cursor: 69
+Cursor: [row: 4, column: 69]
+get_rel_cursor: 69
+get_cursor_from_index: 937 -> 55
+get_rel_cursor: 55
+Cursor: [row: 5, column: 55]
+get_rel_cursor: 55
+get_cursor_from_index: 937 -> 48
+get_rel_cursor: 48
+Cursor: [row: 6, column: 48]
+get_rel_cursor: 48
+get_cursor_from_index: 937 -> 39
+get_rel_cursor: 39
+Cursor: [row: 6, column: 39]
+get_rel_cursor: 39
+get_cursor_from_index: 937 -> 39
+get_rel_cursor: 39
+Cursor: [row: 6, column: 39]
+get_rel_cursor: 39
+get_cursor_from_index: 937 -> 22
+get_rel_cursor: 22
+Cursor: [row: 6, column: 22]
+get_rel_cursor: 22
+get_cursor_from_index: 937 -> 14
+get_rel_cursor: 14
+Cursor: [row: 6, column: 14]
+get_rel_cursor: 14
+get_cursor_from_index: 937 -> 14
+get_rel_cursor: 14
+Cursor: [row: 6, column: 14]
+get_rel_cursor: 14
+get_cursor_from_index: 937 -> 5
+get_rel_cursor: 5
+Cursor: [row: 6, column: 5]
+get_rel_cursor: 5
+get_cursor_from_index: 937 -> 0
+get_rel_cursor: 0
+Cursor: [row: 6, column: 0]
+get_rel_cursor: 0
+get_cursor_from_index: 937 -> 139
+get_rel_cursor: 139
+Cursor: [row: 5, column: 139]
+get_rel_cursor: 139
+get_cursor_from_index: 937 -> 139
+get_rel_cursor: 139
+Cursor: [row: 5, column: 139]
+get_rel_cursor: 139
+get_cursor_from_index: 937 -> 139
+get_rel_cursor: 139
+Cursor: [row: 5, column: 139]
+get_rel_cursor: 139
+get_cursor_from_index: 937 -> 139
+get_rel_cursor: 139
+Cursor: [row: 4, column: 139]
+get_rel_cursor: 139
+get_cursor_from_index: 937 -> 139
+get_rel_cursor: 139
+Cursor: [row: 4, column: 139]
+get_rel_cursor: 139
+get_cursor_from_index: 937 -> 139
+get_rel_cursor: 139
+Cursor: [row: 4, column: 139]
+get_rel_cursor: 139
+get_cursor_from_index: 937 -> 139
+get_rel_cursor: 139
+Cursor: [row: 5, column: 139]
+get_rel_cursor: 139
+get_cursor_from_index: 937 -> 139
+get_rel_cursor: 139
+Cursor: [row: 5, column: 139]
+get_rel_cursor: 139
+get_cursor_from_index: 937 -> 139
+get_rel_cursor: 139
+Cursor: [row: 5, column: 139]
+get_rel_cursor: 139
+get_cursor_from_index: 937 -> 139
+get_rel_cursor: 139
+Cursor: [row: 5, column: 139]
+get_rel_cursor: 139
+get_cursor_from_index: 937 -> 139
+get_rel_cursor: 139
+Cursor: [row: 5, column: 139]
+get_rel_cursor: 139
+get_cursor_from_index: 937 -> 139
+get_rel_cursor: 139
+Cursor: [row: 5, column: 139]
+get_rel_cursor: 139
+get_cursor_from_index: 937 -> 139
+get_rel_cursor: 139
+Cursor: [row: 5, column: 139]
+get_rel_cursor: 139
+get_cursor_from_index: 937 -> 139
+get_rel_cursor: 139
+Cursor: [row: 5, column: 139]
+get_rel_cursor: 139
+get_cursor_from_index: 937 -> 139
+get_rel_cursor: 139
+Cursor: [row: 5, column: 139]
+get_rel_cursor: 139
+get_cursor_from_index: 937 -> 139
+get_rel_cursor: 139
+Cursor: [row: 5, column: 139]
+get_rel_cursor: 139
+get_cursor_from_index: 937 -> 139
+get_rel_cursor: 139
+Cursor: [row: 5, column: 139]
+get_rel_cursor: 139
+get_cursor_from_index: 937 -> 139
+get_rel_cursor: 139
+Cursor: [row: 5, column: 139]
+get_rel_cursor: 139
+get_cursor_from_index: 937 -> 139
+get_rel_cursor: 139
+Cursor: [row: 5, column: 139]
+get_rel_cursor: 139
+get_cursor_from_index: 937 -> 139
+get_rel_cursor: 139
+Cursor: [row: 5, column: 139]
+get_rel_cursor: 139
+get_cursor_from_index: 937 -> 139
+get_rel_cursor: 139
+Cursor: [row: 5, column: 139]
+get_rel_cursor: 139
+get_cursor_from_index: 937 -> 139
+get_rel_cursor: 139
+Cursor: [row: 5, column: 139]
+get_rel_cursor: 139
+get_cursor_from_index: 937 -> 139
+get_rel_cursor: 139
+Cursor: [row: 5, column: 139]
+get_rel_cursor: 139
+get_cursor_from_index: 937 -> 139
+get_rel_cursor: 139
+Cursor: [row: 5, column: 139]
+get_rel_cursor: 139
+get_cursor_from_index: 937 -> 139
+get_rel_cursor: 139
+Cursor: [row: 5, column: 139]
+get_rel_cursor: 139
+get_cursor_from_index: 937 -> 139
+get_rel_cursor: 139
+Cursor: [row: 5, column: 139]
+get_rel_cursor: 139
+get_cursor_from_index: 937 -> 139
+get_rel_cursor: 139
+Cursor: [row: 5, column: 139]
+get_rel_cursor: 139
+get_cursor_from_index: 937 -> 139
+get_rel_cursor: 139
+Cursor: [row: 5, column: 139]
+get_rel_cursor: 139
+get_cursor_from_index: 937 -> 139
+get_rel_cursor: 139
+Cursor: [row: 5, column: 139]
+get_rel_cursor: 139
+get_cursor_from_index: 937 -> 139
+get_rel_cursor: 139
+Cursor: [row: 5, column: 139]
+get_rel_cursor: 139
+get_cursor_from_index: 937 -> 139
+get_rel_cursor: 139
+Cursor: [row: 5, column: 139]
+get_rel_cursor: 139
+get_cursor_from_index: 937 -> 139
+get_rel_cursor: 139
+Cursor: [row: 5, column: 139]
+get_rel_cursor: 139
+get_cursor_from_index: 937 -> 139
+get_rel_cursor: 139
+Cursor: [row: 5, column: 139]
+get_rel_cursor: 139
+get_cursor_from_index: 937 -> 139
+get_rel_cursor: 139
+Cursor: [row: 5, column: 139]
+get_rel_cursor: 139
+get_cursor_from_index: 937 -> 139
+get_rel_cursor: 139
+Cursor: [row: 5, column: 139]
+get_rel_cursor: 139
+get_cursor_from_index: 937 -> 139
+get_rel_cursor: 139
+Cursor: [row: 5, column: 139]
+get_rel_cursor: 139
+get_cursor_from_index: 937 -> 139
+get_rel_cursor: 139
+Cursor: [row: 5, column: 139]
+get_rel_cursor: 139
+get_cursor_from_index: 937 -> 139
+get_rel_cursor: 139
+Cursor: [row: 5, column: 139]
+get_rel_cursor: 139
+get_cursor_from_index: 937 -> 139
+get_rel_cursor: 139
+Cursor: [row: 5, column: 139]
+get_rel_cursor: 139
+get_cursor_from_index: 937 -> 139
+get_rel_cursor: 139
+Cursor: [row: 5, column: 139]
+get_rel_cursor: 139
+get_cursor_from_index: 937 -> 139
+get_rel_cursor: 139
+Cursor: [row: 5, column: 139]
+get_rel_cursor: 139
+get_cursor_from_index: 937 -> 139
+get_rel_cursor: 139
+Cursor: [row: 5, column: 139]
+get_rel_cursor: 139
+get_cursor_from_index: 937 -> 139
+get_rel_cursor: 139
+Cursor: [row: 5, column: 139]
+get_rel_cursor: 139
+get_cursor_from_index: 937 -> 139
+get_rel_cursor: 139
+Cursor: [row: 5, column: 139]
+get_rel_cursor: 139
+get_cursor_from_index: 937 -> 139
+get_rel_cursor: 139
+Cursor: [row: 5, column: 139]
+get_rel_cursor: 139
+get_cursor_from_index: 937 -> 139
+get_rel_cursor: 139
+Cursor: [row: 5, column: 139]
+get_rel_cursor: 139
+get_cursor_from_index: 937 -> 139
+get_rel_cursor: 139
+Cursor: [row: 6, column: 139]
+get_rel_cursor: 139
+get_cursor_from_index: 937 -> 139
+get_rel_cursor: 139
+Cursor: [row: 6, column: 139]
+get_rel_cursor: 139
+get_cursor_from_index: 937 -> 139
+get_rel_cursor: 139
+Cursor: [row: 6, column: 139]
+get_rel_cursor: 139
+get_cursor_from_index: 937 -> 139
+get_rel_cursor: 139
+Cursor: [row: 6, column: 139]
+get_rel_cursor: 139
+get_cursor_from_index: 937 -> 139
+get_rel_cursor: 139
+Cursor: [row: 6, column: 139]
+get_rel_cursor: 139
+get_cursor_from_index: 937 -> 139
+get_rel_cursor: 139
+Cursor: [row: 6, column: 139]
+get_rel_cursor: 139
+get_cursor_from_index: 937 -> 139
+get_rel_cursor: 139
+Cursor: [row: 6, column: 139]
+get_rel_cursor: 139
+get_cursor_from_index: 937 -> 139
+get_rel_cursor: 139
+Cursor: [row: 6, column: 139]
+get_rel_cursor: 139
+get_cursor_from_index: 937 -> 139
+get_rel_cursor: 139
+Cursor: [row: 6, column: 139]
+get_rel_cursor: 139
+get_cursor_from_index: 937 -> 139
+get_rel_cursor: 139
+Cursor: [row: 6, column: 139]
+get_rel_cursor: 139
+get_cursor_from_index: 937 -> 139
+get_rel_cursor: 139
+Cursor: [row: 6, column: 139]
+get_rel_cursor: 139
+get_cursor_from_index: 937 -> 139
+get_rel_cursor: 139
+Cursor: [row: 6, column: 139]
+get_rel_cursor: 139
+get_cursor_from_index: 937 -> 139
+get_rel_cursor: 139
+Cursor: [row: 6, column: 139]
+get_rel_cursor: 139
+get_cursor_from_index: 937 -> 139
+get_rel_cursor: 139
+get_rel_cursor: 139
+get_cursor_from_index: 937 -> 139
+Cursor: [row: 7, column: 139]
+get_rel_cursor: 106
+get_cursor_from_index: 796 -> 114
+get_rel_cursor: 114
+Cursor: [row: 4, column: 114]
+get_rel_cursor: 114
+get_cursor_from_index: 796 -> 121
+get_rel_cursor: 121
+Cursor: [row: 4, column: 121]
+get_rel_cursor: 121
+get_cursor_from_index: 796 -> 134
+get_rel_cursor: 134
+Cursor: [row: 4, column: 134]
+get_rel_cursor: 134
+get_cursor_from_index: 796 -> 134
+get_rel_cursor: 134
+Cursor: [row: 4, column: 134]
+get_rel_cursor: 134
+get_cursor_from_index: 796 -> 140
+get_rel_cursor: 140
+Cursor: [row: 4, column: 140]
+get_rel_cursor: 140
+get_cursor_from_index: 796 -> 149
+get_rel_cursor: 149
+Cursor: [row: 4, column: 149]
+get_rel_cursor: 149
+get_cursor_from_index: 796 -> 157
+get_rel_cursor: 157
+Cursor: [row: 4, column: 157]
+get_rel_cursor: 157
+get_cursor_from_index: 796 -> 166
+get_rel_cursor: 166
+Cursor: [row: 4, column: 166]
+get_rel_cursor: 166
+get_cursor_from_index: 796 -> 8
+get_rel_cursor: 8
+Cursor: [row: 5, column: 8]
+get_rel_cursor: 8
+get_cursor_from_index: 796 -> 18
+get_rel_cursor: 18
+Cursor: [row: 5, column: 18]
+get_rel_cursor: 18
+get_cursor_from_index: 796 -> 30
+get_rel_cursor: 30
+Cursor: [row: 5, column: 30]
+get_rel_cursor: 30
+get_cursor_from_index: 796 -> 30
+get_rel_cursor: 30
+Cursor: [row: 6, column: 30]
+get_rel_cursor: 30
+get_cursor_from_index: 796 -> 40
+get_rel_cursor: 40
+Cursor: [row: 6, column: 40]
+get_rel_cursor: 40
+get_cursor_from_index: 796 -> 50
+get_rel_cursor: 50
+Cursor: [row: 6, column: 50]
+get_rel_cursor: 50
+get_cursor_from_index: 796 -> 50
+get_rel_cursor: 50
+Cursor: [row: 6, column: 50]
+get_rel_cursor: 50
+get_cursor_from_index: 796 -> 50
+get_rel_cursor: 50
+Cursor: [row: 6, column: 50]
+get_rel_cursor: 50
+get_cursor_from_index: 796 -> 50
+get_rel_cursor: 50
+Cursor: [row: 6, column: 50]
+get_rel_cursor: 50
+get_cursor_from_index: 796 -> 50
+get_rel_cursor: 50
+Cursor: [row: 6, column: 50]
+get_rel_cursor: 50
+get_cursor_from_index: 796 -> 50
+get_rel_cursor: 50
+Cursor: [row: 6, column: 50]
+get_rel_cursor: 50
+get_cursor_from_index: 796 -> 50
+get_rel_cursor: 50
+Cursor: [row: 6, column: 50]
+get_rel_cursor: 50
+get_cursor_from_index: 796 -> 50
+get_rel_cursor: 50
+Cursor: [row: 6, column: 50]
+get_rel_cursor: 50
+get_cursor_from_index: 796 -> 50
+get_rel_cursor: 50
+Cursor: [row: 6, column: 50]
+get_rel_cursor: 50
+get_cursor_from_index: 796 -> 50
+get_rel_cursor: 50
+Cursor: [row: 7, column: 50]
+get_rel_cursor: 50
+get_cursor_from_index: 796 -> 50
+get_rel_cursor: 50
+Cursor: [row: 7, column: 50]
+get_rel_cursor: 50
+get_cursor_from_index: 796 -> 50
+get_rel_cursor: 50
+Cursor: [row: 7, column: 50]
+get_rel_cursor: 50
+get_cursor_from_index: 796 -> 50
+get_rel_cursor: 50
+Cursor: [row: 7, column: 50]
+get_rel_cursor: 50
+get_cursor_from_index: 796 -> 50
+get_rel_cursor: 50
+Cursor: [row: 7, column: 50]
+get_rel_cursor: 50
+get_cursor_from_index: 796 -> 50
+get_rel_cursor: 50
+Cursor: [row: 7, column: 50]
+get_rel_cursor: 50
+get_cursor_from_index: 796 -> 50
+get_rel_cursor: 50
+Cursor: [row: 7, column: 50]
+get_rel_cursor: 50
+get_cursor_from_index: 796 -> 69
+get_rel_cursor: 69
+Cursor: [row: 7, column: 69]
+get_rel_cursor: 69
+get_cursor_from_index: 796 -> 69
+get_rel_cursor: 69
+Cursor: [row: 7, column: 69]
+get_rel_cursor: 69
+get_cursor_from_index: 796 -> 80
+get_rel_cursor: 80
+Cursor: [row: 7, column: 80]
+get_rel_cursor: 80
+get_cursor_from_index: 796 -> 97
+get_rel_cursor: 97
+Cursor: [row: 7, column: 97]
+get_rel_cursor: 97
+get_cursor_from_index: 796 -> 106
+get_rel_cursor: 106
+Cursor: [row: 7, column: 106]
+get_rel_cursor: 106
+get_cursor_from_index: 796 -> 3
+get_rel_cursor: 3
+Cursor: [row: 9, column: 3]
+get_rel_cursor: 3
+get_cursor_from_index: 796 -> 18
+get_rel_cursor: 18
+Cursor: [row: 9, column: 18]
+get_rel_cursor: 18
+get_cursor_from_index: 796 -> 40
+get_rel_cursor: 40
+Cursor: [row: 9, column: 40]
+get_rel_cursor: 40
+get_cursor_from_index: 796 -> 50
+get_rel_cursor: 50
+Cursor: [row: 9, column: 50]
+get_rel_cursor: 50
+get_cursor_from_index: 796 -> 59
+get_rel_cursor: 59
+Cursor: [row: 10, column: 59]
+get_rel_cursor: 59
+get_cursor_from_index: 796 -> 80
+get_rel_cursor: 80
+Cursor: [row: 10, column: 80]
+get_rel_cursor: 80
+get_cursor_from_index: 796 -> 3
+get_rel_cursor: 3
+Cursor: [row: 11, column: 3]
+get_rel_cursor: 3
+get_cursor_from_index: 796 -> 18
+get_rel_cursor: 18
+Cursor: [row: 11, column: 18]
+get_rel_cursor: 18
+get_cursor_from_index: 796 -> 30
+get_rel_cursor: 30
+Cursor: [row: 11, column: 30]
+get_rel_cursor: 30
+get_cursor_from_index: 796 -> 30
+get_rel_cursor: 30
+Cursor: [row: 12, column: 30]
+get_rel_cursor: 30
+get_cursor_from_index: 796 -> 30
+get_rel_cursor: 30
+Cursor: [row: 12, column: 30]
+get_rel_cursor: 30
+get_cursor_from_index: 796 -> 50
+get_rel_cursor: 50
+Cursor: [row: 12, column: 50]
+get_rel_cursor: 50
+get_cursor_from_index: 796 -> 50
+get_rel_cursor: 50
+Cursor: [row: 12, column: 50]
+get_rel_cursor: 50
+get_cursor_from_index: 796 -> 69
+get_rel_cursor: 69
+Cursor: [row: 12, column: 69]
+get_rel_cursor: 69
+get_cursor_from_index: 796 -> 69
+get_rel_cursor: 69
+Cursor: [row: 12, column: 69]
+get_rel_cursor: 69
+get_cursor_from_index: 796 -> 18
+get_rel_cursor: 18
+Cursor: [row: 13, column: 18]
+get_rel_cursor: 18
+get_cursor_from_index: 796 -> 30
+get_rel_cursor: 30
+Cursor: [row: 14, column: 30]
+get_rel_cursor: 30
+get_cursor_from_index: 796 -> 33
+get_rel_cursor: 33
+Cursor: [row: 14, column: 33]
+get_rel_cursor: 33
+get_cursor_from_index: 796 -> 40
+get_rel_cursor: 40
+Cursor: [row: 15, column: 40]
+get_rel_cursor: 40
+get_cursor_from_index: 796 -> 40
+get_rel_cursor: 40
+Cursor: [row: 15, column: 40]
+get_rel_cursor: 40
+get_cursor_from_index: 796 -> 50
+get_rel_cursor: 50
+Cursor: [row: 15, column: 50]
+get_rel_cursor: 50
+get_cursor_from_index: 796 -> 18
+get_rel_cursor: 18
+Cursor: [row: 16, column: 18]
+get_rel_cursor: 18
+get_cursor_from_index: 796 -> 18
+get_rel_cursor: 18
+Cursor: [row: 16, column: 18]
+get_rel_cursor: 18
+get_cursor_from_index: 796 -> 18
+get_rel_cursor: 18
+Cursor: [row: 16, column: 18]
+get_rel_cursor: 18
+get_cursor_from_index: 796 -> 33
+get_rel_cursor: 33
+Cursor: [row: 17, column: 33]
+get_rel_cursor: 33
+get_cursor_from_index: 796 -> 33
+get_rel_cursor: 33
+Cursor: [row: 17, column: 33]
+get_rel_cursor: 33
+get_cursor_from_index: 796 -> 3
+get_rel_cursor: 3
+get_rel_cursor: 3
+get_cursor_from_index: 796 -> 3
+Cursor: [row: 19, column: 3]
+get_rel_cursor: 3
+get_cursor_from_index: 708 -> 9
+get_rel_cursor: 9
+Cursor: [row: 16, column: 9]
+get_rel_cursor: 9
+get_cursor_from_index: 708 -> 28
+get_rel_cursor: 28
+Cursor: [row: 16, column: 28]
+get_rel_cursor: 28
+get_cursor_from_index: 708 -> 3
+get_rel_cursor: 3
+Cursor: [row: 18, column: 3]
+get_rel_cursor: 3
+get_cursor_from_index: 708 -> 18
+get_rel_cursor: 18
+get_rel_cursor: 18
+get_cursor_from_index: 708 -> 18
+Cursor: [row: 19, column: 18]
+get_rel_cursor: 18
+get_cursor_from_index: 633 -> 18
+get_rel_cursor: 18
+Cursor: [row: 16, column: 18]
+get_rel_cursor: 18
+get_cursor_from_index: 633 -> 18
+get_rel_cursor: 18
+Cursor: [row: 16, column: 18]
+get_rel_cursor: 18
+get_cursor_from_index: 633 -> 12
+get_rel_cursor: 12
+Cursor: [row: 15, column: 12]
+get_rel_cursor: 12
+get_cursor_from_index: 633 -> 12
+get_rel_cursor: 12
+Cursor: [row: 15, column: 12]
+get_rel_cursor: 12
+get_cursor_from_index: 633 -> 41
+get_rel_cursor: 41
+Cursor: [row: 13, column: 41]
+get_rel_cursor: 41
+get_cursor_from_index: 633 -> 41
+get_rel_cursor: 41
+Cursor: [row: 13, column: 41]
+get_rel_cursor: 41
+get_cursor_from_index: 633 -> 27
+get_rel_cursor: 27
+Cursor: [row: 13, column: 27]
+get_rel_cursor: 27
+get_cursor_from_index: 633 -> 21
+get_rel_cursor: 21
+Cursor: [row: 12, column: 21]
+get_rel_cursor: 21
+get_cursor_from_index: 633 -> 21
+get_rel_cursor: 21
+Cursor: [row: 12, column: 21]
+get_rel_cursor: 21
+get_cursor_from_index: 633 -> 21
+get_rel_cursor: 21
+Cursor: [row: 12, column: 21]
+get_rel_cursor: 21
+get_cursor_from_index: 633 -> 12
+get_rel_cursor: 12
+Cursor: [row: 11, column: 12]
+get_rel_cursor: 12
+get_cursor_from_index: 633 -> 12
+get_rel_cursor: 12
+Cursor: [row: 11, column: 12]
+get_rel_cursor: 12
+get_cursor_from_index: 633 -> 12
+get_rel_cursor: 12
+Cursor: [row: 11, column: 12]
+get_rel_cursor: 12
+get_cursor_from_index: 633 -> 54
+get_rel_cursor: 54
+Cursor: [row: 10, column: 54]
+get_rel_cursor: 54
+get_cursor_from_index: 633 -> 54
+get_rel_cursor: 54
+Cursor: [row: 10, column: 54]
+get_rel_cursor: 54
+get_cursor_from_index: 633 -> 54
+get_rel_cursor: 54
+Cursor: [row: 10, column: 54]
+get_rel_cursor: 54
+get_cursor_from_index: 633 -> 54
+get_rel_cursor: 54
+Cursor: [row: 10, column: 54]
+get_rel_cursor: 54
+get_cursor_from_index: 633 -> 54
+get_rel_cursor: 54
+Cursor: [row: 11, column: 54]
+get_rel_cursor: 54
+get_cursor_from_index: 633 -> 54
+get_rel_cursor: 54
+Cursor: [row: 11, column: 54]
+get_rel_cursor: 54
+get_cursor_from_index: 633 -> 54
+get_rel_cursor: 54
+Cursor: [row: 11, column: 54]
+get_rel_cursor: 54
+get_cursor_from_index: 633 -> 54
+get_rel_cursor: 54
+Cursor: [row: 11, column: 54]
+get_rel_cursor: 54
+get_cursor_from_index: 633 -> 41
+get_rel_cursor: 41
+Cursor: [row: 10, column: 41]
+get_rel_cursor: 41
+get_cursor_from_index: 633 -> 41
+get_rel_cursor: 41
+Cursor: [row: 10, column: 41]
+get_rel_cursor: 41
+get_cursor_from_index: 633 -> 41
+get_rel_cursor: 41
+Cursor: [row: 10, column: 41]
+get_rel_cursor: 41
+get_cursor_from_index: 633 -> 41
+get_rel_cursor: 41
+Cursor: [row: 10, column: 41]
+get_rel_cursor: 41
+get_cursor_from_index: 633 -> 27
+get_rel_cursor: 27
+Cursor: [row: 10, column: 27]
+get_rel_cursor: 27
+get_cursor_from_index: 633 -> 27
+get_rel_cursor: 27
+Cursor: [row: 10, column: 27]
+get_rel_cursor: 27
+get_cursor_from_index: 633 -> 18
+get_rel_cursor: 18
+Cursor: [row: 10, column: 18]
+get_rel_cursor: 18
+get_cursor_from_index: 633 -> 18
+get_rel_cursor: 18
+Cursor: [row: 10, column: 18]
+get_rel_cursor: 18
+get_cursor_from_index: 633 -> 18
+get_rel_cursor: 18
+Cursor: [row: 10, column: 18]
+get_rel_cursor: 18
+get_cursor_from_index: 633 -> 18
+get_rel_cursor: 18
+Cursor: [row: 10, column: 18]
+get_rel_cursor: 18
+get_cursor_from_index: 633 -> 18
+get_rel_cursor: 18
+Cursor: [row: 9, column: 18]
+get_rel_cursor: 18
+get_cursor_from_index: 633 -> 12
+get_rel_cursor: 12
+Cursor: [row: 9, column: 12]
+get_rel_cursor: 12
+get_cursor_from_index: 633 -> 12
+get_rel_cursor: 12
+Cursor: [row: 9, column: 12]
+get_rel_cursor: 12
+get_cursor_from_index: 633 -> 3
+get_rel_cursor: 3
+Cursor: [row: 9, column: 3]
+get_rel_cursor: 3
+get_cursor_from_index: 633 -> 3
+get_rel_cursor: 3
+Cursor: [row: 9, column: 3]
+get_rel_cursor: 3
+get_cursor_from_index: 633 -> 3
+get_rel_cursor: 3
+Cursor: [row: 9, column: 3]
+get_rel_cursor: 3
+get_cursor_from_index: 633 -> 86
+get_rel_cursor: 86
+Cursor: [row: 8, column: 86]
+get_rel_cursor: 86
+get_cursor_from_index: 633 -> 86
+get_rel_cursor: 86
+Cursor: [row: 8, column: 86]
+get_rel_cursor: 86
+get_cursor_from_index: 633 -> 86
+get_rel_cursor: 86
+Cursor: [row: 8, column: 86]
+get_rel_cursor: 86
+get_cursor_from_index: 633 -> 78
+get_rel_cursor: 78
+Cursor: [row: 8, column: 78]
+get_rel_cursor: 78
+get_cursor_from_index: 633 -> 78
+get_rel_cursor: 78
+Cursor: [row: 8, column: 78]
+get_rel_cursor: 78
+get_cursor_from_index: 633 -> 75
+get_rel_cursor: 75
+Cursor: [row: 7, column: 75]
+get_rel_cursor: 0
+Cursor: [row: 0, column: 0]
+[BEFORE] cursor.row = 0, rows = 34, line_map = 11
+cursor incremented
+[AFTER] cursor.row = 1
+get_rel_cursor: 0
+Cursor: [row: 1, column: 0]
+[BEFORE] cursor.row = 1, rows = 34, line_map = 11
+cursor incremented
+[AFTER] cursor.row = 2
+get_rel_cursor: 0
+Cursor: [row: 2, column: 0]
+get_rel_cursor: 0
+Cursor: [row: 1, column: 0]
+get_rel_cursor: 0
+Cursor: [row: 0, column: 0]
+get_rel_cursor: 0
+get_cursor_from_index: 1 -> 4
+get_rel_cursor: 4
+Cursor: [row: 0, column: 4]
+get_rel_cursor: 4
+get_cursor_from_index: 2 -> 8
+get_rel_cursor: 8
+Cursor: [row: 0, column: 8]
+get_rel_cursor: 8
+get_cursor_from_index: 3 -> 12
+get_rel_cursor: 12
+Cursor: [row: 0, column: 12]
+get_rel_cursor: 12
+get_cursor_from_index: 4 -> 16
+get_rel_cursor: 16
+Cursor: [row: 0, column: 16]
+get_rel_cursor: 16
+get_cursor_from_index: 5 -> 20
+get_rel_cursor: 20
+Cursor: [row: 0, column: 20]
+get_rel_cursor: 20
+get_cursor_from_index: 6 -> 24
+get_rel_cursor: 24
+Cursor: [row: 0, column: 24]
+get_rel_cursor: 24
+get_cursor_from_index: 7 -> 28
+get_rel_cursor: 28
+Cursor: [row: 0, column: 28]
+get_rel_cursor: 28
+get_cursor_from_index: 8 -> 32
+get_rel_cursor: 32
+Cursor: [row: 0, column: 32]
+get_rel_cursor: 32
+get_cursor_from_index: 9 -> 36
+get_rel_cursor: 36
+Cursor: [row: 0, column: 36]
+get_rel_cursor: 36
+get_cursor_from_index: 10 -> 40
+get_rel_cursor: 40
+Cursor: [row: 0, column: 40]
+get_rel_cursor: 40
+get_cursor_from_index: 11 -> 44
+get_rel_cursor: 44
+Cursor: [row: 0, column: 44]
+get_rel_cursor: 44
+get_cursor_from_index: 12 -> 48
+get_rel_cursor: 48
+Cursor: [row: 0, column: 48]
+get_rel_cursor: 48
+get_cursor_from_index: 13 -> 52
+get_rel_cursor: 52
+Cursor: [row: 0, column: 52]
+get_rel_cursor: 52
+get_cursor_from_index: 14 -> 56
+get_rel_cursor: 56
+Cursor: [row: 0, column: 56]
+get_rel_cursor: 56
+get_cursor_from_index: 15 -> 60
+get_rel_cursor: 60
+Cursor: [row: 0, column: 60]
+get_rel_cursor: 60
+get_cursor_from_index: 16 -> 64
+get_rel_cursor: 64
+Cursor: [row: 0, column: 64]
+get_rel_cursor: 64
+get_cursor_from_index: 17 -> 68
+get_rel_cursor: 68
+Cursor: [row: 0, column: 68]
+get_rel_cursor: 68
+get_cursor_from_index: 18 -> 72
+get_rel_cursor: 72
+Cursor: [row: 0, column: 72]
+get_rel_cursor: 72
+get_cursor_from_index: 19 -> 76
+get_rel_cursor: 76
+Cursor: [row: 0, column: 76]
+get_rel_cursor: 76
+get_cursor_from_index: 20 -> 80
+get_rel_cursor: 80
+Cursor: [row: 0, column: 80]
+get_rel_cursor: 80
+get_cursor_from_index: 21 -> 84
+get_rel_cursor: 84
+Cursor: [row: 0, column: 84]
+get_rel_cursor: 84
+get_cursor_from_index: 22 -> 88
+get_rel_cursor: 88
+Cursor: [row: 0, column: 88]
+get_rel_cursor: 88
+get_cursor_from_index: 23 -> 88
+get_rel_cursor: 88
+Cursor: [row: 1, column: 88]
+get_rel_cursor: 88
+get_rel_cursor: 0
+Cursor: [row: 0, column: 0]
+get_rel_cursor: 0
+get_cursor_from_index: 1 -> 4
+get_rel_cursor: 4
+Cursor: [row: 0, column: 4]
+get_rel_cursor: 4
+get_cursor_from_index: 2 -> 8
+get_rel_cursor: 8
+Cursor: [row: 0, column: 8]
+last_space: 88, start: 0
+last_space: 267, start: 180
+last_space: 353, start: 268
+last_space: 441, start: 354
+last_space: 528, start: 442
+last_space: 618, start: 529
+last_space: 708, start: 619
+get_rel_cursor: 0
+Cursor: [row: 0, column: 0]
+get_rel_cursor: 0
+last_space: 80, start: 0
+last_space: 169, start: 81
+last_space: 254, start: 170
+last_space: 342, start: 255
+last_space: 522, start: 434
+last_space: 703, start: 614
+last_space: 791, start: 704
+get_cursor_from_index: 1 -> 4
+get_rel_cursor: 4
+Cursor: [row: 0, column: 4]
+get_rel_cursor: 4
+last_space: 81, start: 0
+last_space: 170, start: 82
+last_space: 255, start: 171
+last_space: 343, start: 256
+last_space: 523, start: 435
+last_space: 704, start: 615
+last_space: 792, start: 705
+get_cursor_from_index: 2 -> 8
+get_rel_cursor: 8
+Cursor: [row: 0, column: 8]
+get_rel_cursor: 8
+last_space: 78, start: 0
+last_space: 163, start: 79
+last_space: 250, start: 164
+last_space: 334, start: 251
+last_space: 422, start: 335
+last_space: 592, start: 514
+last_space: 682, start: 593
+get_cursor_from_index: 3 -> 12
+get_rel_cursor: 12
+Cursor: [row: 0, column: 12]
+get_rel_cursor: 12
+last_space: 70, start: 0
+last_space: 160, start: 71
+last_space: 335, start: 252
+last_space: 423, start: 336
+last_space: 593, start: 515
+last_space: 683, start: 594
+get_cursor_from_index: 4 -> 16
+get_rel_cursor: 16
+Cursor: [row: 0, column: 16]
+get_rel_cursor: 16
+last_space: 71, start: 0
+last_space: 161, start: 72
+last_space: 336, start: 253
+last_space: 424, start: 337
+last_space: 594, start: 516
+last_space: 684, start: 595
+get_cursor_from_index: 5 -> 20
+get_rel_cursor: 20
+Cursor: [row: 0, column: 20]
+get_rel_cursor: 20
+last_space: 162, start: 73
+last_space: 337, start: 254
+last_space: 425, start: 338
+last_space: 595, start: 517
+last_space: 685, start: 596
+get_cursor_from_index: 6 -> 24
+get_rel_cursor: 24
+Cursor: [row: 0, column: 24]
+get_rel_cursor: 24
+last_space: 62, start: 0
+last_space: 151, start: 63
+last_space: 236, start: 152
+last_space: 324, start: 237
+last_space: 405, start: 325
+last_space: 493, start: 406
+last_space: 583, start: 494
+last_space: 666, start: 584
+last_space: 750, start: 667
+get_cursor_from_index: 7 -> 28
+get_rel_cursor: 28
+Cursor: [row: 0, column: 28]
+get_rel_cursor: 28
+last_space: 63, start: 0
+last_space: 152, start: 64
+last_space: 237, start: 153
+last_space: 325, start: 238
+last_space: 406, start: 326
+last_space: 494, start: 407
+last_space: 584, start: 495
+last_space: 667, start: 585
+last_space: 751, start: 668
+get_cursor_from_index: 8 -> 32
+get_rel_cursor: 32
+Cursor: [row: 0, column: 32]
+get_rel_cursor: 32
+last_space: 61, start: 0
+last_space: 150, start: 62
+last_space: 238, start: 151
+last_space: 326, start: 239
+last_space: 407, start: 327
+last_space: 495, start: 408
+last_space: 585, start: 496
+last_space: 668, start: 586
+last_space: 752, start: 669
+get_cursor_from_index: 9 -> 36
+get_rel_cursor: 36
+Cursor: [row: 0, column: 36]
+get_rel_cursor: 36
+last_space: 57, start: 0
+last_space: 143, start: 58
+last_space: 228, start: 144
+last_space: 408, start: 320
+last_space: 496, start: 409
+last_space: 586, start: 497
+last_space: 669, start: 587
+last_space: 753, start: 670
+get_cursor_from_index: 10 -> 40
+get_rel_cursor: 40
+Cursor: [row: 0, column: 40]
+get_rel_cursor: 40
+last_space: 49, start: 0
+last_space: 135, start: 50
+last_space: 225, start: 136
+last_space: 311, start: 226
+last_space: 400, start: 312
+last_space: 490, start: 401
+last_space: 579, start: 491
+last_space: 754, start: 671
+get_cursor_from_index: 11 -> 44
+get_rel_cursor: 44
+Cursor: [row: 0, column: 44]
+get_rel_cursor: 44
+last_space: 50, start: 0
+last_space: 136, start: 51
+last_space: 226, start: 137
+last_space: 312, start: 227
+last_space: 401, start: 313
+last_space: 491, start: 402
+last_space: 580, start: 492
+last_space: 755, start: 672
+get_cursor_from_index: 12 -> 48
+get_rel_cursor: 48
+Cursor: [row: 0, column: 48]
+get_rel_cursor: 48
+last_space: 137, start: 52
+last_space: 227, start: 138
+last_space: 313, start: 228
+last_space: 402, start: 314
+last_space: 492, start: 403
+last_space: 581, start: 493
+last_space: 756, start: 673
+get_cursor_from_index: 13 -> 52
+get_rel_cursor: 52
+Cursor: [row: 0, column: 52]
+get_rel_cursor: 52
+last_space: 47, start: 0
+last_space: 228, start: 139
+last_space: 314, start: 229
+last_space: 403, start: 315
+last_space: 493, start: 404
+last_space: 582, start: 494
+last_space: 757, start: 674
+get_cursor_from_index: 14 -> 56
+get_rel_cursor: 56
+Cursor: [row: 0, column: 56]
+get_rel_cursor: 56
+last_space: 44, start: 0
+last_space: 133, start: 45
+last_space: 217, start: 134
+last_space: 397, start: 309
+last_space: 668, start: 580
+last_space: 758, start: 669
+get_cursor_from_index: 15 -> 60
+get_rel_cursor: 60
+Cursor: [row: 0, column: 60]
+get_rel_cursor: 60
+last_space: 41, start: 0
+last_space: 129, start: 42
+last_space: 218, start: 130
+last_space: 398, start: 310
+last_space: 669, start: 581
+last_space: 759, start: 670
+get_cursor_from_index: 16 -> 64
+get_rel_cursor: 64
+Cursor: [row: 0, column: 64]
+get_rel_cursor: 64
+last_space: 38, start: 0
+last_space: 125, start: 39
+last_space: 213, start: 126
+last_space: 297, start: 214
+last_space: 387, start: 298
+last_space: 477, start: 388
+last_space: 561, start: 478
+last_space: 649, start: 562
+last_space: 730, start: 650
+get_cursor_from_index: 17 -> 68
+get_rel_cursor: 68
+Cursor: [row: 0, column: 68]
+get_rel_cursor: 68
+last_space: 126, start: 37
+last_space: 214, start: 127
+last_space: 298, start: 215
+last_space: 388, start: 299
+last_space: 478, start: 389
+last_space: 562, start: 479
+last_space: 650, start: 563
+last_space: 731, start: 651
+get_cursor_from_index: 18 -> 72
+get_rel_cursor: 72
+Cursor: [row: 0, column: 72]
+get_rel_cursor: 72
+last_space: 29, start: 0
+last_space: 116, start: 30
+last_space: 198, start: 117
+last_space: 286, start: 199
+last_space: 372, start: 287
+last_space: 460, start: 373
+last_space: 547, start: 461
+last_space: 637, start: 548
+last_space: 727, start: 638
+get_cursor_from_index: 19 -> 76
+get_rel_cursor: 76
+Cursor: [row: 0, column: 76]
+get_rel_cursor: 76
+last_space: 117, start: 31
+last_space: 199, start: 118
+last_space: 287, start: 200
+last_space: 373, start: 288
+last_space: 461, start: 374
+last_space: 548, start: 462
+last_space: 638, start: 549
+last_space: 728, start: 639
+get_cursor_from_index: 20 -> 80
+get_rel_cursor: 80
+Cursor: [row: 0, column: 80]
+get_rel_cursor: 80
+last_space: 26, start: 0
+last_space: 114, start: 27
+last_space: 200, start: 115
+last_space: 288, start: 201
+last_space: 374, start: 289
+last_space: 462, start: 375
+last_space: 549, start: 463
+last_space: 639, start: 550
+last_space: 729, start: 640
+get_cursor_from_index: 21 -> 84
+get_rel_cursor: 84
+Cursor: [row: 0, column: 84]
+get_rel_cursor: 84
+last_space: 0, start: 0
+last_space: 27, start: 1
+last_space: 115, start: 28
+last_space: 201, start: 116
+last_space: 289, start: 202
+last_space: 375, start: 290
+last_space: 463, start: 376
+last_space: 550, start: 464
+last_space: 640, start: 551
+last_space: 730, start: 641
+get_cursor_from_index: 22 -> 84
+get_rel_cursor: 84
+Cursor: [row: 1, column: 84]
+get_rel_cursor: 84
+last_space: 88, start: 0
+last_space: 267, start: 180
+last_space: 353, start: 268
+last_space: 441, start: 354
+last_space: 528, start: 442
+last_space: 618, start: 529
+last_space: 708, start: 619
+get_rel_cursor: 0
+Cursor: [row: 0, column: 0]
+[BEFORE] cursor.row = 0, rows = 33, line_map = 11
+cursor incremented
+[AFTER] cursor.row = 1
+get_rel_cursor: 0
+Cursor: [row: 1, column: 0]
+[BEFORE] cursor.row = 1, rows = 33, line_map = 11
+cursor incremented
+[AFTER] cursor.row = 2
+get_rel_cursor: 0
+Cursor: [row: 2, column: 0]
+get_rel_cursor: 0
+Index: 180
+get_cursor_from_index: 181 -> 1
+get_rel_cursor: 1
+Cursor: [row: 2, column: 1]
+get_rel_cursor: 1
+last_space: 88, start: 0
+last_space: 268, start: 180
+last_space: 354, start: 269
+last_space: 442, start: 355
+last_space: 529, start: 443
+last_space: 619, start: 530
+last_space: 709, start: 620
+get_cursor_from_index: 182 -> 2
+get_rel_cursor: 2
+Cursor: [row: 2, column: 2]
+get_rel_cursor: 2
+last_space: 88, start: 0
+last_space: 267, start: 180
+last_space: 353, start: 268
+last_space: 441, start: 354
+last_space: 528, start: 442
+last_space: 618, start: 529
+last_space: 708, start: 619
+get_cursor_from_index: 181 -> 1
+get_rel_cursor: 1
+Cursor: [row: 2, column: 1]
+get_rel_cursor: 1
+last_space: 88, start: 0
+last_space: 172, start: 89
+last_space: 253, start: 173
+last_space: 341, start: 254
+last_space: 419, start: 342
+last_space: 507, start: 420
+last_space: 589, start: 508
+last_space: 763, start: 680
+last_space: 882, start: 795
+get_cursor_from_index: 181 -> 8
+get_rel_cursor: 8
+Cursor: [row: 2, column: 8]
+get_rel_cursor: 8
+last_space: 172, start: 89
+last_space: 253, start: 173
+last_space: 341, start: 254
+last_space: 419, start: 342
+last_space: 507, start: 420
+last_space: 589, start: 508
+last_space: 677, start: 590
+last_space: 763, start: 678
+last_space: 882, start: 795
+get_cursor_from_index: 181 -> 8
+get_rel_cursor: 8
+Cursor: [row: 2, column: 8]
+get_rel_cursor: 8
+last_space: 79, start: 0
+last_space: 160, start: 80
+last_space: 409, start: 329
+last_space: 490, start: 410
+last_space: 568, start: 491
+last_space: 648, start: 569
+last_space: 724, start: 649
+last_space: 960, start: 879
+get_cursor_from_index: 181 -> 20
+get_rel_cursor: 20
+Cursor: [row: 2, column: 20]
+get_rel_cursor: 20
+last_space: 66, start: 0
+last_space: 214, start: 142
+last_space: 280, start: 215
+last_space: 353, start: 281
+last_space: 419, start: 354
+last_space: 490, start: 420
+last_space: 564, start: 491
+last_space: 636, start: 565
+last_space: 708, start: 637
+last_space: 775, start: 709
+last_space: 864, start: 795
+last_space: 938, start: 865
+get_cursor_from_index: 181 -> 39
+get_rel_cursor: 39
+Cursor: [row: 2, column: 39]
+get_rel_cursor: 39
+last_space: 66, start: 0
+last_space: 133, start: 67
+last_space: 196, start: 134
+last_space: 331, start: 265
+last_space: 398, start: 332
+last_space: 464, start: 399
+last_space: 528, start: 465
+last_space: 589, start: 529
+last_space: 653, start: 590
+last_space: 713, start: 654
+last_space: 775, start: 714
+last_space: 928, start: 863
+get_cursor_from_index: 181 -> 47
+get_rel_cursor: 47
+Cursor: [row: 2, column: 47]
+get_rel_cursor: 47
+last_space: 55, start: 0
+last_space: 118, start: 56
+last_space: 179, start: 119
+last_space: 244, start: 180
+last_space: 309, start: 245
+last_space: 568, start: 508
+last_space: 632, start: 569
+last_space: 696, start: 633
+last_space: 760, start: 697
+last_space: 856, start: 795
+last_space: 919, start: 857
+get_cursor_from_index: 181 -> 1
+get_rel_cursor: 1
+Cursor: [row: 3, column: 1]
+get_rel_cursor: 1
+last_space: 55, start: 0
+last_space: 118, start: 56
+last_space: 179, start: 119
+last_space: 370, start: 310
+last_space: 432, start: 371
+last_space: 496, start: 433
+last_space: 558, start: 497
+last_space: 687, start: 624
+last_space: 743, start: 688
+last_space: 856, start: 795
+last_space: 919, start: 857
+get_cursor_from_index: 181 -> 1
+get_rel_cursor: 1
+Cursor: [row: 3, column: 1]
+get_rel_cursor: 1
+last_space: 55, start: 0
+last_space: 179, start: 119
+last_space: 229, start: 180
+last_space: 290, start: 230
+last_space: 409, start: 354
+last_space: 470, start: 410
+last_space: 589, start: 534
+last_space: 648, start: 590
+last_space: 708, start: 649
+last_space: 770, start: 709
+last_space: 856, start: 795
+get_cursor_from_index: 181 -> 1
+get_rel_cursor: 1
+Cursor: [row: 3, column: 1]
+get_rel_cursor: 1
+last_space: 55, start: 0
+last_space: 113, start: 56
+last_space: 229, start: 173
+last_space: 280, start: 230
+last_space: 331, start: 281
+last_space: 389, start: 332
+last_space: 441, start: 390
+last_space: 499, start: 442
+last_space: 612, start: 559
+last_space: 669, start: 613
+last_space: 724, start: 670
+last_space: 775, start: 725
+last_space: 911, start: 854
+get_cursor_from_index: 181 -> 8
+get_rel_cursor: 8
+Cursor: [row: 3, column: 8]
+get_rel_cursor: 8
+last_space: 108, start: 56
+last_space: 160, start: 109
+last_space: 214, start: 161
+last_space: 267, start: 215
+last_space: 317, start: 268
+last_space: 370, start: 318
+last_space: 419, start: 371
+last_space: 473, start: 420
+last_space: 528, start: 474
+last_space: 576, start: 529
+last_space: 687, start: 633
+last_space: 845, start: 795
+last_space: 894, start: 846
+get_cursor_from_index: 181 -> 20
+get_rel_cursor: 20
+Cursor: [row: 3, column: 20]
+get_rel_cursor: 20
+last_space: 47, start: 0
+last_space: 97, start: 48
+last_space: 148, start: 98
+last_space: 196, start: 149
+last_space: 247, start: 197
+last_space: 293, start: 248
+last_space: 389, start: 346
+last_space: 490, start: 442
+last_space: 536, start: 491
+last_space: 576, start: 537
+last_space: 627, start: 577
+last_space: 724, start: 680
+last_space: 775, start: 725
+last_space: 845, start: 795
+last_space: 894, start: 846
+last_space: 938, start: 895
+get_cursor_from_index: 181 -> 32
+get_rel_cursor: 32
+Cursor: [row: 3, column: 32]
+get_rel_cursor: 32
+last_space: 47, start: 0
+last_space: 93, start: 48
+last_space: 141, start: 94
+last_space: 189, start: 142
+last_space: 229, start: 190
+last_space: 271, start: 230
+last_space: 317, start: 272
+last_space: 409, start: 367
+last_space: 451, start: 410
+last_space: 499, start: 452
+last_space: 544, start: 500
+last_space: 589, start: 545
+last_space: 636, start: 590
+last_space: 679, start: 637
+last_space: 724, start: 680
+last_space: 770, start: 725
+last_space: 841, start: 795
+last_space: 885, start: 842
+last_space: 933, start: 886
+get_cursor_from_index: 181 -> 39
+get_rel_cursor: 39
+Cursor: [row: 3, column: 39]
+get_rel_cursor: 39
+last_space: 38, start: 0
+last_space: 79, start: 39
+last_space: 124, start: 80
+last_space: 168, start: 125
+last_space: 253, start: 215
+last_space: 293, start: 254
+last_space: 331, start: 294
+last_space: 375, start: 332
+last_space: 419, start: 376
+last_space: 464, start: 420
+last_space: 555, start: 511
+last_space: 589, start: 556
+last_space: 632, start: 590
+last_space: 677, start: 633
+last_space: 713, start: 678
+last_space: 753, start: 714
+last_space: 837, start: 795
+last_space: 882, start: 838
+get_cursor_from_index: 181 -> 12
+get_rel_cursor: 12
+Cursor: [row: 4, column: 12]
+get_rel_cursor: 12
+last_space: 38, start: 0
+last_space: 79, start: 39
+last_space: 122, start: 80
+last_space: 160, start: 123
+last_space: 202, start: 161
+last_space: 244, start: 203
+last_space: 280, start: 245
+last_space: 317, start: 281
+last_space: 359, start: 318
+last_space: 398, start: 360
+last_space: 441, start: 399
+last_space: 479, start: 442
+last_space: 521, start: 480
+last_space: 564, start: 522
+last_space: 603, start: 565
+last_space: 644, start: 604
+last_space: 687, start: 645
+last_space: 724, start: 688
+last_space: 763, start: 725
+last_space: 837, start: 795
+last_space: 878, start: 838
+last_space: 919, start: 879
+last_space: 960, start: 920
+get_cursor_from_index: 181 -> 20
+get_rel_cursor: 20
+Cursor: [row: 4, column: 20]
+get_rel_cursor: 20
+last_space: 38, start: 0
+last_space: 79, start: 39
+last_space: 160, start: 123
+last_space: 202, start: 161
+last_space: 244, start: 203
+last_space: 280, start: 245
+last_space: 317, start: 281
+last_space: 359, start: 318
+last_space: 398, start: 360
+last_space: 479, start: 442
+last_space: 521, start: 480
+last_space: 603, start: 565
+last_space: 644, start: 604
+last_space: 724, start: 688
+last_space: 763, start: 725
+last_space: 878, start: 838
+last_space: 919, start: 879
+last_space: 960, start: 920
+get_cursor_from_index: 181 -> 20
+get_rel_cursor: 20
+Cursor: [row: 4, column: 20]
+get_rel_cursor: 20
+last_space: 38, start: 0
+last_space: 79, start: 39
+last_space: 118, start: 80
+last_space: 280, start: 245
+last_space: 317, start: 281
+last_space: 398, start: 360
+last_space: 437, start: 399
+last_space: 558, start: 522
+last_space: 589, start: 559
+last_space: 627, start: 590
+last_space: 708, start: 670
+last_space: 743, start: 709
+last_space: 835, start: 795
+last_space: 873, start: 836
+last_space: 950, start: 916
+get_cursor_from_index: 181 -> 20
+get_rel_cursor: 20
+Cursor: [row: 4, column: 20]
+get_rel_cursor: 20
+last_space: 38, start: 0
+last_space: 118, start: 80
+last_space: 156, start: 119
+last_space: 196, start: 157
+last_space: 229, start: 197
+last_space: 267, start: 230
+last_space: 300, start: 268
+last_space: 419, start: 383
+last_space: 499, start: 461
+last_space: 536, start: 500
+last_space: 576, start: 537
+last_space: 612, start: 577
+last_space: 687, start: 654
+last_space: 724, start: 688
+last_space: 763, start: 725
+last_space: 873, start: 836
+last_space: 911, start: 874
+last_space: 950, start: 912
+get_cursor_from_index: 181 -> 24
+get_rel_cursor: 24
+Cursor: [row: 4, column: 24]
+get_rel_cursor: 24
+last_space: 38, start: 0
+last_space: 75, start: 39
+last_space: 113, start: 76
+last_space: 148, start: 114
+last_space: 179, start: 149
+last_space: 218, start: 180
+last_space: 253, start: 219
+last_space: 331, start: 294
+last_space: 370, start: 332
+last_space: 409, start: 371
+last_space: 441, start: 410
+last_space: 479, start: 442
+last_space: 518, start: 480
+last_space: 589, start: 559
+last_space: 627, start: 590
+last_space: 659, start: 628
+last_space: 696, start: 660
+last_space: 734, start: 697
+last_space: 770, start: 735
+last_space: 830, start: 795
+last_space: 864, start: 831
+last_space: 894, start: 865
+last_space: 933, start: 895
+get_cursor_from_index: 181 -> 1
+get_rel_cursor: 1
+Cursor: [row: 5, column: 1]
+get_rel_cursor: 1
+last_space: 75, start: 39
+last_space: 113, start: 76
+last_space: 148, start: 114
+last_space: 179, start: 149
+last_space: 253, start: 219
+last_space: 290, start: 254
+last_space: 328, start: 291
+last_space: 366, start: 329
+last_space: 398, start: 367
+last_space: 473, start: 438
+last_space: 510, start: 474
+last_space: 544, start: 511
+last_space: 576, start: 545
+last_space: 612, start: 577
+last_space: 648, start: 613
+last_space: 724, start: 688
+last_space: 830, start: 795
+last_space: 864, start: 831
+last_space: 894, start: 865
+get_cursor_from_index: 181 -> 1
+get_rel_cursor: 1
+Cursor: [row: 5, column: 1]
+get_rel_cursor: 1
+Index: 181
+get_cursor_from_index: 180 -> 0
+get_rel_cursor: 0
+Cursor: [row: 5, column: 0]
+get_rel_cursor: 0
+last_space: 75, start: 39
+last_space: 113, start: 76
+last_space: 148, start: 114
+last_space: 179, start: 149
+last_space: 291, start: 255
+last_space: 329, start: 292
+last_space: 367, start: 330
+last_space: 399, start: 368
+last_space: 474, start: 439
+last_space: 511, start: 475
+last_space: 545, start: 512
+last_space: 577, start: 546
+last_space: 613, start: 578
+last_space: 649, start: 614
+last_space: 725, start: 689
+last_space: 831, start: 796
+last_space: 865, start: 832
+last_space: 895, start: 866
+get_cursor_from_index: 181 -> 4
+get_rel_cursor: 4
+Cursor: [row: 5, column: 4]
+get_rel_cursor: 4
+last_space: 75, start: 39
+last_space: 113, start: 76
+last_space: 148, start: 114
+last_space: 179, start: 149
+last_space: 204, start: 180
+last_space: 231, start: 205
+last_space: 269, start: 232
+last_space: 302, start: 270
+last_space: 333, start: 303
+last_space: 443, start: 412
+last_space: 481, start: 444
+last_space: 557, start: 521
+last_space: 591, start: 558
+last_space: 629, start: 592
+last_space: 661, start: 630
+last_space: 698, start: 662
+last_space: 736, start: 699
+last_space: 772, start: 737
+last_space: 832, start: 797
+last_space: 866, start: 833
+last_space: 896, start: 867
+get_cursor_from_index: 182 -> 8
+get_rel_cursor: 8
+Cursor: [row: 5, column: 8]
+get_rel_cursor: 8
+last_space: 75, start: 39
+last_space: 113, start: 76
+last_space: 148, start: 114
+last_space: 179, start: 149
+last_space: 205, start: 180
+last_space: 232, start: 206
+last_space: 270, start: 233
+last_space: 303, start: 271
+last_space: 334, start: 304
+last_space: 444, start: 413
+last_space: 482, start: 445
+last_space: 558, start: 522
+last_space: 592, start: 559
+last_space: 630, start: 593
+last_space: 662, start: 631
+last_space: 699, start: 663
+last_space: 737, start: 700
+last_space: 773, start: 738
+last_space: 833, start: 798
+last_space: 867, start: 834
+last_space: 897, start: 868
+get_cursor_from_index: 183 -> 12
+get_rel_cursor: 12
+Cursor: [row: 5, column: 12]
+get_rel_cursor: 12
+last_space: 75, start: 39
+last_space: 113, start: 76
+last_space: 148, start: 114
+last_space: 179, start: 149
+last_space: 233, start: 207
+last_space: 271, start: 234
+last_space: 304, start: 272
+last_space: 335, start: 305
+last_space: 445, start: 414
+last_space: 483, start: 446
+last_space: 559, start: 523
+last_space: 593, start: 560
+last_space: 631, start: 594
+last_space: 663, start: 632
+last_space: 700, start: 664
+last_space: 738, start: 701
+last_space: 774, start: 739
+last_space: 834, start: 799
+last_space: 868, start: 835
+last_space: 898, start: 869
+get_cursor_from_index: 184 -> 16
+get_rel_cursor: 16
+Cursor: [row: 5, column: 16]
+get_rel_cursor: 16
+last_space: 75, start: 39
+last_space: 113, start: 76
+last_space: 148, start: 114
+last_space: 179, start: 149
+last_space: 201, start: 180
+last_space: 234, start: 202
+last_space: 272, start: 235
+last_space: 305, start: 273
+last_space: 336, start: 306
+last_space: 446, start: 415
+last_space: 484, start: 447
+last_space: 560, start: 524
+last_space: 594, start: 561
+last_space: 632, start: 595
+last_space: 664, start: 633
+last_space: 701, start: 665
+last_space: 739, start: 702
+last_space: 775, start: 740
+last_space: 835, start: 800
+last_space: 869, start: 836
+last_space: 899, start: 870
+get_cursor_from_index: 185 -> 20
+get_rel_cursor: 20
+Cursor: [row: 5, column: 20]
+get_rel_cursor: 20
+last_space: 75, start: 39
+last_space: 113, start: 76
+last_space: 148, start: 114
+last_space: 179, start: 149
+last_space: 198, start: 180
+last_space: 235, start: 199
+last_space: 273, start: 236
+last_space: 306, start: 274
+last_space: 337, start: 307
+last_space: 447, start: 416
+last_space: 485, start: 448
+last_space: 561, start: 525
+last_space: 595, start: 562
+last_space: 633, start: 596
+last_space: 665, start: 634
+last_space: 702, start: 666
+last_space: 740, start: 703
+last_space: 776, start: 741
+last_space: 836, start: 801
+last_space: 870, start: 837
+last_space: 900, start: 871
+get_cursor_from_index: 186 -> 24
+get_rel_cursor: 24
+Cursor: [row: 5, column: 24]
+get_rel_cursor: 24
+last_space: 75, start: 39
+last_space: 113, start: 76
+last_space: 148, start: 114
+last_space: 179, start: 149
+last_space: 196, start: 180
+last_space: 232, start: 197
+last_space: 307, start: 272
+last_space: 338, start: 308
+last_space: 448, start: 417
+last_space: 486, start: 449
+last_space: 562, start: 526
+last_space: 596, start: 563
+last_space: 634, start: 597
+last_space: 666, start: 635
+last_space: 703, start: 667
+last_space: 741, start: 704
+last_space: 777, start: 742
+last_space: 837, start: 802
+last_space: 871, start: 838
+last_space: 901, start: 872
+get_cursor_from_index: 187 -> 28
+get_rel_cursor: 28
+Cursor: [row: 5, column: 28]
+get_rel_cursor: 28
+last_space: 75, start: 39
+last_space: 113, start: 76
+last_space: 148, start: 114
+last_space: 179, start: 149
+last_space: 0, start: 180
+last_space: 75, start: 39
+last_space: 113, start: 76
+last_space: 148, start: 114
+last_space: 179, start: 149
+last_space: 253, start: 219
+last_space: 290, start: 254
+last_space: 328, start: 291
+last_space: 366, start: 329
+last_space: 398, start: 367
+last_space: 473, start: 438
+last_space: 510, start: 474
+last_space: 544, start: 511
+last_space: 576, start: 545
+last_space: 612, start: 577
+last_space: 648, start: 613
+last_space: 724, start: 688
+last_space: 830, start: 795
+last_space: 864, start: 831
+last_space: 894, start: 865
+get_rel_cursor: 0
+Cursor: [row: 0, column: 0]
+[BEFORE] cursor.row = 0, rows = 33, line_map = 27
+cursor incremented
+[AFTER] cursor.row = 1
+get_rel_cursor: 0
+Cursor: [row: 1, column: 0]
+[BEFORE] cursor.row = 1, rows = 33, line_map = 27
+cursor incremented
+[AFTER] cursor.row = 2
+get_rel_cursor: 0
+Cursor: [row: 2, column: 0]
+[BEFORE] cursor.row = 2, rows = 33, line_map = 27
+cursor incremented
+[AFTER] cursor.row = 3
+get_rel_cursor: 0
+Cursor: [row: 3, column: 0]
+[BEFORE] cursor.row = 3, rows = 33, line_map = 27
+cursor incremented
+[AFTER] cursor.row = 4
+get_rel_cursor: 0
+Cursor: [row: 4, column: 0]
+[BEFORE] cursor.row = 4, rows = 33, line_map = 27
+cursor incremented
+[AFTER] cursor.row = 5
+get_rel_cursor: 0
+Cursor: [row: 5, column: 0]
+[BEFORE] cursor.row = 5, rows = 33, line_map = 27
+cursor incremented
+[AFTER] cursor.row = 6
+get_rel_cursor: 0
+Cursor: [row: 6, column: 0]
+[BEFORE] cursor.row = 6, rows = 33, line_map = 27
+cursor incremented
+[AFTER] cursor.row = 7
+get_rel_cursor: 0
+Cursor: [row: 7, column: 0]
+[BEFORE] cursor.row = 7, rows = 33, line_map = 27
+cursor incremented
+[AFTER] cursor.row = 8
+get_rel_cursor: 0
+Cursor: [row: 8, column: 0]
+[BEFORE] cursor.row = 8, rows = 33, line_map = 27
+cursor incremented
+[AFTER] cursor.row = 9
+get_rel_cursor: 0
+Cursor: [row: 9, column: 0]
+[BEFORE] cursor.row = 9, rows = 33, line_map = 27
+cursor incremented
+[AFTER] cursor.row = 10
+get_rel_cursor: 0
+Cursor: [row: 10, column: 0]
+[BEFORE] cursor.row = 10, rows = 33, line_map = 27
+cursor incremented
+[AFTER] cursor.row = 11
+get_rel_cursor: 0
+Cursor: [row: 11, column: 0]
+[BEFORE] cursor.row = 11, rows = 33, line_map = 27
+cursor incremented
+[AFTER] cursor.row = 12
+get_rel_cursor: 0
+Cursor: [row: 12, column: 0]
+[BEFORE] cursor.row = 12, rows = 33, line_map = 27
+cursor incremented
+[AFTER] cursor.row = 13
+get_rel_cursor: 0
+Cursor: [row: 13, column: 0]
+[BEFORE] cursor.row = 13, rows = 33, line_map = 27
+cursor incremented
+[AFTER] cursor.row = 14
+get_rel_cursor: 0
+Cursor: [row: 14, column: 0]
+get_rel_cursor: 0
+last_space: 75, start: 39
+last_space: 113, start: 76
+last_space: 148, start: 114
+last_space: 179, start: 149
+last_space: 253, start: 219
+last_space: 290, start: 254
+last_space: 328, start: 291
+last_space: 366, start: 329
+last_space: 398, start: 367
+last_space: 473, start: 438
+last_space: 75, start: 39
+last_space: 113, start: 76
+last_space: 148, start: 114
+last_space: 179, start: 149
+last_space: 253, start: 219
+last_space: 290, start: 254
+last_space: 328, start: 291
+last_space: 366, start: 329
+last_space: 398, start: 367
+last_space: 473, start: 438
+last_space: 510, start: 474
+last_space: 544, start: 511
+last_space: 576, start: 545
+last_space: 612, start: 577
+last_space: 648, start: 613
+last_space: 724, start: 688
+last_space: 830, start: 795
+last_space: 864, start: 831
+last_space: 894, start: 865
+get_rel_cursor: 0
+Cursor: [row: 0, column: 0]
+[BEFORE] cursor.row = 0, rows = 33, line_map = 27
+cursor incremented
+[AFTER] cursor.row = 1
+get_rel_cursor: 0
+Cursor: [row: 1, column: 0]
+[BEFORE] cursor.row = 1, rows = 33, line_map = 27
+cursor incremented
+[AFTER] cursor.row = 2
+get_rel_cursor: 0
+Cursor: [row: 2, column: 0]
+[BEFORE] cursor.row = 2, rows = 33, line_map = 27
+cursor incremented
+[AFTER] cursor.row = 3
+get_rel_cursor: 0
+Cursor: [row: 3, column: 0]
+[BEFORE] cursor.row = 3, rows = 33, line_map = 27
+cursor incremented
+[AFTER] cursor.row = 4
+get_rel_cursor: 0
+Cursor: [row: 4, column: 0]
+[BEFORE] cursor.row = 4, rows = 33, line_map = 27
+cursor incremented
+[AFTER] cursor.row = 5
+get_rel_cursor: 0
+Cursor: [row: 5, column: 0]
+[BEFORE] cursor.row = 5, rows = 33, line_map = 27
+cursor incremented
+[AFTER] cursor.row = 6
+get_rel_cursor: 0
+Cursor: [row: 6, column: 0]
+[BEFORE] cursor.row = 6, rows = 33, line_map = 27
+cursor incremented
+[AFTER] cursor.row = 7
+get_rel_cursor: 0
+Cursor: [row: 7, column: 0]
+[BEFORE] cursor.row = 7, rows = 33, line_map = 27
+cursor incremented
+[AFTER] cursor.row = 8
+get_rel_cursor: 0
+Cursor: [row: 8, column: 0]
+[BEFORE] cursor.row = 8, rows = 33, line_map = 27
+cursor incremented
+[AFTER] cursor.row = 9
+get_rel_cursor: 0
+Cursor: [row: 9, column: 0]
+[BEFORE] cursor.row = 9, rows = 33, line_map = 27
+cursor incremented
+[AFTER] cursor.row = 10
+get_rel_cursor: 0
+Cursor: [row: 10, column: 0]
+[BEFORE] cursor.row = 10, rows = 33, line_map = 27
+cursor incremented
+[AFTER] cursor.row = 11
+get_rel_cursor: 0
+Cursor: [row: 11, column: 0]
+[BEFORE] cursor.row = 11, rows = 33, line_map = 27
+cursor incremented
+[AFTER] cursor.row = 12
+get_rel_cursor: 0
+Cursor: [row: 12, column: 0]
+[BEFORE] cursor.row = 12, rows = 33, line_map = 27
+cursor incremented
+[AFTER] cursor.row = 13
+get_rel_cursor: 0
+Cursor: [row: 13, column: 0]
+[BEFORE] cursor.row = 13, rows = 33, line_map = 27
+cursor incremented
+[AFTER] cursor.row = 14
+get_rel_cursor: 0
+Cursor: [row: 14, column: 0]
+get_rel_cursor: 0
+last_space: 75, start: 39
+last_space: 113, start: 76
+last_space: 148, start: 114
+last_space: 179, start: 149
+last_space: 253, start: 219
+last_space: 290, start: 254
+last_space: 328, start: 291
+last_space: 366, start: 329
+last_space: 398, start: 367
+last_space: 473, start: 438
+last_space: 75, start: 39
+last_space: 113, start: 76
+last_space: 148, start: 114
+last_space: 179, start: 149
+last_space: 253, start: 219
+last_space: 290, start: 254
+last_space: 328, start: 291
+last_space: 366, start: 329
+last_space: 398, start: 367
+last_space: 473, start: 438
+last_space: 510, start: 474
+last_space: 544, start: 511
+last_space: 576, start: 545
+last_space: 612, start: 577
+last_space: 648, start: 613
+last_space: 724, start: 688
+last_space: 830, start: 795
+last_space: 864, start: 831
+last_space: 894, start: 865
+get_rel_cursor: 0
+Cursor: [row: 0, column: 0]
+[BEFORE] cursor.row = 0, rows = 33, line_map = 27
+cursor incremented
+[AFTER] cursor.row = 1
+get_rel_cursor: 0
+Cursor: [row: 1, column: 0]
+[BEFORE] cursor.row = 1, rows = 33, line_map = 27
+cursor incremented
+[AFTER] cursor.row = 2
+get_rel_cursor: 0
+Cursor: [row: 2, column: 0]
+[BEFORE] cursor.row = 2, rows = 33, line_map = 27
+cursor incremented
+[AFTER] cursor.row = 3
+get_rel_cursor: 0
+Cursor: [row: 3, column: 0]
+[BEFORE] cursor.row = 3, rows = 33, line_map = 27
+cursor incremented
+[AFTER] cursor.row = 4
+get_rel_cursor: 0
+Cursor: [row: 4, column: 0]
+[BEFORE] cursor.row = 4, rows = 33, line_map = 27
+cursor incremented
+[AFTER] cursor.row = 5
+get_rel_cursor: 0
+Cursor: [row: 5, column: 0]
+[BEFORE] cursor.row = 5, rows = 33, line_map = 27
+cursor incremented
+[AFTER] cursor.row = 6
+get_rel_cursor: 0
+Cursor: [row: 6, column: 0]
+[BEFORE] cursor.row = 6, rows = 33, line_map = 27
+cursor incremented
+[AFTER] cursor.row = 7
+get_rel_cursor: 0
+Cursor: [row: 7, column: 0]
+[BEFORE] cursor.row = 7, rows = 33, line_map = 27
+cursor incremented
+[AFTER] cursor.row = 8
+get_rel_cursor: 0
+Cursor: [row: 8, column: 0]
+[BEFORE] cursor.row = 8, rows = 33, line_map = 27
+cursor incremented
+[AFTER] cursor.row = 9
+get_rel_cursor: 0
+Cursor: [row: 9, column: 0]
+get_rel_cursor: 0
+last_space: 75, start: 39
+last_space: 113, start: 76
+last_space: 148, start: 114
+last_space: 179, start: 149
+last_space: 253, start: 219
+last_space: 290, start: 254
+last_space: 75, start: 39
+last_space: 113, start: 76
+last_space: 148, start: 114
+last_space: 179, start: 149
+last_space: 253, start: 219
+last_space: 290, start: 254
+last_space: 328, start: 291
+last_space: 366, start: 329
+last_space: 398, start: 367
+last_space: 473, start: 438
+last_space: 510, start: 474
+last_space: 544, start: 511
+last_space: 576, start: 545
+last_space: 612, start: 577
+last_space: 648, start: 613
+last_space: 724, start: 688
+last_space: 830, start: 795
+last_space: 864, start: 831
+last_space: 894, start: 865
+get_rel_cursor: 0
+Cursor: [row: 0, column: 0]
+get_rel_cursor: 0
+last_space: 38, start: 0
+last_space: 75, start: 39
+last_space: 113, start: 76
+last_space: 148, start: 114
+last_space: 179, start: 149
+last_space: 218, start: 180
+last_space: 253, start: 219
+last_space: 331, start: 294
+last_space: 370, start: 332
+last_space: 409, start: 371
+last_space: 441, start: 410
+last_space: 479, start: 442
+last_space: 518, start: 480
+last_space: 589, start: 559
+last_space: 627, start: 590
+last_space: 659, start: 628
+last_space: 696, start: 660
+last_space: 734, start: 697
+last_space: 770, start: 735
+last_space: 830, start: 795
+last_space: 864, start: 831
+last_space: 894, start: 865
+last_space: 933, start: 895
+get_cursor_from_index: 0 -> 0
+get_rel_cursor: 0
+Cursor: [row: 0, column: 0]
+get_rel_cursor: 0
+last_space: 38, start: 0
+last_space: 79, start: 39
+last_space: 118, start: 80
+last_space: 280, start: 245
+last_space: 317, start: 281
+last_space: 398, start: 360
+last_space: 437, start: 399
+last_space: 558, start: 522
+last_space: 589, start: 559
+last_space: 627, start: 590
+last_space: 708, start: 670
+last_space: 743, start: 709
+last_space: 835, start: 795
+last_space: 873, start: 836
+last_space: 950, start: 916
+get_cursor_from_index: 0 -> 0
+get_rel_cursor: 0
+Cursor: [row: 0, column: 0]
+get_rel_cursor: 0
+last_space: 52, start: 0
+last_space: 267, start: 215
+last_space: 317, start: 268
+last_space: 370, start: 318
+last_space: 419, start: 371
+last_space: 521, start: 474
+last_space: 568, start: 522
+last_space: 618, start: 569
+last_space: 724, start: 673
+last_space: 775, start: 725
+last_space: 845, start: 795
+last_space: 894, start: 846
+last_space: 947, start: 895
+get_cursor_from_index: 0 -> 0
+get_rel_cursor: 0
+Cursor: [row: 0, column: 0]
+get_rel_cursor: 0
+last_space: 55, start: 0
+last_space: 179, start: 119
+last_space: 229, start: 180
+last_space: 290, start: 230
+last_space: 409, start: 354
+last_space: 470, start: 410
+last_space: 589, start: 534
+last_space: 648, start: 590
+last_space: 708, start: 649
+last_space: 770, start: 709
+last_space: 856, start: 795
+get_cursor_from_index: 0 -> 0
+get_rel_cursor: 0
+Cursor: [row: 0, column: 0]
+get_rel_cursor: 0
+last_space: 66, start: 0
+last_space: 133, start: 67
+last_space: 331, start: 272
+last_space: 398, start: 332
+last_space: 464, start: 399
+last_space: 589, start: 534
+last_space: 653, start: 590
+last_space: 713, start: 654
+last_space: 775, start: 714
+last_space: 862, start: 795
+last_space: 928, start: 863
+get_cursor_from_index: 0 -> 0
+get_rel_cursor: 0
+Cursor: [row: 0, column: 0]
+[BEFORE] cursor.row = 0, rows = 33, line_map = 16
+cursor incremented
+[AFTER] cursor.row = 1
+get_rel_cursor: 0
+Cursor: [row: 1, column: 0]
+[BEFORE] cursor.row = 1, rows = 33, line_map = 16
+cursor incremented
+[AFTER] cursor.row = 2
+get_rel_cursor: 0
+Cursor: [row: 2, column: 0]
+[BEFORE] cursor.row = 2, rows = 33, line_map = 16
+cursor incremented
+[AFTER] cursor.row = 3
+get_rel_cursor: 0
+Cursor: [row: 3, column: 0]
+[BEFORE] cursor.row = 3, rows = 33, line_map = 16
+cursor incremented
+[AFTER] cursor.row = 4
+get_rel_cursor: 0
+Cursor: [row: 4, column: 0]
+[BEFORE] cursor.row = 4, rows = 33, line_map = 16
+cursor incremented
+[AFTER] cursor.row = 5
+get_rel_cursor: 0
+Cursor: [row: 5, column: 0]
+get_rel_cursor: 0
+last_space: 66, start: 0
+last_space: 133, start: 67
+last_space: 331, start: 272
+last_space: 390, start: 332
+last_space: 452, start: 391
+last_space: 519, start: 453
+last_space: 577, start: 520
+last_space: 645, start: 578
+last_space: 776, start: 715
+last_space: 863, start: 796
+last_space: 929, start: 864
+get_cursor_from_index: 333 -> 4
+get_rel_cursor: 4
+Cursor: [row: 5, column: 4]
+get_rel_cursor: 4
+last_space: 66, start: 0
+last_space: 133, start: 67
+last_space: 331, start: 272
+last_space: 391, start: 332
+last_space: 453, start: 392
+last_space: 520, start: 454
+last_space: 578, start: 521
+last_space: 646, start: 579
+last_space: 777, start: 716
+last_space: 864, start: 797
+last_space: 930, start: 865
+get_cursor_from_index: 334 -> 8
+get_rel_cursor: 8
+Cursor: [row: 5, column: 8]
+get_rel_cursor: 8
+Index: 334
+get_cursor_from_index: 333 -> 4
+get_rel_cursor: 4
+Cursor: [row: 5, column: 4]
+get_rel_cursor: 4
+last_space: 66, start: 0
+last_space: 133, start: 67
+last_space: 392, start: 334
+last_space: 454, start: 393
+last_space: 521, start: 455
+last_space: 579, start: 522
+last_space: 647, start: 580
+last_space: 778, start: 717
+last_space: 865, start: 798
+last_space: 931, start: 866
+get_cursor_from_index: 334 -> 0
+get_rel_cursor: 0
+Cursor: [row: 5, column: 0]
+get_rel_cursor: 0
+last_space: 66, start: 0
+last_space: 133, start: 67
+last_space: 331, start: 272
+last_space: 391, start: 332
+last_space: 453, start: 392
+last_space: 520, start: 454
+last_space: 578, start: 521
+last_space: 646, start: 579
+last_space: 777, start: 716
+last_space: 864, start: 797
+last_space: 930, start: 865
+get_cursor_from_index: 333 -> 4
+get_rel_cursor: 4
+Cursor: [row: 5, column: 4]
+get_rel_cursor: 4
+last_space: 66, start: 0
+last_space: 133, start: 67
+last_space: 392, start: 334
+last_space: 454, start: 393
+last_space: 521, start: 455
+last_space: 579, start: 522
+last_space: 647, start: 580
+last_space: 778, start: 717
+last_space: 865, start: 798
+last_space: 931, start: 866
+get_cursor_from_index: 334 -> 0
+get_rel_cursor: 0
+Cursor: [row: 5, column: 0]
+get_rel_cursor: 0
+last_space: 66, start: 0
+last_space: 133, start: 67
+last_space: 331, start: 272
+last_space: 391, start: 332
+last_space: 453, start: 392
+last_space: 520, start: 454
+last_space: 578, start: 521
+last_space: 646, start: 579
+last_space: 777, start: 716
+last_space: 864, start: 797
+last_space: 930, start: 865
+get_cursor_from_index: 333 -> 4
+get_rel_cursor: 4
+Cursor: [row: 5, column: 4]
+get_rel_cursor: 4
+last_space: 66, start: 0
+last_space: 133, start: 67
+last_space: 392, start: 334
+last_space: 454, start: 393
+last_space: 521, start: 455
+last_space: 579, start: 522
+last_space: 647, start: 580
+last_space: 778, start: 717
+last_space: 865, start: 798
+last_space: 931, start: 866
+get_cursor_from_index: 334 -> 0
+get_rel_cursor: 0
+Cursor: [row: 5, column: 0]
+get_rel_cursor: 0
+last_space: 66, start: 0
+last_space: 133, start: 67
+last_space: 331, start: 272
+last_space: 391, start: 332
+last_space: 453, start: 392
+last_space: 520, start: 454
+last_space: 578, start: 521
+last_space: 646, start: 579
+last_space: 777, start: 716
+last_space: 864, start: 797
+last_space: 930, start: 865
+get_cursor_from_index: 333 -> 4
+get_rel_cursor: 4
+Cursor: [row: 5, column: 4]
+get_rel_cursor: 4
+last_space: 66, start: 0
+last_space: 133, start: 67
+last_space: 392, start: 334
+last_space: 454, start: 393
+last_space: 521, start: 455
+last_space: 579, start: 522
+last_space: 647, start: 580
+last_space: 778, start: 717
+last_space: 865, start: 798
+last_space: 931, start: 866
+get_cursor_from_index: 334 -> 0
+get_rel_cursor: 0
+Cursor: [row: 5, column: 0]
+get_rel_cursor: 0
+last_space: 66, start: 0
+last_space: 133, start: 67
+last_space: 331, start: 272
+last_space: 391, start: 332
+last_space: 453, start: 392
+last_space: 520, start: 454
+last_space: 578, start: 521
+last_space: 646, start: 579
+last_space: 777, start: 716
+last_space: 864, start: 797
+last_space: 930, start: 865
+get_cursor_from_index: 333 -> 4
+get_rel_cursor: 4
+Cursor: [row: 5, column: 4]
+get_rel_cursor: 4
+last_space: 66, start: 0
+last_space: 133, start: 67
+last_space: 331, start: 272
+last_space: 390, start: 332
+last_space: 452, start: 391
+last_space: 519, start: 453
+last_space: 577, start: 520
+last_space: 645, start: 578
+last_space: 776, start: 715
+last_space: 863, start: 796
+last_space: 929, start: 864
+get_cursor_from_index: 332 -> 0
+get_rel_cursor: 0
+Cursor: [row: 5, column: 0]
+get_rel_cursor: 0
+last_space: 66, start: 0
+last_space: 133, start: 67
+last_space: 328, start: 272
+last_space: 389, start: 329
+last_space: 451, start: 390
+last_space: 518, start: 452
+last_space: 576, start: 519
+last_space: 644, start: 577
+last_space: 775, start: 714
+last_space: 862, start: 795
+last_space: 928, start: 863
+get_cursor_from_index: 331 -> 2
+get_rel_cursor: 2
+Cursor: [row: 5, column: 2]
+get_rel_cursor: 2
+Index: 331
+get_cursor_from_index: 332 -> 6
+get_rel_cursor: 6
+Cursor: [row: 5, column: 6]
+get_rel_cursor: 6
+last_space: 66, start: 0
+last_space: 133, start: 67
+last_space: 408, start: 341
+last_space: 472, start: 409
+last_space: 535, start: 473
+last_space: 602, start: 536
+last_space: 733, start: 672
+last_space: 861, start: 794
+last_space: 927, start: 862
+get_cursor_from_index: 331 -> 59
+get_rel_cursor: 59
+Cursor: [row: 4, column: 59]
+get_rel_cursor: 59
+last_space: 66, start: 0
+last_space: 133, start: 67
+last_space: 398, start: 332
+last_space: 464, start: 399
+last_space: 589, start: 534
+last_space: 653, start: 590
+last_space: 713, start: 654
+last_space: 775, start: 714
+last_space: 862, start: 795
+last_space: 928, start: 863
+get_cursor_from_index: 332 -> 0
+get_rel_cursor: 0
+Cursor: [row: 5, column: 0]
+get_rel_cursor: 0
+last_space: 66, start: 0
+last_space: 133, start: 67
+last_space: 408, start: 341
+last_space: 472, start: 409
+last_space: 535, start: 473
+last_space: 602, start: 536
+last_space: 733, start: 672
+last_space: 861, start: 794
+last_space: 927, start: 862
+get_cursor_from_index: 331 -> 59
+get_rel_cursor: 59
+Cursor: [row: 4, column: 59]
+get_rel_cursor: 59
+last_space: 66, start: 0
+last_space: 133, start: 67
+last_space: 331, start: 272
+last_space: 398, start: 332
+last_space: 464, start: 399
+last_space: 589, start: 534
+last_space: 653, start: 590
+last_space: 713, start: 654
+last_space: 775, start: 714
+last_space: 862, start: 795
+last_space: 928, start: 863
+get_cursor_from_index: 332 -> 0
+get_rel_cursor: 0
+Cursor: [row: 5, column: 0]
+get_rel_cursor: 0
+last_space: 66, start: 0
+last_space: 133, start: 67
+last_space: 408, start: 341
+last_space: 472, start: 409
+last_space: 535, start: 473
+last_space: 602, start: 536
+last_space: 733, start: 672
+last_space: 861, start: 794
+last_space: 927, start: 862
+get_cursor_from_index: 331 -> 59
+get_rel_cursor: 59
+Cursor: [row: 4, column: 59]
+get_rel_cursor: 59
+last_space: 66, start: 0
+last_space: 133, start: 67
+last_space: 328, start: 272
+last_space: 389, start: 329
+last_space: 451, start: 390
+last_space: 518, start: 452
+last_space: 576, start: 519
+last_space: 644, start: 577
+last_space: 775, start: 714
+last_space: 862, start: 795
+last_space: 928, start: 863
+get_cursor_from_index: 332 -> 6
+get_rel_cursor: 6
+Cursor: [row: 5, column: 6]
+get_rel_cursor: 6
+last_space: 66, start: 0
+last_space: 133, start: 67
+last_space: 328, start: 272
+last_space: 390, start: 329
+last_space: 452, start: 391
+last_space: 519, start: 453
+last_space: 577, start: 520
+last_space: 645, start: 578
+last_space: 776, start: 715
+last_space: 863, start: 796
+last_space: 929, start: 864
+get_cursor_from_index: 333 -> 10
+get_rel_cursor: 10
+Cursor: [row: 5, column: 10]
+get_rel_cursor: 10
+Index: 333
+get_cursor_from_index: 332 -> 6
+get_rel_cursor: 6
+Cursor: [row: 5, column: 6]
+get_rel_cursor: 6
+Index: 332
+get_cursor_from_index: 331 -> 2
+get_rel_cursor: 2
+Cursor: [row: 5, column: 2]
+get_rel_cursor: 2
+Index: 331
+get_cursor_from_index: 330 -> 1
+get_rel_cursor: 1
+Cursor: [row: 5, column: 1]
+get_rel_cursor: 1
+Index: 330
+get_cursor_from_index: 329 -> 0
+get_rel_cursor: 0
+Cursor: [row: 5, column: 0]
+get_rel_cursor: 0
+last_space: 66, start: 0
+last_space: 133, start: 67
+last_space: 325, start: 272
+last_space: 382, start: 326
+last_space: 518, start: 452
+last_space: 576, start: 519
+last_space: 644, start: 577
+last_space: 775, start: 714
+last_space: 862, start: 795
+last_space: 928, start: 863
+get_cursor_from_index: 328 -> 2
+get_rel_cursor: 2
+Cursor: [row: 5, column: 2]
+get_rel_cursor: 2
+last_space: 66, start: 0
+last_space: 133, start: 67
+last_space: 328, start: 272
+last_space: 390, start: 329
+last_space: 452, start: 391
+last_space: 519, start: 453
+last_space: 577, start: 520
+last_space: 645, start: 578
+last_space: 776, start: 715
+last_space: 863, start: 796
+last_space: 929, start: 864
+get_cursor_from_index: 329 -> 0
+get_rel_cursor: 0
+Cursor: [row: 5, column: 0]
+get_rel_cursor: 0
+Index: 329
+get_cursor_from_index: 330 -> 1
+get_rel_cursor: 1
+Cursor: [row: 5, column: 1]
+get_rel_cursor: 1
+Index: 330
+get_cursor_from_index: 331 -> 2
+get_rel_cursor: 2
+Cursor: [row: 5, column: 2]
+get_rel_cursor: 2
+Index: 331
+get_cursor_from_index: 332 -> 6
+get_rel_cursor: 6
+Cursor: [row: 5, column: 6]
+get_rel_cursor: 6
+Index: 332
+get_cursor_from_index: 333 -> 10
+get_rel_cursor: 10
+Cursor: [row: 5, column: 10]
+get_rel_cursor: 10
+Index: 333
+get_cursor_from_index: 332 -> 6
+get_rel_cursor: 6
+Cursor: [row: 5, column: 6]
+get_rel_cursor: 6
+last_space: 66, start: 0
+last_space: 133, start: 67
+last_space: 391, start: 333
+last_space: 453, start: 392
+last_space: 520, start: 454
+last_space: 578, start: 521
+last_space: 646, start: 579
+last_space: 777, start: 716
+last_space: 864, start: 797
+last_space: 930, start: 865
+get_cursor_from_index: 333 -> 0
+get_rel_cursor: 0
+Cursor: [row: 5, column: 0]
+get_rel_cursor: 0
+last_space: 66, start: 0
+last_space: 133, start: 67
+last_space: 328, start: 272
+last_space: 390, start: 329
+last_space: 452, start: 391
+last_space: 519, start: 453
+last_space: 577, start: 520
+last_space: 645, start: 578
+last_space: 776, start: 715
+last_space: 863, start: 796
+last_space: 929, start: 864
+get_cursor_from_index: 332 -> 6
+get_rel_cursor: 6
+Cursor: [row: 5, column: 6]
+get_rel_cursor: 6
+last_space: 66, start: 0
+last_space: 133, start: 67
+last_space: 391, start: 333
+last_space: 453, start: 392
+last_space: 520, start: 454
+last_space: 578, start: 521
+last_space: 646, start: 579
+last_space: 777, start: 716
+last_space: 864, start: 797
+last_space: 930, start: 865
+get_cursor_from_index: 333 -> 0
+get_rel_cursor: 0
+Cursor: [row: 5, column: 0]
+get_rel_cursor: 0
+last_space: 66, start: 0
+last_space: 133, start: 67
+last_space: 328, start: 272
+last_space: 390, start: 329
+last_space: 452, start: 391
+last_space: 519, start: 453
+last_space: 577, start: 520
+last_space: 645, start: 578
+last_space: 776, start: 715
+last_space: 863, start: 796
+last_space: 929, start: 864
+get_cursor_from_index: 332 -> 6
+get_rel_cursor: 6
+Cursor: [row: 5, column: 6]
+get_rel_cursor: 6
+last_space: 66, start: 0
+last_space: 133, start: 67
+last_space: 391, start: 333
+last_space: 453, start: 392
+last_space: 520, start: 454
+last_space: 578, start: 521
+last_space: 646, start: 579
+last_space: 777, start: 716
+last_space: 864, start: 797
+last_space: 930, start: 865
+get_cursor_from_index: 333 -> 0
+get_rel_cursor: 0
+Cursor: [row: 5, column: 0]
+get_rel_cursor: 0
+last_space: 66, start: 0
+last_space: 133, start: 67
+last_space: 328, start: 272
+last_space: 390, start: 329
+last_space: 452, start: 391
+last_space: 519, start: 453
+last_space: 577, start: 520
+last_space: 645, start: 578
+last_space: 776, start: 715
+last_space: 863, start: 796
+last_space: 929, start: 864
+get_cursor_from_index: 332 -> 6
+get_rel_cursor: 6
+Cursor: [row: 5, column: 6]
+get_rel_cursor: 6
+last_space: 66, start: 0
+last_space: 133, start: 67
+last_space: 391, start: 333
+last_space: 453, start: 392
+last_space: 520, start: 454
+last_space: 578, start: 521
+last_space: 646, start: 579
+last_space: 777, start: 716
+last_space: 864, start: 797
+last_space: 930, start: 865
+get_cursor_from_index: 333 -> 0
+get_rel_cursor: 0
+Cursor: [row: 5, column: 0]
+get_rel_cursor: 0
+last_space: 66, start: 0
+last_space: 133, start: 67
+last_space: 392, start: 333
+last_space: 454, start: 393
+last_space: 521, start: 455
+last_space: 579, start: 522
+last_space: 647, start: 580
+last_space: 778, start: 717
+last_space: 865, start: 798
+last_space: 931, start: 866
+get_cursor_from_index: 334 -> 1
+get_rel_cursor: 1
+Cursor: [row: 5, column: 1]
+get_rel_cursor: 1
+last_space: 66, start: 0
+last_space: 133, start: 67
+last_space: 391, start: 333
+last_space: 453, start: 392
+last_space: 520, start: 454
+last_space: 578, start: 521
+last_space: 646, start: 579
+last_space: 777, start: 716
+last_space: 864, start: 797
+last_space: 930, start: 865
+get_cursor_from_index: 333 -> 0
+get_rel_cursor: 0
+Cursor: [row: 5, column: 0]
+get_rel_cursor: 0
+Index: 333
+get_cursor_from_index: 332 -> 63
+get_rel_cursor: 63
+Cursor: [row: 4, column: 63]
+get_rel_cursor: 63
+Index: 332
+get_cursor_from_index: 331 -> 59
+get_rel_cursor: 59
+Cursor: [row: 4, column: 59]
+get_rel_cursor: 59
+Index: 331
+get_cursor_from_index: 332 -> 63
+get_rel_cursor: 63
+Cursor: [row: 4, column: 63]
+get_rel_cursor: 63
+Index: 332
+get_cursor_from_index: 333 -> 0
+get_rel_cursor: 0
+Cursor: [row: 5, column: 0]
+get_rel_cursor: 0
+Index: 333
+get_cursor_from_index: 334 -> 4
+get_rel_cursor: 4
+Cursor: [row: 5, column: 4]
+get_rel_cursor: 4
+Index: 334
+get_cursor_from_index: 333 -> 0
+get_rel_cursor: 0
+Cursor: [row: 5, column: 0]
+get_rel_cursor: 0
+Index: 333
+get_cursor_from_index: 332 -> 63
+get_rel_cursor: 63
+Cursor: [row: 4, column: 63]
+get_rel_cursor: 63
+Index: 332
+get_cursor_from_index: 331 -> 59
+get_rel_cursor: 59
+Cursor: [row: 4, column: 59]
+get_rel_cursor: 59
+Index: 331
+get_cursor_from_index: 332 -> 63
+get_rel_cursor: 63
+Cursor: [row: 4, column: 63]
+get_rel_cursor: 63
+Index: 332
+get_cursor_from_index: 333 -> 0
+get_rel_cursor: 0
+Cursor: [row: 5, column: 0]
+get_rel_cursor: 0
+last_space: 66, start: 0
+last_space: 133, start: 67
+last_space: 328, start: 272
+last_space: 390, start: 329
+last_space: 452, start: 391
+last_space: 519, start: 453
+last_space: 577, start: 520
+last_space: 645, start: 578
+last_space: 776, start: 715
+last_space: 863, start: 796
+last_space: 929, start: 864
+get_cursor_from_index: 332 -> 6
+get_rel_cursor: 6
+Cursor: [row: 5, column: 6]
+get_rel_cursor: 6
+last_space: 66, start: 0
+last_space: 133, start: 67
+last_space: 391, start: 333
+last_space: 453, start: 392
+last_space: 520, start: 454
+last_space: 578, start: 521
+last_space: 646, start: 579
+last_space: 777, start: 716
+last_space: 864, start: 797
+last_space: 930, start: 865
+get_cursor_from_index: 333 -> 0
+get_rel_cursor: 0
+Cursor: [row: 5, column: 0]
+get_rel_cursor: 0
+last_space: 66, start: 0
+last_space: 133, start: 67
+last_space: 328, start: 272
+last_space: 390, start: 329
+last_space: 452, start: 391
+last_space: 519, start: 453
+last_space: 577, start: 520
+last_space: 645, start: 578
+last_space: 776, start: 715
+last_space: 863, start: 796
+last_space: 929, start: 864
+get_cursor_from_index: 332 -> 6
+get_rel_cursor: 6
+Cursor: [row: 5, column: 6]
+get_rel_cursor: 6
+last_space: 66, start: 0
+last_space: 133, start: 67
+last_space: 328, start: 272
+last_space: 389, start: 329
+last_space: 451, start: 390
+last_space: 518, start: 452
+last_space: 576, start: 519
+last_space: 644, start: 577
+last_space: 775, start: 714
+last_space: 862, start: 795
+last_space: 928, start: 863
+get_cursor_from_index: 331 -> 2
+get_rel_cursor: 2
+Cursor: [row: 5, column: 2]
+get_rel_cursor: 2
+Index: 331
+get_cursor_from_index: 330 -> 1
+get_rel_cursor: 1
+Cursor: [row: 5, column: 1]
+get_rel_cursor: 1
+Index: 330
+get_cursor_from_index: 329 -> 0
+get_rel_cursor: 0
+Cursor: [row: 5, column: 0]
+[BEFORE] cursor.row = 5, rows = 33, line_map = 16
+cursor incremented
+[AFTER] cursor.row = 6
+get_rel_cursor: 0
+Cursor: [row: 6, column: 0]
+[BEFORE] cursor.row = 6, rows = 33, line_map = 16
+cursor incremented
+[AFTER] cursor.row = 7
+get_rel_cursor: 0
+Cursor: [row: 7, column: 0]
+[BEFORE] cursor.row = 7, rows = 33, line_map = 16
+cursor incremented
+[AFTER] cursor.row = 8
+get_rel_cursor: 0
+Cursor: [row: 8, column: 0]
+[BEFORE] cursor.row = 8, rows = 33, line_map = 16
+cursor incremented
+[AFTER] cursor.row = 9
+get_rel_cursor: 0
+Cursor: [row: 9, column: 0]
+get_rel_cursor: 0
+last_space: 66, start: 0
+last_space: 133, start: 67
+last_space: 328, start: 272
+last_space: 389, start: 329
+last_space: 451, start: 390
+last_space: 518, start: 452
+last_space: 576, start: 519
+last_space: 637, start: 577
+last_space: 771, start: 707
+last_space: 863, start: 796
+last_space: 929, start: 864
+get_cursor_from_index: 578 -> 4
+get_rel_cursor: 4
+Cursor: [row: 9, column: 4]
+get_rel_cursor: 4
+last_space: 66, start: 0
+last_space: 133, start: 67
+last_space: 328, start: 272
+last_space: 389, start: 329
+last_space: 451, start: 390
+last_space: 518, start: 452
+last_space: 576, start: 519
+last_space: 638, start: 577
+last_space: 772, start: 708
+last_space: 864, start: 797
+last_space: 930, start: 865
+get_cursor_from_index: 579 -> 8
+get_rel_cursor: 8
+Cursor: [row: 9, column: 8]
+get_rel_cursor: 8
+last_space: 66, start: 0
+last_space: 133, start: 67
+last_space: 328, start: 272
+last_space: 389, start: 329
+last_space: 451, start: 390
+last_space: 518, start: 452
+last_space: 148, start: 76
+last_space: 218, start: 149
+last_space: 293, start: 219
+last_space: 366, start: 294
+last_space: 441, start: 367
+last_space: 510, start: 442
+last_space: 576, start: 511
+last_space: 648, start: 577
+last_space: 864, start: 795
+last_space: 938, start: 865
+get_rel_cursor: 0
+Cursor: [row: 0, column: 0]
+[BEFORE] cursor.row = 0, rows = 20, line_map = 14
+cursor incremented
+[AFTER] cursor.row = 1
+get_rel_cursor: 0
+Cursor: [row: 1, column: 0]
+[BEFORE] cursor.row = 1, rows = 20, line_map = 14
+cursor incremented
+[AFTER] cursor.row = 2
+get_rel_cursor: 0
+Cursor: [row: 2, column: 0]
+[BEFORE] cursor.row = 2, rows = 20, line_map = 14
+cursor incremented
+[AFTER] cursor.row = 3
+get_rel_cursor: 0
+Cursor: [row: 3, column: 0]
+get_rel_cursor: 0
+Index: 219
+get_cursor_from_index: 220 -> 1
+get_rel_cursor: 1
+Cursor: [row: 3, column: 1]
+[BEFORE] cursor.row = 3, rows = 20, line_map = 14
+cursor incremented
+[AFTER] cursor.row = 4
+get_rel_cursor: 1
+Cursor: [row: 4, column: 1]
+get_rel_cursor: 1
+Index: 295
+get_cursor_from_index: 296 -> 2
+get_rel_cursor: 2
+Cursor: [row: 4, column: 2]
+[BEFORE] cursor.row = 4, rows = 20, line_map = 14
+cursor incremented
+[AFTER] cursor.row = 5
+get_rel_cursor: 2
+Cursor: [row: 5, column: 2]
+get_rel_cursor: 2
+Index: 369
+get_cursor_from_index: 370 -> 3
+get_rel_cursor: 3
+Cursor: [row: 5, column: 3]
+[BEFORE] cursor.row = 5, rows = 20, line_map = 14
+cursor incremented
+[AFTER] cursor.row = 6
+get_rel_cursor: 3
+Cursor: [row: 6, column: 3]
+get_rel_cursor: 3
+Cursor: [row: 5, column: 3]
+[BEFORE] cursor.row = 5, rows = 20, line_map = 14
+cursor incremented
+[AFTER] cursor.row = 6
+get_rel_cursor: 3
+Cursor: [row: 6, column: 3]
+get_rel_cursor: 3
+Index: 445
+get_cursor_from_index: 444 -> 2
+get_rel_cursor: 2
+Cursor: [row: 6, column: 2]
+get_rel_cursor: 2
+Index: 444
+get_cursor_from_index: 443 -> 1
+get_rel_cursor: 1
+Cursor: [row: 6, column: 1]
+get_rel_cursor: 1
+Index: 443
+get_cursor_from_index: 442 -> 0
+get_rel_cursor: 0
+Cursor: [row: 6, column: 0]
+get_rel_cursor: 0
+last_space: 148, start: 76
+last_space: 218, start: 149
+last_space: 293, start: 219
+last_space: 366, start: 294
+last_space: 148, start: 76
+last_space: 218, start: 149
+last_space: 293, start: 219
+last_space: 366, start: 294
+last_space: 441, start: 367
+last_space: 510, start: 442
+last_space: 576, start: 511
+last_space: 648, start: 577
+last_space: 864, start: 795
+last_space: 938, start: 865
+[AFTER] cursor.row = 1
+[AFTER] cursor.row = 2
+[AFTER] cursor.row = 3
+[AFTER] cursor.row = 4
+[AFTER] cursor.row = 5
+[AFTER] cursor.row = 6
+[AFTER] cursor.row = 7
+[AFTER] cursor.row = 8
+[AFTER] cursor.row = 9
+[AFTER] cursor.row = 10
+last_space: 148, start: 76
+last_space: 218, start: 149
+last_space: 293, start: 219
+last_space: 366, start: 294
+last_space: 441, start: 367
+last_space: 510, start: 442
+last_space: 576, start: 511
+last_space: 648, start: 577
+last_space: 865, start: 796
+last_space: 939, start: 866
+last_space: 148, start: 76
+last_space: 218, start: 149
+last_space: 293, start: 219
+last_space: 366, start: 294
+last_space: 441, start: 367
+last_space: 510, start: 442
+last_space: 576, start: 511
+last_space: 648, start: 577
+last_space: 864, start: 795
+last_space: 938, start: 865
+last_space: 148, start: 76
+last_space: 218, start: 149
+last_space: 293, start: 219
+last_space: 366, start: 294
+last_space: 441, start: 367
+last_space: 510, start: 442
+last_space: 576, start: 511
+last_space: 648, start: 577
+last_space: 865, start: 796
+last_space: 939, start: 866
+last_space: 148, start: 76
+last_space: 218, start: 149
+last_space: 293, start: 219
+last_space: 366, start: 294
+last_space: 441, start: 367
+last_space: 510, start: 442
+last_space: 576, start: 511
+last_space: 648, start: 577
+last_space: 866, start: 797
+last_space: 940, start: 867
+last_space: 148, start: 76
+last_space: 218, start: 149
+last_space: 293, start: 219
+last_space: 366, start: 294
+last_space: 441, start: 367
+last_space: 510, start: 442
+last_space: 576, start: 511
+last_space: 648, start: 577
+last_space: 865, start: 796
+last_space: 939, start: 866
+last_space: 148, start: 76
+last_space: 218, start: 149
+last_space: 293, start: 219
+last_space: 366, start: 294
+last_space: 441, start: 367
+last_space: 510, start: 442
+last_space: 576, start: 511
+last_space: 648, start: 577
+last_space: 864, start: 795
+last_space: 938, start: 865
+start: 148, last_space: 76
+-------------------------
+start: 218, last_space: 149
+-------------------------
+start: 293, last_space: 219
+-------------------------
+start: 366, last_space: 294
+-------------------------
+start: 441, last_space: 367
+-------------------------
+start: 510, last_space: 442
+-------------------------
+start: 576, last_space: 511
+-------------------------
+start: 648, last_space: 577
+-------------------------
+start: 864, last_space: 795
+-------------------------
+start: 938, last_space: 865
+-------------------------
+[AFTER] cursor.row = 1
+[AFTER] cursor.row = 2
+[AFTER] cursor.row = 3
+start: 148, last_space: 76
+-------------------------
+start: 218, last_space: 149
+-------------------------
+start: 442, last_space: 368
+-------------------------
+start: 511, last_space: 443
+-------------------------
+start: 577, last_space: 512
+-------------------------
+start: 649, last_space: 578
+-------------------------
+start: 865, last_space: 796
+-------------------------
+start: 939, last_space: 866
+-------------------------
+start: 148, last_space: 76
+-------------------------
+start: 218, last_space: 149
+-------------------------
+start: 293, last_space: 219
+-------------------------
+start: 366, last_space: 294
+-------------------------
+start: 441, last_space: 367
+-------------------------
+start: 510, last_space: 442
+-------------------------
+start: 576, last_space: 511
+-------------------------
+start: 648, last_space: 577
+-------------------------
+start: 864, last_space: 795
+-------------------------
+start: 938, last_space: 865
+-------------------------
+[AFTER] cursor.row = 4
+[AFTER] cursor.row = 5
+[AFTER] cursor.row = 6
+[AFTER] cursor.row = 7
+[AFTER] cursor.row = 8
+start: 148, last_space: 76
+-------------------------
+start: 218, last_space: 149
+-------------------------
+start: 293, last_space: 219
+-------------------------
+start: 366, last_space: 294
+-------------------------
+start: 441, last_space: 367
+-------------------------
+start: 510, last_space: 442
+-------------------------
+start: 576, last_space: 511
+-------------------------
+start: 865, last_space: 796
+-------------------------
+start: 939, last_space: 866
+-------------------------
+start: 148, last_space: 76
+-------------------------
+start: 218, last_space: 149
+-------------------------
+start: 293, last_space: 219
+-------------------------
+start: 366, last_space: 294
+-------------------------
+start: 441, last_space: 367
+-------------------------
+start: 510, last_space: 442
+-------------------------
+start: 576, last_space: 511
+-------------------------
+start: 648, last_space: 577
+-------------------------
+start: 864, last_space: 795
+-------------------------
+start: 938, last_space: 865
+-------------------------
+[AFTER] cursor.row = 9
+start: 148, last_space: 76
+-------------------------
+start: 218, last_space: 149
+-------------------------
+start: 293, last_space: 219
+-------------------------
+start: 366, last_space: 294
+-------------------------
+start: 441, last_space: 367
+-------------------------
+start: 510, last_space: 442
+-------------------------
+start: 576, last_space: 511
+-------------------------
+start: 648, last_space: 577
+-------------------------
+start: 714, last_space: 649
+-------------------------
+start: 786, last_space: 715
+-------------------------
+start: 865, last_space: 796
+-------------------------
+start: 939, last_space: 866
+-------------------------
+start: 148, last_space: 76
+-------------------------
+start: 218, last_space: 149
+-------------------------
+start: 293, last_space: 219
+-------------------------
+start: 366, last_space: 294
+-------------------------
+start: 441, last_space: 367
+-------------------------
+start: 510, last_space: 442
+-------------------------
+start: 576, last_space: 511
+-------------------------
+start: 648, last_space: 577
+-------------------------
+start: 864, last_space: 795
+-------------------------
+start: 938, last_space: 865
+-------------------------
+[AFTER] cursor.row = 10
+start: 148, last_space: 76
+-------------------------
+start: 218, last_space: 149
+-------------------------
+start: 293, last_space: 219
+-------------------------
+start: 366, last_space: 294
+-------------------------
+start: 441, last_space: 367
+-------------------------
+start: 510, last_space: 442
+-------------------------
+start: 576, last_space: 511
+-------------------------
+start: 648, last_space: 577
+-------------------------
+start: 865, last_space: 796
+-------------------------
+start: 939, last_space: 866
+-------------------------
+start: 148, last_space: 76
+-------------------------
+start: 218, last_space: 149
+-------------------------
+start: 293, last_space: 219
+-------------------------
+start: 366, last_space: 294
+-------------------------
+start: 441, last_space: 367
+-------------------------
+start: 510, last_space: 442
+-------------------------
+start: 576, last_space: 511
+-------------------------
+start: 648, last_space: 577
+-------------------------
+start: 864, last_space: 795
+-------------------------
+start: 938, last_space: 865
+-------------------------
+[AFTER] cursor.row = 11
+start: 148, last_space: 76
+-------------------------
+start: 218, last_space: 149
+-------------------------
+start: 293, last_space: 219
+-------------------------
+start: 366, last_space: 294
+-------------------------
+start: 441, last_space: 367
+-------------------------
+start: 510, last_space: 442
+-------------------------
+start: 576, last_space: 511
+-------------------------
+start: 648, last_space: 577
+-------------------------
+start: 865, last_space: 795
+-------------------------
+start: 939, last_space: 866
+-------------------------
+start: 148, last_space: 76
+-------------------------
+start: 218, last_space: 149
+-------------------------
+start: 293, last_space: 219
+-------------------------
+start: 366, last_space: 294
+-------------------------
+start: 441, last_space: 367
+-------------------------
+start: 510, last_space: 442
+-------------------------
+start: 576, last_space: 511
+-------------------------
+start: 648, last_space: 577
+-------------------------
+start: 864, last_space: 795
+-------------------------
+start: 938, last_space: 865
+-------------------------
+[AFTER] cursor.row = 12
+start: 148, last_space: 76
+-------------------------
+start: 218, last_space: 149
+-------------------------
+start: 293, last_space: 219
+-------------------------
+start: 366, last_space: 294
+-------------------------
+start: 441, last_space: 367
+-------------------------
+start: 510, last_space: 442
+-------------------------
+start: 576, last_space: 511
+-------------------------
+start: 648, last_space: 577
+-------------------------
+start: 864, last_space: 795
+-------------------------
+start: 934, last_space: 865
+-------------------------
+start: 148, last_space: 76
+-------------------------
+start: 218, last_space: 149
+-------------------------
+start: 293, last_space: 219
+-------------------------
+start: 366, last_space: 294
+-------------------------
+start: 441, last_space: 367
+-------------------------
+start: 510, last_space: 442
+-------------------------
+start: 576, last_space: 511
+-------------------------
+start: 648, last_space: 577
+-------------------------
+start: 864, last_space: 795
+-------------------------
+start: 938, last_space: 865
+-------------------------
+start: 148, last_space: 76
+-------------------------
+start: 218, last_space: 149
+-------------------------
+start: 293, last_space: 219
+-------------------------
+start: 366, last_space: 294
+-------------------------
+start: 441, last_space: 367
+-------------------------
+start: 510, last_space: 442
+-------------------------
+start: 576, last_space: 511
+-------------------------
+start: 648, last_space: 577
+-------------------------
+start: 864, last_space: 795
+-------------------------
+start: 934, last_space: 865
+-------------------------
+start: 148, last_space: 76
+-------------------------
+start: 218, last_space: 149
+-------------------------
+start: 293, last_space: 219
+-------------------------
+start: 366, last_space: 294
+-------------------------
+start: 441, last_space: 367
+-------------------------
+start: 510, last_space: 442
+-------------------------
+start: 576, last_space: 511
+-------------------------
+start: 648, last_space: 577
+-------------------------
+start: 864, last_space: 795
+-------------------------
+start: 938, last_space: 865
+-------------------------
+[AFTER] cursor.row = 7
+start: 148, last_space: 76
+-------------------------
+start: 218, last_space: 149
+-------------------------
+start: 293, last_space: 219
+-------------------------
+start: 366, last_space: 294
+-------------------------
+start: 441, last_space: 367
+-------------------------
+start: 510, last_space: 442
+-------------------------
+start: 577, last_space: 511
+-------------------------
+start: 649, last_space: 578
+-------------------------
+start: 865, last_space: 796
+-------------------------
+start: 939, last_space: 866
+-------------------------
+start: 148, last_space: 76
+-------------------------
+start: 218, last_space: 149
+-------------------------
+start: 293, last_space: 219
+-------------------------
+start: 366, last_space: 294
+-------------------------
+start: 441, last_space: 367
+-------------------------
+start: 510, last_space: 442
+-------------------------
+start: 576, last_space: 511
+-------------------------
+start: 648, last_space: 577
+-------------------------
+start: 864, last_space: 795
+-------------------------
+start: 938, last_space: 865
+-------------------------
+start: 148, last_space: 76
+-------------------------
+start: 218, last_space: 149
+-------------------------
+start: 293, last_space: 219
+-------------------------
+start: 366, last_space: 294
+-------------------------
+start: 148, last_space: 76
+-------------------------
+start: 218, last_space: 149
+-------------------------
+start: 293, last_space: 219
+-------------------------
+start: 366, last_space: 294
+-------------------------
+start: 441, last_space: 367
+-------------------------
+start: 510, last_space: 442
+-------------------------
+start: 576, last_space: 511
+-------------------------
+start: 648, last_space: 577
+-------------------------
+start: 864, last_space: 795
+-------------------------
+start: 938, last_space: 865
+-------------------------
+[AFTER] cursor.row = 1
+[AFTER] cursor.row = 2
+[AFTER] cursor.row = 3
+[AFTER] cursor.row = 4
+[AFTER] cursor.row = 5
+start: 148, last_space: 76
+-------------------------
+start: 218, last_space: 149
+-------------------------
+start: 293, last_space: 219
+-------------------------
+start: 148, last_space: 76
+-------------------------
+start: 218, last_space: 149
+-------------------------
+start: 293, last_space: 219
+-------------------------
+start: 366, last_space: 294
+-------------------------
+start: 441, last_space: 367
+-------------------------
+start: 510, last_space: 442
+-------------------------
+start: 576, last_space: 511
+-------------------------
+start: 648, last_space: 577
+-------------------------
+start: 864, last_space: 795
+-------------------------
+start: 938, last_space: 865
+-------------------------
+[AFTER] cursor.row = 1
+[AFTER] cursor.row = 2
+[AFTER] cursor.row = 3
+[AFTER] cursor.row = 4
+start: 148, last_space: 76
+-------------------------
+start: 218, last_space: 149
+-------------------------
+start: 148, last_space: 76
+-------------------------
+start: 218, last_space: 149
+-------------------------
+start: 293, last_space: 219
+-------------------------
+start: 366, last_space: 294
+-------------------------
+start: 441, last_space: 367
+-------------------------
+start: 510, last_space: 442
+-------------------------
+start: 576, last_space: 511
+-------------------------
+start: 648, last_space: 577
+-------------------------
+start: 864, last_space: 795
+-------------------------
+start: 938, last_space: 865
+-------------------------
+[AFTER] cursor.row = 1
+[AFTER] cursor.row = 2
+[AFTER] cursor.row = 3
+start: 148, last_space: 76
+-------------------------
+start: 218, last_space: 149
+-------------------------
+start: 442, last_space: 368
+-------------------------
+start: 511, last_space: 443
+-------------------------
+start: 577, last_space: 512
+-------------------------
+start: 649, last_space: 578
+-------------------------
+start: 865, last_space: 796
+-------------------------
+start: 939, last_space: 866
+-------------------------
+start: 148, last_space: 76
+-------------------------
+start: 218, last_space: 149
+-------------------------
+start: 293, last_space: 219
+-------------------------
+start: 366, last_space: 294
+-------------------------
+start: 441, last_space: 367
+-------------------------
+start: 510, last_space: 442
+-------------------------
+start: 576, last_space: 511
+-------------------------
+start: 648, last_space: 577
+-------------------------
+start: 864, last_space: 795
+-------------------------
+start: 938, last_space: 865
+-------------------------
+[AFTER] cursor.row = 4
+[AFTER] cursor.row = 5
+[AFTER] cursor.row = 6
+start: 148, last_space: 76
+-------------------------
+start: 218, last_space: 149
+-------------------------
+start: 293, last_space: 219
+-------------------------
+start: 366, last_space: 294
+-------------------------
+start: 148, last_space: 76
+-------------------------
+start: 218, last_space: 149
+-------------------------
+start: 293, last_space: 219
+-------------------------
+start: 366, last_space: 294
+-------------------------
+start: 441, last_space: 367
+-------------------------
+start: 510, last_space: 442
+-------------------------
+start: 576, last_space: 511
+-------------------------
+start: 648, last_space: 577
+-------------------------
+start: 864, last_space: 795
+-------------------------
+start: 938, last_space: 865
+-------------------------
+[AFTER] cursor.row = 1
+[AFTER] cursor.row = 2
+[AFTER] cursor.row = 3
+[AFTER] cursor.row = 4
+[AFTER] cursor.row = 5
+[AFTER] cursor.row = 6
+[AFTER] cursor.row = 7
+start: 148, last_space: 76
+-------------------------
+start: 218, last_space: 149
+-------------------------
+start: 293, last_space: 219
+-------------------------
+start: 366, last_space: 294
+-------------------------
+start: 441, last_space: 367
+-------------------------
+start: 510, last_space: 442
+-------------------------
+start: 577, last_space: 511
+-------------------------
+start: 649, last_space: 578
+-------------------------
+start: 865, last_space: 796
+-------------------------
+start: 939, last_space: 866
+-------------------------
+start: 148, last_space: 76
+-------------------------
+start: 218, last_space: 149
+-------------------------
+start: 293, last_space: 219
+-------------------------
+start: 366, last_space: 294
+-------------------------
+start: 441, last_space: 367
+-------------------------
+start: 510, last_space: 442
+-------------------------
+start: 576, last_space: 511
+-------------------------
+start: 648, last_space: 577
+-------------------------
+start: 864, last_space: 795
+-------------------------
+start: 938, last_space: 865
+-------------------------
+start: 148, last_space: 76
+-------------------------
+start: 218, last_space: 149
+-------------------------
+start: 293, last_space: 219
+-------------------------
+start: 148, last_space: 76
+-------------------------
+start: 218, last_space: 149
+-------------------------
+start: 293, last_space: 219
+-------------------------
+start: 366, last_space: 294
+-------------------------
+start: 441, last_space: 367
+-------------------------
+start: 510, last_space: 442
+-------------------------
+start: 576, last_space: 511
+-------------------------
+start: 648, last_space: 577
+-------------------------
+start: 864, last_space: 795
+-------------------------
+start: 938, last_space: 865
+-------------------------
+[AFTER] cursor.row = 1
+[AFTER] cursor.row = 2
+[AFTER] cursor.row = 3
+[AFTER] cursor.row = 4
+[AFTER] cursor.row = 5
+[AFTER] cursor.row = 6
+start: 148, last_space: 76
+-------------------------
+start: 218, last_space: 149
+-------------------------
+start: 442, last_space: 368
+-------------------------
+start: 511, last_space: 443
+-------------------------
+start: 577, last_space: 512
+-------------------------
+start: 649, last_space: 578
+-------------------------
+start: 865, last_space: 796
+-------------------------
+start: 939, last_space: 866
+-------------------------
+start: 148, last_space: 76
+-------------------------
+start: 218, last_space: 149
+-------------------------
+start: 293, last_space: 219
+-------------------------
+start: 366, last_space: 294
+-------------------------
+start: 441, last_space: 367
+-------------------------
+start: 510, last_space: 442
+-------------------------
+start: 576, last_space: 511
+-------------------------
+start: 648, last_space: 577
+-------------------------
+start: 864, last_space: 795
+-------------------------
+start: 938, last_space: 865
+-------------------------
+[AFTER] cursor.row = 4
+[AFTER] cursor.row = 5
+[AFTER] cursor.row = 5
+[AFTER] cursor.row = 6
+[AFTER] cursor.row = 5
+[AFTER] cursor.row = 6
+[AFTER] cursor.row = 7
+[AFTER] cursor.row = 8
+start: 148, last_space: 76
+-------------------------
+start: 218, last_space: 149
+-------------------------
+start: 293, last_space: 219
+-------------------------
+start: 366, last_space: 294
+-------------------------
+start: 0, limit: 76
+-------------------------
+start: 76, limit: 76
+-------------------------
+start: 76, last_space: 148
+-------------------------
+start: 149, limit: 76
+-------------------------
+start: 149, last_space: 218
+-------------------------
+start: 219, limit: 76
+-------------------------
+start: 219, last_space: 293
+-------------------------
+start: 294, limit: 76
+-------------------------
+start: 294, last_space: 366
+-------------------------
+start: 367, limit: 76
+-------------------------
+start: 367, last_space: 441
+-------------------------
+start: 442, limit: 76
+-------------------------
+start: 442, last_space: 510
+-------------------------
+start: 511, limit: 76
+-------------------------
+start: 511, last_space: 576
+-------------------------
+start: 577, limit: 76
+-------------------------
+start: 577, last_space: 648
+-------------------------
+start: 649, limit: 76
+-------------------------
+start: 725, limit: 76
+-------------------------
+start: 795, limit: 76
+-------------------------
+start: 795, last_space: 864
+-------------------------
+start: 865, limit: 76
+-------------------------
+start: 865, last_space: 938
+-------------------------
+start: 939, limit: 76
+-------------------------
+[AFTER] cursor.row = 1
+[AFTER] cursor.row = 2
+[AFTER] cursor.row = 3
+[AFTER] cursor.row = 4
+start: 0, limit: 76
+-------------------------
+start: 76, limit: 76
+-------------------------
+start: 76, last_space: 148
+-------------------------
+start: 149, limit: 76
+-------------------------
+start: 149, last_space: 218
+-------------------------
+start: 219, limit: 76
+-------------------------
+start: 0, limit: 76
+-------------------------
+start: 76, limit: 76
+-------------------------
+start: 76, last_space: 148
+-------------------------
+start: 149, limit: 76
+-------------------------
+start: 149, last_space: 218
+-------------------------
+start: 219, limit: 76
+-------------------------
+start: 219, last_space: 293
+-------------------------
+start: 294, limit: 76
+-------------------------
+start: 294, last_space: 366
+-------------------------
+start: 367, limit: 76
+-------------------------
+start: 367, last_space: 441
+-------------------------
+start: 442, limit: 76
+-------------------------
+start: 442, last_space: 510
+-------------------------
+start: 511, limit: 76
+-------------------------
+start: 511, last_space: 576
+-------------------------
+start: 577, limit: 76
+-------------------------
+start: 577, last_space: 648
+-------------------------
+start: 649, limit: 76
+-------------------------
+start: 725, limit: 76
+-------------------------
+start: 795, limit: 76
+-------------------------
+start: 795, last_space: 864
+-------------------------
+start: 865, limit: 76
+-------------------------
+start: 865, last_space: 938
+-------------------------
+start: 939, limit: 76
+-------------------------
+[AFTER] cursor.row = 1
+start: 0, limit: 76
+-------------------------
+start: 76, limit: 76
+-------------------------
+start: 77, limit: 76
+-------------------------
+start: 77, last_space: 149
+-------------------------
+start: 150, limit: 76
+-------------------------
+start: 150, last_space: 219
+-------------------------
+start: 220, limit: 76
+-------------------------
+start: 220, last_space: 294
+-------------------------
+start: 295, limit: 76
+-------------------------
+start: 295, last_space: 367
+-------------------------
+start: 368, limit: 76
+-------------------------
+start: 368, last_space: 442
+-------------------------
+start: 443, limit: 76
+-------------------------
+start: 443, last_space: 511
+-------------------------
+start: 512, limit: 76
+-------------------------
+start: 512, last_space: 577
+-------------------------
+start: 578, limit: 76
+-------------------------
+start: 578, last_space: 649
+-------------------------
+start: 650, limit: 76
+-------------------------
+start: 726, limit: 76
+-------------------------
+start: 796, limit: 76
+-------------------------
+start: 796, last_space: 865
+-------------------------
+start: 866, limit: 76
+-------------------------
+start: 866, last_space: 939
+-------------------------
+start: 940, limit: 76
+-------------------------
+start: 0, limit: 76
+-------------------------
+start: 76, limit: 76
+-------------------------
+start: 76, last_space: 148
+-------------------------
+start: 149, limit: 76
+-------------------------
+start: 149, last_space: 218
+-------------------------
+start: 219, limit: 76
+-------------------------
+start: 219, last_space: 293
+-------------------------
+start: 294, limit: 76
+-------------------------
+start: 294, last_space: 366
+-------------------------
+start: 367, limit: 76
+-------------------------
+start: 367, last_space: 441
+-------------------------
+start: 442, limit: 76
+-------------------------
+start: 442, last_space: 510
+-------------------------
+start: 511, limit: 76
+-------------------------
+start: 511, last_space: 576
+-------------------------
+start: 577, limit: 76
+-------------------------
+start: 577, last_space: 648
+-------------------------
+start: 649, limit: 76
+-------------------------
+start: 725, limit: 76
+-------------------------
+start: 795, limit: 76
+-------------------------
+start: 795, last_space: 864
+-------------------------
+start: 865, limit: 76
+-------------------------
+start: 865, last_space: 938
+-------------------------
+start: 939, limit: 76
+-------------------------
+start: 0, limit: 76
+-------------------------
+start: 76, limit: 76
+-------------------------
+start: 76, last_space: 145
+-------------------------
+start: 146, limit: 76
+-------------------------
+start: 146, last_space: 219
+-------------------------
+start: 220, limit: 76
+-------------------------
+start: 220, last_space: 294
+-------------------------
+start: 295, limit: 76
+-------------------------
+start: 295, last_space: 367
+-------------------------
+start: 368, limit: 76
+-------------------------
+start: 368, last_space: 442
+-------------------------
+start: 443, limit: 76
+-------------------------
+start: 443, last_space: 511
+-------------------------
+start: 512, limit: 76
+-------------------------
+start: 512, last_space: 577
+-------------------------
+start: 578, limit: 76
+-------------------------
+start: 578, last_space: 649
+-------------------------
+start: 650, limit: 76
+-------------------------
+start: 726, limit: 76
+-------------------------
+start: 796, limit: 76
+-------------------------
+start: 796, last_space: 865
+-------------------------
+start: 866, limit: 76
+-------------------------
+start: 866, last_space: 939
+-------------------------
+start: 940, limit: 76
+-------------------------
+start: 0, limit: 76
+-------------------------
+start: 76, limit: 76
+-------------------------
+start: 76, last_space: 148
+-------------------------
+start: 149, limit: 76
+-------------------------
+start: 149, last_space: 218
+-------------------------
+start: 219, limit: 76
+-------------------------
+start: 219, last_space: 293
+-------------------------
+start: 294, limit: 76
+-------------------------
+start: 294, last_space: 366
+-------------------------
+start: 367, limit: 76
+-------------------------
+start: 367, last_space: 441
+-------------------------
+start: 442, limit: 76
+-------------------------
+start: 442, last_space: 510
+-------------------------
+start: 511, limit: 76
+-------------------------
+start: 511, last_space: 576
+-------------------------
+start: 577, limit: 76
+-------------------------
+start: 577, last_space: 648
+-------------------------
+start: 649, limit: 76
+-------------------------
+start: 725, limit: 76
+-------------------------
+start: 795, limit: 76
+-------------------------
+start: 795, last_space: 864
+-------------------------
+start: 865, limit: 76
+-------------------------
+start: 865, last_space: 938
+-------------------------
+start: 939, limit: 76
+-------------------------
+[AFTER] cursor.row = 2
+[AFTER] cursor.row = 3
+start: 0, limit: 76
+-------------------------
+start: 76, limit: 76
+-------------------------
+start: 76, last_space: 148
+-------------------------
+start: 149, limit: 76
+-------------------------
+start: 149, last_space: 218
+-------------------------
+start: 219, limit: 76
+-------------------------
+start: 292, limit: 76
+-------------------------
+start: 368, limit: 76
+-------------------------
+start: 368, last_space: 442
+-------------------------
+start: 443, limit: 76
+-------------------------
+start: 443, last_space: 511
+-------------------------
+start: 512, limit: 76
+-------------------------
+start: 512, last_space: 577
+-------------------------
+start: 578, limit: 76
+-------------------------
+start: 578, last_space: 649
+-------------------------
+start: 650, limit: 76
+-------------------------
+start: 726, limit: 76
+-------------------------
+start: 796, limit: 76
+-------------------------
+start: 796, last_space: 865
+-------------------------
+start: 866, limit: 76
+-------------------------
+start: 866, last_space: 939
+-------------------------
+start: 940, limit: 76
+-------------------------
+start: 0, limit: 76
+-------------------------
+start: 76, limit: 76
+-------------------------
+start: 76, last_space: 148
+-------------------------
+start: 149, limit: 76
+-------------------------
+start: 149, last_space: 218
+-------------------------
+start: 219, limit: 76
+-------------------------
+start: 219, last_space: 293
+-------------------------
+start: 294, limit: 76
+-------------------------
+start: 294, last_space: 366
+-------------------------
+start: 367, limit: 76
+-------------------------
+start: 367, last_space: 441
+-------------------------
+start: 442, limit: 76
+-------------------------
+start: 442, last_space: 510
+-------------------------
+start: 511, limit: 76
+-------------------------
+start: 511, last_space: 576
+-------------------------
+start: 577, limit: 76
+-------------------------
+start: 577, last_space: 648
+-------------------------
+start: 649, limit: 76
+-------------------------
+start: 725, limit: 76
+-------------------------
+start: 795, limit: 76
+-------------------------
+start: 795, last_space: 864
+-------------------------
+start: 865, limit: 76
+-------------------------
+start: 865, last_space: 938
+-------------------------
+start: 939, limit: 76
+-------------------------
+[AFTER] cursor.row = 4
+start: 0, limit: 76
+-------------------------
+start: 76, limit: 76
+-------------------------
+start: 76, last_space: 148
+-------------------------
+start: 149, limit: 76
+-------------------------
+start: 149, last_space: 218
+-------------------------
+start: 219, limit: 76
+-------------------------
+start: 0, limit: 76
+-------------------------
+start: 76, limit: 76
+-------------------------
+start: 76, last_space: 148
+-------------------------
+start: 149, limit: 76
+-------------------------
+start: 149, last_space: 218
+-------------------------
+start: 219, limit: 76
+-------------------------
+start: 219, last_space: 293
+-------------------------
+start: 294, limit: 76
+-------------------------
+start: 294, last_space: 366
+-------------------------
+start: 367, limit: 76
+-------------------------
+start: 367, last_space: 441
+-------------------------
+start: 442, limit: 76
+-------------------------
+start: 442, last_space: 510
+-------------------------
+start: 511, limit: 76
+-------------------------
+start: 511, last_space: 576
+-------------------------
+start: 577, limit: 76
+-------------------------
+start: 577, last_space: 648
+-------------------------
+start: 649, limit: 76
+-------------------------
+start: 725, limit: 76
+-------------------------
+start: 795, limit: 76
+-------------------------
+start: 795, last_space: 864
+-------------------------
+start: 865, limit: 76
+-------------------------
+start: 865, last_space: 938
+-------------------------
+start: 939, limit: 76
+-------------------------
+[AFTER] cursor.row = 1
+[AFTER] cursor.row = 2
+[AFTER] cursor.row = 3
+[AFTER] cursor.row = 4
+start: 0, limit: 76
+-------------------------
+start: 76, limit: 76
+-------------------------
+start: 76, last_space: 148
+-------------------------
+start: 149, limit: 76
+-------------------------
+start: 149, last_space: 218
+-------------------------
+start: 219, limit: 76
+-------------------------
+start: 0, limit: 76
+-------------------------
+start: 76, limit: 76
+-------------------------
+start: 76, last_space: 148
+-------------------------
+start: 149, limit: 76
+-------------------------
+start: 149, last_space: 218
+-------------------------
+start: 219, limit: 76
+-------------------------
+start: 219, last_space: 293
+-------------------------
+start: 294, limit: 76
+-------------------------
+start: 294, last_space: 366
+-------------------------
+start: 367, limit: 76
+-------------------------
+start: 367, last_space: 441
+-------------------------
+start: 442, limit: 76
+-------------------------
+start: 442, last_space: 510
+-------------------------
+start: 511, limit: 76
+-------------------------
+start: 511, last_space: 576
+-------------------------
+start: 577, limit: 76
+-------------------------
+start: 577, last_space: 648
+-------------------------
+start: 649, limit: 76
+-------------------------
+start: 725, limit: 76
+-------------------------
+start: 795, limit: 76
+-------------------------
+start: 795, last_space: 864
+-------------------------
+start: 865, limit: 76
+-------------------------
+start: 865, last_space: 938
+-------------------------
+start: 939, limit: 76
+-------------------------
+[AFTER] cursor.row = 1
+[AFTER] cursor.row = 2
+start: 0, limit: 76
+-------------------------
+start: 76, limit: 76
+-------------------------
+start: 76, last_space: 148
+-------------------------
+start: 149, limit: 76
+-------------------------
+start: 149, last_space: 219
+-------------------------
+start: 220, limit: 76
+-------------------------
+start: 220, last_space: 294
+-------------------------
+start: 295, limit: 76
+-------------------------
+start: 295, last_space: 367
+-------------------------
+start: 368, limit: 76
+-------------------------
+start: 368, last_space: 442
+-------------------------
+start: 443, limit: 76
+-------------------------
+start: 443, last_space: 511
+-------------------------
+start: 512, limit: 76
+-------------------------
+start: 512, last_space: 577
+-------------------------
+start: 578, limit: 76
+-------------------------
+start: 578, last_space: 649
+-------------------------
+start: 650, limit: 76
+-------------------------
+start: 726, limit: 76
+-------------------------
+start: 796, limit: 76
+-------------------------
+start: 796, last_space: 865
+-------------------------
+start: 866, limit: 76
+-------------------------
+start: 866, last_space: 939
+-------------------------
+start: 940, limit: 76
+-------------------------
+start: 0, limit: 76
+-------------------------
+start: 76, limit: 76
+-------------------------
+start: 76, last_space: 148
+-------------------------
+start: 149, limit: 76
+-------------------------
+start: 149, last_space: 218
+-------------------------
+start: 219, limit: 76
+-------------------------
+start: 219, last_space: 293
+-------------------------
+start: 294, limit: 76
+-------------------------
+start: 294, last_space: 366
+-------------------------
+start: 367, limit: 76
+-------------------------
+start: 367, last_space: 441
+-------------------------
+start: 442, limit: 76
+-------------------------
+start: 442, last_space: 510
+-------------------------
+start: 511, limit: 76
+-------------------------
+start: 511, last_space: 576
+-------------------------
+start: 577, limit: 76
+-------------------------
+start: 577, last_space: 648
+-------------------------
+start: 649, limit: 76
+-------------------------
+start: 725, limit: 76
+-------------------------
+start: 795, limit: 76
+-------------------------
+start: 795, last_space: 864
+-------------------------
+start: 865, limit: 76
+-------------------------
+start: 865, last_space: 938
+-------------------------
+start: 939, limit: 76
+-------------------------
+start: 0, limit: 76
+-------------------------
+start: 76, limit: 76
+-------------------------
+start: 76, last_space: 148
+-------------------------
+start: 149, limit: 76
+-------------------------
+start: 149, last_space: 219
+-------------------------
+start: 220, limit: 76
+-------------------------
+start: 220, last_space: 294
+-------------------------
+start: 295, limit: 76
+-------------------------
+start: 295, last_space: 367
+-------------------------
+start: 368, limit: 76
+-------------------------
+start: 368, last_space: 442
+-------------------------
+start: 443, limit: 76
+-------------------------
+start: 443, last_space: 511
+-------------------------
+start: 512, limit: 76
+-------------------------
+start: 512, last_space: 577
+-------------------------
+start: 578, limit: 76
+-------------------------
+start: 578, last_space: 649
+-------------------------
+start: 650, limit: 76
+-------------------------
+start: 726, limit: 76
+-------------------------
+start: 796, limit: 76
+-------------------------
+start: 796, last_space: 865
+-------------------------
+start: 866, limit: 76
+-------------------------
+start: 866, last_space: 939
+-------------------------
+start: 940, limit: 76
+-------------------------
+start: 0, limit: 76
+-------------------------
+start: 76, limit: 76
+-------------------------
+start: 76, last_space: 148
+-------------------------
+start: 149, limit: 76
+-------------------------

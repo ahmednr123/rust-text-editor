@@ -91,6 +91,8 @@ impl Editor {
     }
 
     pub fn get_line_chunk(self: &Self, start: usize, limit: u16) -> LineChunk {
+        logger::log(format!("start: {}, limit: {}", start, limit).as_str());
+        logger::log(format!("-------------------------").as_str());
         let mut last_space = 0;
 
         let mut i = start;
@@ -132,6 +134,9 @@ impl Editor {
 
         let ch = self.gap_buffer.get(i - 1).unwrap();
         if i < self.gap_buffer.len() - 1 && ch != ' ' {
+            //println!("last_space: {}, start: {}", last_space, start);
+            logger::log(format!("start: {}, last_space: {}", start, last_space).as_str());
+            logger::log(format!("-------------------------").as_str());
             return LineChunk {
                 len: (last_space - start + 1) as u16,
                 end_of_line: false,
@@ -191,7 +196,6 @@ impl Editor {
             line.len + (line.tabs.len() as u16 * 3), //tab_size - 1
         );
 
-        logger::log(format!("get_rel_cursor: {}", column).as_str());
         Cursor {
             row: self.cursor.row,
             column: self.get_tab_rectified(line, column),
@@ -245,14 +249,14 @@ impl Editor {
             found_tabs += 1;
         }
 
-        logger::log(
-            format!(
-                "get_cursor_from_index: {} -> {}",
-                index,
-                (index + (found_tabs * 3)) - line.index
-            )
-            .as_str(),
-        );
+//        logger::log(
+//            format!(
+//                "get_cursor_from_index: {} -> {}",
+//                index,
+//                (index + (found_tabs * 3)) - line.index
+//            )
+//            .as_str(),
+//        );
 
         return Cursor {
             row: (line_index - start_line) as u16,
@@ -270,13 +274,13 @@ impl Editor {
             self.cursor.row = self.editor_dim.max_rows - 2;
         }
 
-        logger::log(
-            format!(
-                "Cursor: [row: {}, column: {}]",
-                rel_cursor.row, rel_cursor.column
-            )
-            .as_str(),
-        );
+//        logger::log(
+//            format!(
+//                "Cursor: [row: {}, column: {}]",
+//                rel_cursor.row, rel_cursor.column
+//            )
+//            .as_str(),
+//        );
         execute!(
             stdout(),
             MoveTo(
@@ -294,7 +298,6 @@ impl Editor {
         match direction {
             Direction::LEFT => {
                 let index = self.get_current_index();
-                logger::log(format!("Index: {}", index).as_str());
                 if index as isize - 1 >= 0 {
                     let cur = self.get_cursor_from_index(index - 1);
                     self.cursor.row = cur.row;
@@ -307,25 +310,23 @@ impl Editor {
                     self.line_map.len() - self.line_offset,
                 );
 
-                logger::log(
-                    format!(
-                        "[BEFORE] cursor.row = {}, rows = {}, line_map = {}",
-                        self.cursor.row,
-                        self.editor_dim.max_rows,
-                        self.line_map.len()
-                    )
-                    .as_str(),
-                );
+//                logger::log(
+//                    format!(
+//                        "[BEFORE] cursor.row = {}, rows = {}, line_map = {}",
+//                        self.cursor.row,
+//                        self.editor_dim.max_rows,
+//                        self.line_map.len()
+//                    )
+//                    .as_str(),
+//                );
                 self.cursor.row = if self.cursor.row + 1 == (line_offset_max_limit as u16) {
                     if (self.line_offset + self.editor_dim.max_rows as usize) < self.line_map.len()
                     {
                         redraw_lines = true;
                         self.line_offset += 1;
-                        logger::log(format!("Line Offset incremented").as_str());
                     }
                     line_offset_max_limit as u16 - 1
                 } else {
-                    logger::log(format!("cursor incremented").as_str());
                     self.cursor.row + 1
                 };
                 logger::log(format!("[AFTER] cursor.row = {}", self.cursor.row).as_str());
@@ -343,7 +344,6 @@ impl Editor {
             }
             Direction::RIGHT => {
                 let index = self.get_current_index();
-                logger::log(format!("Index: {}", index).as_str());
                 if index < self.gap_buffer.len() {
                     let cur = self.get_cursor_from_index(index + 1);
                     self.cursor.row = cur.row;
